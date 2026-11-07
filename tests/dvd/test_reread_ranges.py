@@ -1,4 +1,6 @@
 import importlib.util
+import ctypes.util
+from unittest.mock import patch
 from pathlib import Path
 import tempfile
 import unittest
@@ -35,6 +37,7 @@ class RereadTests(unittest.TestCase):
                 mod.reread_ranges(str(disc), [{'vts': 1, 'domain': 2, 'start': 9999999, 'count': 1}], root / 'recovered')
             self.assertFalse(list((root / 'recovered').glob('*.bin')))
 
+    @unittest.skipUnless(ctypes.util.find_library("dvdcss"), "optional libdvdcss is only needed for physical-disc recovery, not owner backup conversion")
     def test_filesystem_reader_preserves_exact_range(self):
         mod = self.load()
         self.assertTrue(hasattr(mod, 'reread_file'), 'filesystem rereader is not implemented')
@@ -46,3 +49,12 @@ class RereadTests(unittest.TestCase):
             self.assertEqual(result, source.read_bytes()[2048:6144])
             with self.assertRaises(ValueError):
                 mod.reread_file(source, 9999999, 1)
+
+    def test_missing_optional_css_library_reports_clear_error(self):
+        mod = self.load()
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / 'sample.VOB'
+            source.write_bytes(bytes(4096))
+            with patch.object(mod.ctypes.util, 'find_library', return_value=None):
+                with self.assertRaisesRegex(RuntimeError, 'libdvdcss is required'):
+                    mod.reread_file(source, 0, 1)

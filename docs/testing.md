@@ -60,3 +60,8 @@ browsers with `cd app && npx playwright install`; set `BTG_CHROME_PATH` if you p
 `deployment.spec.ts` for the content-addressed hosting package. Enable the
 optional WebKit project with `GAME_WEBKIT=1`. Long games can take an hour; disable
 tracing for extended runs to avoid large recordings.
+
+The historical filesystem-sector recovery test additionally needs optional
+`libdvdcss`; it is explicitly skipped when that library is absent. Owner conversion
+uses an already readable backup and does not need it. Missing-library error handling
+remains covered without that dependency.

@@ -7,6 +7,8 @@ A faithful browser port of the interactive DVD quiz game. Original video, menus,
 Holly presentations, question pools and timing drive a native React game—there is
 no DVD player or virtual machine running in the browser.
 
+**[Play online](https://red-dwarf-beat-the-geek.pages.dev/)** · [Build your own copy](docs/setup.md)
+
 ![The original four-area main menu](docs/images/main-menu.png)
 
 ## What’s playable
