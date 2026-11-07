@@ -17,6 +17,7 @@ def deployment_command(output, project):
         str(WRANGLER),
         "pages",
         "deploy",
+        "--force",
         str(Path(output).resolve()),
         "--project-name",
         project,

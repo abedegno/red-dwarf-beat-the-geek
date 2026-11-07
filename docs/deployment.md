@@ -27,10 +27,14 @@ Sign in interactively and select your account:
 ```sh
 app/node_modules/.bin/wrangler login
 app/node_modules/.bin/wrangler whoami
-app/node_modules/.bin/wrangler pages project create red-dwarf-beat-the-geek --production-branch main
+app/node_modules/.bin/wrangler pages project create red-dwarf-beat-the-geek --production-branch main --force
 python3 tools/btg.py deploy cloudflare site --project red-dwarf-beat-the-geek --dry-run
 python3 tools/btg.py deploy cloudflare site --project red-dwarf-beat-the-geek --account-id YOUR_ACCOUNT_ID
 ```
+
+The explicit `--force` selects Pages direct upload in the pinned Wrangler version;
+it bypasses automatic migration of new automated projects to Workers. The owner
+deploy command also selects this Pages-only mode.
 
 Use a project name unique to your account. If Wrangler lists multiple accounts,
 select the intended one when creating the project and pass its ID for upload.

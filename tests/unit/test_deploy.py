@@ -68,3 +68,6 @@ class DeployTests(unittest.TestCase):
                 run.call_args.kwargs["env"]["CLOUDFLARE_ACCOUNT_ID"], "a" * 32
             )
             self.assertFalse(any("TOKEN" in arg for arg in run.call_args.args[0]))
+
+    def test_deployment_explicitly_bypasses_workers_migration(self):
+        self.assertIn("--force", deployment_command(Path("/tmp/site"), "game"))
