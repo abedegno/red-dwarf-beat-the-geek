@@ -1,0 +1,17 @@
+{
+  "sourceFingerprint":"0876ff298e2cd9ba1e752370ac5e87901b79364126a5126fa0dcf7136fd02c77",
+  "levels":[
+    {"number":1,"vts":3,"selectorPgcs":{"2":92,"3":93,"4":94},"introPgc":204,"endingPgc":190,"questionCount":38,"firstQuestion":6,"lastQuestion":43},
+    {"number":2,"vts":4,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":112,"lastQuestion":149},
+    {"number":3,"vts":5,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":118,"lastQuestion":155},
+    {"number":4,"vts":6,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":118,"lastQuestion":155},
+    {"number":5,"vts":7,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":118,"lastQuestion":155},
+    {"number":6,"vts":8,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":118,"lastQuestion":155},
+    {"number":7,"vts":9,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":88,"endingPgc":74,"questionCount":38,"firstQuestion":118,"lastQuestion":155},
+    {"number":8,"vts":10,"selectorPgcs":{"2":14,"3":15,"4":16},"introPgc":86,"endingPgc":74,"questionCount":38,"firstQuestion":116,"lastQuestion":153}
+  ],
+  "route":{"vts":4,"variant":2,"candidateMask":1,"questionPgc":112},
+  "timeout":{"vts":6,"questionPgc":118,"seed":42,"durationSeconds":21.04,"candidateMask":32,"feedback":[{"vts":6,"domain":"vts-menu","pgc":244,"cell":1,"audio":0},{"vts":6,"domain":"vts-menu","pgc":120,"cell":2,"audio":0}]},
+  "loop":{"vts":4,"questionPgc":112,"durationSeconds":12.04},
+  "perfectTotal":48
+}

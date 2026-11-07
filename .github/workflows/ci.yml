@@ -1,0 +1,35 @@
+name: Checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  portable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: npm --prefix app ci
+      - run: npm --prefix app test
+      - run: npm --prefix app run build
+        env:
+          BTG_BUNDLE_ONLY: '1'
+      - run: python -m unittest discover -s tests/unit -v
+  synthetic-dvd:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y build-essential pkg-config libdvdread-dev libdvdnav-dev libssl-dev ffmpeg dvdauthor
+      - name: Build pinned offline toolchain
+        run: python -c "from pathlib import Path; from tools.owner.toolchain import ensure_toolchain; ensure_toolchain(Path('/tmp/btg-toolchain'))"
+      - name: Inspect original synthetic DVD fixtures
+        run: python -m unittest discover -s tests/dvd -v

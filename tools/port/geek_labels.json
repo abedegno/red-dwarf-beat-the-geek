@@ -1,0 +1,3694 @@
+{
+  "sourceFingerprint": "0876ff298e2cd9ba1e752370ac5e87901b79364126a5126fa0dcf7136fd02c77",
+  "questions": {
+    "geek-l1-146": {
+      "text": "Which position did Rimmer hold with the Amateur Hammond Organ Owners' Society?",
+      "choices": [
+        "Treasurer",
+        "Secretary",
+        "Chairman",
+        "Second Technician"
+      ],
+      "sourceSha256": "1b3f2bc850b8f51cfdcaccf87438204a51ccf63ab3827b197f6428fa6c3b46a4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-147": {
+      "text": "How old will Lister be if, as predicted, he dies while trying to remove a bra with his teeth?",
+      "choices": [
+        "96",
+        "115",
+        "181",
+        "203"
+      ],
+      "sourceSha256": "902ce0f104b01489511189f67a8a5460e3216f9489acdf3d9a3a5a4c4ca60622",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-148": {
+      "text": "Where did Kryten set course to when he realised he was running out of fabric softener?",
+      "choices": [
+        "SS Augustus",
+        "SSS Esperanto",
+        "SS Einstein",
+        "SS Manny Celeste"
+      ],
+      "sourceSha256": "b5038652f821335567a8f489db413089a47fa98efe2ecbc5d10fc84a29f20182",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-149": {
+      "text": "How was Kochanski returned to the show in Series VII?",
+      "choices": [
+        "By time travel",
+        "By suspended animation",
+        "Via a dimensional linkway",
+        "By cloning"
+      ],
+      "sourceSha256": "0a66021cd193fbb810ee90c174bfdee507c4343e58d8a8e8e268cc0c90efa812",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-150": {
+      "text": "What did Holly use to destroy the despair squid?",
+      "choices": [
+        "Laser cannons",
+        "Limpet mines",
+        "Plasma grenades",
+        "Retro rockets"
+      ],
+      "sourceSha256": "e4dcc21091ac1aadac04757ca91a586b8dfb8d09ce15d6d4f8494de8b7a73fbf",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-151": {
+      "text": "What was Cat's \"best lucky find in the whole of today\"?",
+      "choices": [
+        "A yo-yo",
+        "Lister's cigarettes",
+        "A trouser press",
+        "A megaphone"
+      ],
+      "sourceSha256": "460e5165a9d4241b63bea9ef73ac0133213e43f22244560bcc034ff8fde09f41",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-152": {
+      "text": "How many times did Holly inform Lister of the crew's deaths with the phrase, \"Everybody's dead, Dave\"?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "sourceSha256": "5463479598681c20caecb3503356c2413f4fb1c34f6d6e29c6f054c70f95631a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-153": {
+      "text": "How many baby skutters were seen in Parallel Universe?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceSha256": "5782e635d583b29f6c801ffe00de06ae2fc7b4974573683333b68cfa43c24303",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-154": {
+      "text": "Who was the only Low crew member to be shown dying on-screen?",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "ce0d5d27f2074ed64d90b076f5e4539bcbdf04a1c31dce8ceba8057df2270a6e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-155": {
+      "text": "Which character said, \"Holly - all his mates were French\"?",
+      "choices": [
+        "Rimmer",
+        "Cat",
+        "Kryten",
+        "Lister"
+      ],
+      "sourceSha256": "74665911effa222a01b46197e557ec2e4aad8d6aef1a7c1f5c5abbe7243b7de4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-156": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Stasis Leak",
+        "DNA",
+        "Polymorph",
+        "Marooned"
+      ],
+      "sourceSha256": "ef64bd8f92f0e820d75b97f6f492984c73d70cea01435f91682f4f95404873b1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-157": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Able",
+        "Legion",
+        "Kryten",
+        "Simulant"
+      ],
+      "sourceSha256": "8627a62e4094466dc87dcabc09bde233f70cd75ed5a910058cbe0422e1eaebbd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-158": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Rimmer",
+        "Cat",
+        "Lister",
+        "Death"
+      ],
+      "sourceSha256": "b76a5a0bf6d572a76d0675f8d3aba3178c7eaae96d550f4d5bc53d995524376e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-159": {
+      "text": "Which object was this skeleton still carrying?",
+      "choices": [
+        "His comb",
+        "His gloves",
+        "His wallet",
+        "His MP3 player"
+      ],
+      "sourceSha256": "99dd81cf3b91e984fcc3d1afdc171460f16897b087b57b05b820122ab54e8fe4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-160": {
+      "text": "What was the maximum distance this device could travel?",
+      "choices": [
+        "500,000 light years",
+        "250,000 light years",
+        "125,000 light years",
+        "50,000 light years"
+      ],
+      "sourceSha256": "a6113b7143016413311da4fd5a17dde67ead6e7889df3b33526c579df0ea1137",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-161": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Andy",
+        "Billy",
+        "Dave",
+        "Ben"
+      ],
+      "sourceSha256": "c3694469a98ac6c45a67766deb264d383a5be19d9202e319cedc29f39c38c903",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-162": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Mex",
+        "Bear-strangler McGee",
+        "Big Meat",
+        "Jimmy"
+      ],
+      "sourceSha256": "0b376fc7390bce89e049b25f26ca0724821d841f42c8d49d29933f46b1c49c2b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-163": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Bodyswap",
+        "Polymorph",
+        "Timeslides",
+        "DNA"
+      ],
+      "sourceSha256": "8d682b82f3321ce254f0e1d196b7b666f22d6f708b3e0c26a5a7c9337a87266f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-164": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Back in the Red-Part 1",
+        "Cassandra",
+        "Krytie TV",
+        "Only the Good. . ."
+      ],
+      "sourceSha256": "548ccba67198e604673a224849e5df86655101d483007ce94bc7b9b264c1f81a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-165": {
+      "text": "Select these scenes from Gunmen of the Apocalypse in chronological order:",
+      "choices": [
+        "Man wearing a cowboy hat",
+        "Kryten wearing a waistcoat",
+        "Three men in Western outfits",
+        "Two figures in a dark room"
+      ],
+      "sourceSha256": "d7c80f38c89a81a6e66cfe81b8877d5b2d92e45c7fc79c3a21aeedf5bdf8a959",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l1-166": {
+      "text": "Select these scenes from Ouroboros in chronological order:",
+      "choices": [
+        "Man lying on a medical bed",
+        "Lister looking at a box",
+        "Kryten standing in a room",
+        "Cat wearing a red jacket"
+      ],
+      "sourceSha256": "52ef85298cdd75a492b88185b20d03ed0447755d05c95dfbe5a4e7913a5a49ec",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l1-167": {
+      "text": "Which character said, \"I think our friend the suicide squid is about to make an appearance\"?",
+      "choices": [
+        "Rimmer",
+        "Kryten",
+        "Cat",
+        "Holly"
+      ],
+      "sourceSha256": "7489be64395c4b64bc7463d5ce5743fd5e2a35bc8fa5c73437dacac8e780b389",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-168": {
+      "text": "In which episode did Lister say, “Can I do final fold and stack?”",
+      "choices": [
+        "Out of Time",
+        "Ouroboros",
+        "Epideme",
+        "Krytie TV"
+      ],
+      "sourceSha256": "84fe33ce79201a4ad1e757cea5870762583a48b3a4c1956a9319980de416880b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-169": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Tikka to Ride",
+        "Stoke Me a Clipper",
+        "Ouroboros",
+        "Blue"
+      ],
+      "sourceSha256": "918a868902affa9505f279619c6058cf131f3eba0f23298d2d91ee1c4c7a6726",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-170": {
+      "text": "In which episode did Holly say, \"He died tragically in a plane crash, aged 98\"?",
+      "choices": [
+        "Timeslides",
+        "White Hole",
+        "The Inquisitor",
+        "Cassandra"
+      ],
+      "sourceSha256": "9e03f50b0fb40848f4ce552b734ef4f3a9b4a47f31ed866ab106a8d7d325fa86",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-171": {
+      "text": "Which member of the Red Dwarf production team was in the pub as an extra?",
+      "choices": [
+        "Production designer Mel Bibby",
+        "Writer and producer Rob Grant",
+        "Production manager Mike Agnew",
+        "Costume designer Howard Burden"
+      ],
+      "sourceSha256": "99620b3346cd96af790dae0b63a07cbc7a71c551460324a56466773e6cbf2c54",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-172": {
+      "text": "Which special effects crew member was inside the curry monster suit?",
+      "choices": [
+        "Peter Wragg",
+        "Paul McGuinness",
+        "Mike Tucker",
+        "Nick Kool"
+      ],
+      "sourceSha256": "51fa1ae01bfe6eb77a3ba88512bd2dc8248870e557a4836002676cfe4e5cc11e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-173": {
+      "text": "What is Article 492?",
+      "choices": [
+        "Back-up computers must be replaced if the crew is endangered",
+        "All food consumed by crew members must be paid for",
+        "A damning exposé of the dental floss industry",
+        "Work performed by a doppelganger in an alternate reality cannot be counted as overtime"
+      ],
+      "sourceSha256": "02a800116f38819cb7b767726719b845259f406e048b37eee6fec63c95120215",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-174": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Out of Time",
+        "Tikka to Ride",
+        "Back in the Red - Part 1",
+        "Rimmerworld"
+      ],
+      "sourceSha256": "68812dc1f1b6fcaf173022368c0d37ad2e0eeb795807600e4f2f2591cd66936c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-175": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Back in the Red - Part 1",
+        "Back in the Red - Part 2",
+        "Back in the Red - Part 3",
+        "Krytie TV"
+      ],
+      "sourceSha256": "c234b8432288b1da8d28c61c756276573bf04645514f29c1a83fdade75860471",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-176": {
+      "text": "This outtake occurred during the filming of which episode?",
+      "choices": [
+        "Psirens",
+        "Legion",
+        "Rimmerworld",
+        "Out of Time"
+      ],
+      "sourceSha256": "5450ced9ace40f029674ec542d64f2dbe6e8607fc1f157fe7be9bd2832c6e2e3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-177": {
+      "text": "Which badge was attached to the left breast of Lister's jacket?",
+      "choices": [
+        "A gold moon",
+        "A silver star",
+        "A bronze yin-yang",
+        "A silver rocket"
+      ],
+      "sourceSha256": "77b0680a1adb579de80e3a41e1b9363e8a5d0c05ddc15f16c18f5a1f4fdc3074",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-178": {
+      "text": "What is the thinking time when braking at half the speed of light?",
+      "choices": [
+        "2 days",
+        "A week",
+        "12 days",
+        "A fortnight"
+      ],
+      "sourceSha256": "9e37b412f4d88743f77f63e5d98d445c11ef316425193b81e57439038a6716b2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-179": {
+      "text": "According to the monitor, what was the temperature?",
+      "choices": [
+        "Low",
+        "0°C",
+        "-273°C",
+        "High"
+      ],
+      "sourceSha256": "f8c5afcda5dbc6a7a9a55f1cc705628b71795c79a77f3fe80606bee100762a89",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-180": {
+      "text": "Which flavour was the muffin?",
+      "choices": [
+        "Plain",
+        "Cinnamon",
+        "Banana",
+        "Blueberry"
+      ],
+      "sourceSha256": "baffdeb3f3c04b1f0528f6e17ddf95fd8d786fdc94f5d5590eaf85322cc86acb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-181": {
+      "text": "What happens next?",
+      "choices": [
+        "Lister falls over",
+        "Todhunter gets called away",
+        "A meteor hits the ship",
+        "Rimmer is wheeled past on a gurney"
+      ],
+      "sourceSha256": "7dd7386604927282570f054e88b7dd9e511de267b0c209cd5fbe5400bd50c989",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-182": {
+      "text": "What happens next?",
+      "choices": [
+        "'Lister' is revealed to be a statue",
+        "Legion morphs into Kryten",
+        "Cat is knocked out",
+        "The crew eats with anti-matter chopsticks"
+      ],
+      "sourceSha256": "0b930c9643376d1a6e2801e01b5571413928072bc82281a4182edd799ab03c2c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l1-183": {
+      "text": "What happens next?",
+      "choices": [
+        "Kryten sends a message to Lister",
+        "The inspectors find contraband",
+        "Lister and Rimmer escape their cell",
+        "A guard announces cell inspection"
+      ],
+      "sourceSha256": "0d5ddba013ef3211aeace04a8e8672b361f39794fff9ad322a22db238536d0a7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-188": {
+      "text": "What was the name of Rimmer's hypnotherapist?",
+      "choices": [
+        "David",
+        "Duncan",
+        "Denis",
+        "Donald"
+      ],
+      "sourceSha256": "9b80aa21d0ecc4daece9441f87a0f966e1919f0be907dc04cce6532833e65c37",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-189": {
+      "text": "Which part of the 171-year-old Lister was mechanical?",
+      "choices": [
+        "His leg",
+        "His pelvis",
+        "His arm",
+        "His eye"
+      ],
+      "sourceSha256": "89cc7c06d1cf4d807403d9b49878dbf40f34f00fc3a13987dcce248abb9e8762",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-190": {
+      "text": "What was the access code to the hidden origin file in Kryten's CPU?",
+      "choices": [
+        "4X2C",
+        "2X4B",
+        "2Q4B",
+        "523P"
+      ],
+      "sourceSha256": "92b1c47ff1c87313d7df90c998b6fee62466492c8edb1598deae1c7cdd55639e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-191": {
+      "text": "How many changes of clothes was Cat planning to take with him while escaping the black holes?",
+      "choices": [
+        "28",
+        "32",
+        "36",
+        "48"
+      ],
+      "sourceSha256": "f020a23916b4c3866642c0a16ec04482769dc46ff3d8c3040cefcfaf78c510b7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-192": {
+      "text": "Which two musical notes did Holly invent?",
+      "choices": [
+        "H and I",
+        "I and J",
+        "J and K",
+        "H and J"
+      ],
+      "sourceSha256": "eb4b2c0de748afc38cd1309ece76511e121f820798172f16cadafcccff246389",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-193": {
+      "text": "Where did Rimmer hide his diary?",
+      "choices": [
+        "In the A-Z of Red Dwarf",
+        "In his sock suspender drawer",
+        "In his tool kit",
+        "With the hidden hologram discs"
+      ],
+      "sourceSha256": "2482dff445fbdfdde8b1dcc47670244c6ad6a34579a2d12cc0e0f5c17cedd075",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-194": {
+      "text": "Which Space Corps article covered gross negligence leading to the endangerment of personnel?",
+      "choices": [
+        "Article 3",
+        "Article 5",
+        "Article 9",
+        "Article 12"
+      ],
+      "sourceSha256": "985a63fc6041ed60fece65727c9b13b2ca312f8de4c575702166aece930881c5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-195": {
+      "text": "What is the code for love as stated by Kryten to Camille?",
+      "choices": [
+        "E5A908B7",
+        "E807B503",
+        "N83715B6",
+        "A809E7B5"
+      ],
+      "sourceSha256": "d7262d2922fb94161b0a65e8a5b1c286fed18e3c6f893a22cfd7b3cb5bb5449d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-196": {
+      "text": "Who did Cat court with his megaphone?",
+      "choices": [
+        "The Nova V crew",
+        "Whoever showed up",
+        "All lady cats",
+        "The Dog"
+      ],
+      "sourceSha256": "31a0f201031616f3bab8191ab1eda613f87fe8c0fececf4347c99c92ed3a6644",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-197": {
+      "text": "How did Kochanski never expect to be seduced?",
+      "choices": [
+        "With the expression, \"Let's hit the springs\"",
+        "With the sexual magnetism virus",
+        "By being blind drunk",
+        "With predeterminism theory"
+      ],
+      "sourceSha256": "79bf07803f2e7f5b4863e7f47a11ebb2ef8361c5b8e053aee8088798b3f94fea",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-198": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Kryten",
+        "Dimension Jump",
+        "Back to Reality",
+        "Tikka to Ride"
+      ],
+      "sourceSha256": "e4e114d9ac366197d65f79583cc7566d6c74a16cf0508253c87beee8ec767f29",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-199": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Kryten",
+        "Queeg",
+        "Rimmerworld",
+        "Out of Time"
+      ],
+      "sourceSha256": "48407c1c5c795caad91880f6318314f1d0090ddfcbc5514ab6ea05eb9483d8eb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-200": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Cat",
+        "Ace Rimmer",
+        "Sebastian Doyle",
+        "Rimmer"
+      ],
+      "sourceSha256": "42336cb2537a8fffbd9aabefd72491ff75fc6c72d1632291a4ecf6d8c9ea0efa",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-201": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Lister",
+        "Cat",
+        "Bear-strangler McGee",
+        "Elvis"
+      ],
+      "sourceSha256": "8107b08702c1e2afb1ea5237c21bb08d48c98fb989207e76466b6d6b72b57e4d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-202": {
+      "text": "What is on Cat's trolley?",
+      "choices": [
+        "Fish",
+        "Clothes",
+        "Bubble gum",
+        "Cigarettes"
+      ],
+      "sourceSha256": "7d8451aa405fdae6466dc59e97e650ffc2feedc3ca235f2cfa65c387cf0fae4c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-203": {
+      "text": "Who was the voice of this ship's cockpit computer?",
+      "choices": [
+        "Morwenna Banks",
+        "Kate Robbins",
+        "Hetty Baynes",
+        "Samantha Robson"
+      ],
+      "sourceSha256": "935b1fbb5785ef0f4de0412d01881f73bb1f0ca85d5e78171ae821900cb824ae",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-204": {
+      "text": "What was this character's name?",
+      "choices": [
+        "M.P. Thornton",
+        "Dr McClaren",
+        "Doc Newton",
+        "Dr Harris"
+      ],
+      "sourceSha256": "164a626b132e66cd609b8128aa3a501091692b74fb217ff84dd300c6995082d3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-205": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "The Inquisitor",
+        "Meltdown",
+        "Justice",
+        "Bodyswap"
+      ],
+      "sourceSha256": "8d93ffb88f1ddda0aab862e98d50ceb33df862ced3651ca493ac122c189c6ec4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-206": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "The End",
+        "Thanks for the Memory",
+        "Parallel Universe",
+        "Waiting for God"
+      ],
+      "sourceSha256": "4aeef9ad0af1e8d812f080212784d295407c6163d08eff9ba7329a1fcb58a2a6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-207": {
+      "text": "Select these scenes from Back in the Red - Part 2 in chronological order:",
+      "choices": [
+        "Man holding a microphone",
+        "Face inside a diamond-shaped opening",
+        "Three men in white coats",
+        "Kryten seated beside another person"
+      ],
+      "sourceSha256": "d80ce766f9fd523daa2db946d23a563e0e1e9a2c1003c5beb44598aec7e9d59a",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l2-208": {
+      "text": "Select these scenes from Demons & Angels in chronological order:",
+      "choices": [
+        "Lister and Cat beside drinks",
+        "Strawberry on a table",
+        "Kryten in a dark room",
+        "Cat with food in his mouth"
+      ],
+      "sourceSha256": "afadab44d7084b1a0a88f7dcd434e0d39fed1cff22a057eacb431133aa0bb05e",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l2-209": {
+      "text": "Which character said, “Don’t look baby, it’ll drive you crazy”?",
+      "choices": [
+        "Lister",
+        "Rimmer",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "cd4c4ae354820c680002fa2ab100ec0d56d5b61266a93bc159b4849ebc67cf91",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-210": {
+      "text": "Which character said, \"I'm going to look at you\"?",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "686665f5eaf8916385a2faa978099c217562c07a3c3aef5f292e6e1b848fe9b9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-211": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Holoship",
+        "Legion",
+        "Terrorform",
+        "Rimmerworld"
+      ],
+      "sourceSha256": "c42157d9d3f2ec19b098ea9ffa285c428079d31837831b7fc766aa016babe540",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-212": {
+      "text": "Who came up with the 'confidence and paranoia' theory?",
+      "choices": [
+        "Lister and Chen",
+        "Chen and Selby",
+        "Lister and Selby",
+        "Chen and Petersen"
+      ],
+      "sourceSha256": "68edcd10c89fe4f721a9b8f481dafbb8c588d3123afdf7043367969be426e06e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-213": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Thanks for the Memory",
+        "Stasis Leak",
+        "Parallel Universe",
+        "Better Than Life"
+      ],
+      "sourceSha256": "4c55328c1de973df3cd12adf52d69ac68b6dbb3ec58e241dab1f060e3ea4f21f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-214": {
+      "text": "Which Lister was the psiren?",
+      "choices": [
+        "The one on the right",
+        "The one on the left",
+        "Neither",
+        "Both"
+      ],
+      "sourceSha256": "c01688d8af6284144bf48062e398884a758b2212cf77e9fa1d6137a9e02dc8ee",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-215": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Tikka to Ride",
+        "Stoke Me a Clipper",
+        "Ouroboros",
+        "Duct Soup"
+      ],
+      "sourceSha256": "49e01aee79b7beb4c3512a6a6f1f76d1ab55c4f62c29d77a4281bcbc289a34c0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-216": {
+      "text": "What was the name of the ship Cassandra and the crew were in?",
+      "choices": [
+        "Esperanto",
+        "Enlightenment",
+        "Silverberg",
+        "Centauri"
+      ],
+      "sourceSha256": "c563569af4f34443f6f97f1df5de6843c70ec34513c4532977883b5491cf8fd8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-217": {
+      "text": "This outtake occurred during the filming of which episode?",
+      "choices": [
+        "Legion",
+        "Gunmen of the Apocalypse",
+        "Rimmerworld",
+        "Out of Time"
+      ],
+      "sourceSha256": "dca966937933e9e02ca5c17674233c2657fd8e2c71cb52e5e56c1bd45f626070",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-218": {
+      "text": "In which episode did Kryten claim, \"This old baby's crashed more times than a ZX81\"?",
+      "choices": [
+        "Psirens",
+        "Legion",
+        "Emohawk - Polymorph II",
+        "Rimmerworld"
+      ],
+      "sourceSha256": "7967ca71d9e369da8eb608a1d6e035e5b5ee93b87d8bb0dfb4151685d887aeec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-219": {
+      "text": "To whom did Lister say, \"Don't Nixon me, man\"?",
+      "choices": [
+        "Rimmer",
+        "Cat",
+        "Kryten",
+        "Kochanski"
+      ],
+      "sourceSha256": "8431c77b3d6c78bf9eb7d971560f5e7c25bcc368d6752af00c0081fcf09a71ac",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-220": {
+      "text": "Which colour was Kochanski's blanket?",
+      "choices": [
+        "Red",
+        "Grey",
+        "White",
+        "Blue"
+      ],
+      "sourceSha256": "c0fbf35457827b71abdf8bd11e48a22116e4b1dad7d7b85d3181bbacd26c9f70",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-221": {
+      "text": "How far was Rimmer talking about moving his men?",
+      "choices": [
+        "30 miles",
+        "40 miles",
+        "50 miles",
+        "60 miles"
+      ],
+      "sourceSha256": "54f14dc0ae50140d147a257362443ad21af5167429f686192230a83bab059b2d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-222": {
+      "text": "What does the vending machine give Lister?",
+      "choices": [
+        "A bucket",
+        "A pair of boots",
+        "A beer milkshake",
+        "A black coffee"
+      ],
+      "sourceSha256": "563c3450e1703892d1a458c7862c6aca32203567a08fbbf8f0c484bc6cc989c4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-223": {
+      "text": "What happens next?",
+      "choices": [
+        "Lister crushes Rimmer's light-bee",
+        "Lister shoots Rimmer's light-bee",
+        "Lister puts Rimmer's light-bee down his trousers",
+        "Lister swallows Rimmer's light-bee"
+      ],
+      "sourceSha256": "fb36983e7449562dcda89eb01dffb67d8a1729f3f6d73da7043d78021dc1494c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-224": {
+      "text": "How many objects will Cat's trick shot hit in total?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceSha256": "f74e91f56159933629cf1c2dcd5d9125818ce45dba83185cae7f005322b2c7a5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l2-225": {
+      "text": "What happens next?",
+      "choices": [
+        "Baxter is turned into a giant baby",
+        "Baxter is frozen in mid-air",
+        "Baxter's meal is turned into a live pig",
+        "Baxter's meal is turned into a live chicken"
+      ],
+      "sourceSha256": "4473b70890adb2f9748d2327a8228105e85cd71b38f32dfbee80b3e34f3d8946",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-194": {
+      "text": "How old was Rimmer's self-confidence when it died?",
+      "choices": [
+        "89",
+        "17",
+        "22",
+        "24"
+      ],
+      "sourceSha256": "9e3faed7f6b88f7582db281da68cbf9a6e1b3e805b0ce06cd9d65763f3cc835e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-195": {
+      "text": "How did Lister get into art college?",
+      "choices": [
+        "He seduced a tutor",
+        "By failing all his exams",
+        "By picking the locks",
+        "With blackmail"
+      ],
+      "sourceSha256": "78f49ca7f66214421d71aa791f7b901c315cd5fd8e73a5f5e6ade97a407768f6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-196": {
+      "text": "What did Kryten describe as \"a red and blue striped golfing umbrella\"?",
+      "choices": [
+        "An apple",
+        "An orange",
+        "A banana",
+        "A kumquat"
+      ],
+      "sourceSha256": "f42ba0bd4e9096f91624b0b4b1a5a6448b7951c6292db26beab06254bc137025",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-197": {
+      "text": "How many racks of clothing did Cat want to take into stasis?",
+      "choices": [
+        "5",
+        "6",
+        "10",
+        "11"
+      ],
+      "sourceSha256": "b3e6698ba5dbbad6aa526adf0ad4c9151330fef0459cfb543ad891133371fa97",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-198": {
+      "text": "How much run-time was remaining when Holly switched herself off?",
+      "choices": [
+        "3.48 minutes",
+        "3.41 minutes",
+        "3.25 minutes",
+        "3.14 minutes"
+      ],
+      "sourceSha256": "3f16688932264a56ec909b8268b88676b48e1c1614df7bba55c2a80dfc89bcd4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-199": {
+      "text": "Which Artificial Reality world did Kochanski encourage the other crew members to visit?",
+      "choices": [
+        "Dickens Land",
+        "Jane Austen World",
+        "Shelleyville",
+        "EuroShakespeare"
+      ],
+      "sourceSha256": "6650c91dbbf1d2610dd25dcea567ae62122609dbe1faaaa2859222f18668d935",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-200": {
+      "text": "How many words had Lister shared with Kochanski before her death?",
+      "choices": [
+        "12",
+        "169",
+        "173",
+        "592"
+      ],
+      "sourceSha256": "7a17ffbd4a7287d2793812776fd00d272f72b181f1c8b3520385ff0a4973bd58",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-201": {
+      "text": "How much did Rimmer owe the Outland Revenue?",
+      "choices": [
+        "$£6,500",
+        "$£7,500",
+        "$£8,500",
+        "$£9,500"
+      ],
+      "sourceSha256": "61347acc0409e15811fa96ec2479a0fcb18c91d436408574816d00e11929c187",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-202": {
+      "text": "What was the name of the young boy the Padré was nursing back to health?",
+      "choices": [
+        "Timmy",
+        "Tommy",
+        "Terry",
+        "Toby"
+      ],
+      "sourceSha256": "efec5b6ef9423e548a03406a4b8aac5a78c43805157c64ed8a94d61766f1816e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-203": {
+      "text": "Which two laughing gas options did Lister offer his Camille?",
+      "choices": [
+        "Chuckles or guffaws",
+        "Giggles or sniggers",
+        "Sniggers or chuckles",
+        "Giggles or guffaws"
+      ],
+      "sourceSha256": "ab90c81d76fa676b28104dc72e0c8c76430e3ea86ee479285185aa52200cca9c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-204": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Blue",
+        "Backwards",
+        "Nanarchy",
+        "Justice"
+      ],
+      "sourceSha256": "6799775081ccaa956f475aa3adce5f569be5c901e922ade932f8bf1f0792078b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-205": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Parallel Universe",
+        "White Hole",
+        "Kryten",
+        "Out of Time"
+      ],
+      "sourceSha256": "a60c0aecc08c8c9006fba0e422f039117d10433448145305631fc2972e274941",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-206": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Ace Rimmer",
+        "Lister",
+        "Holly",
+        "Rimmer"
+      ],
+      "sourceSha256": "18679ee8031ec9420da4e0f60a50a75ee22ff326cfc849fa6614a75513039f02",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-207": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Lister",
+        "Cat",
+        "Rimmer",
+        "Kochanski"
+      ],
+      "sourceSha256": "8704278553302bdbd2f0e73e640926cb303f390154166f1cfb4da7455fdc4ce2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-208": {
+      "text": "For which reason was this villain created?",
+      "choices": [
+        "To cure all disease",
+        "To prevent nicotine cravings",
+        "To kill mutants",
+        "To rebuild lost limbs"
+      ],
+      "sourceSha256": "c7244d805c4d1caef2adb0d9df6e5863cea3c46c791e70986dd2c70645497988",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-209": {
+      "text": "In which episode was this pod not seen?",
+      "choices": [
+        "Terrorform",
+        "Quarantine",
+        "Gunmen of the Apocalypse",
+        "Beyond a Joke"
+      ],
+      "sourceSha256": "4d71a37876e7c18ac34169a32ccd5c6d2cf93bd6360e21d2b1ca5684a1e62568",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-210": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Commander Binks",
+        "Captain Platini",
+        "Commander Crane",
+        "Number Two"
+      ],
+      "sourceSha256": "d4b04d659413b245655159915e7bbfec96348d4b2c2a7f47c7b14bdf12d4ca22",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-211": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Billy McCarthy",
+        "Robert McCulley",
+        "George McIntyre",
+        "John McKintosh"
+      ],
+      "sourceSha256": "96b117a89b99120fa2ea39e2a05f71d47bb956425553a3763926f07a36fad0d1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-212": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Me²",
+        "The End",
+        "Balance of Power",
+        "Future Echoes"
+      ],
+      "sourceSha256": "d5759b994b516dd3931179a403b48eb6c8f8c49f0cc1cdca0391771c14f650b7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-213": {
+      "text": "Select these scenes from Better Than Life in chronological order:",
+      "choices": [
+        "Lister and Rimmer looking upward",
+        "Dark figure at a desk",
+        "Crew standing together",
+        "Woman wearing a pink jacket on television"
+      ],
+      "sourceSha256": "cd821de7b37467d51aca64610252bde12515e496940f388450d5d14e2f6bde22",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l3-214": {
+      "text": "Select these scenes from Cassandra in chronological order:",
+      "choices": [
+        "Crew seated in yellow life jackets",
+        "Crew standing in yellow life jackets",
+        "Rimmer raising a hand",
+        "Crew lined up beside a doorway"
+      ],
+      "sourceSha256": "f8ebf343026b95aca0d27ef3465d5dfe43c4de66624e966d90954feeb3553707",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l3-215": {
+      "text": "Which character said, \"I've seen her naked\"?",
+      "choices": [
+        "Rimmer",
+        "Cat",
+        "Kryten",
+        "Lister"
+      ],
+      "sourceSha256": "0cd501c1815aec2fc1738e76d0dea222980ea29fd3f1e1dd0656e9b156601339",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-216": {
+      "text": "Which character said, \"He's not Dave; he's the anti-Lister\"?",
+      "choices": [
+        "Lister",
+        "Rimmer",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "d4c234eddbd0d0da1e0b4cbfa7abe08db8d209865a180485fedfabdc850a0827",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-217": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "The Inquisitor",
+        "Terrorform",
+        "Demons & Angels",
+        "Psirens"
+      ],
+      "sourceSha256": "58d024bb9b99fa5acb45349774dd6e1c9a21cb38bf48fdfc7631ff0ee8564199",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-218": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Me²",
+        "Kryten",
+        "Waiting for God",
+        "Confidence & Paranoia"
+      ],
+      "sourceSha256": "04c5a725894872baf6bc69d33edd5764e09847ce0fc69de1b74d0c0133617790",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-219": {
+      "text": "Which emotion was Rimmer missing?",
+      "choices": [
+        "Anger",
+        "Ego",
+        "Bitterness",
+        "Jealousy"
+      ],
+      "sourceSha256": "afb9f608d8aa0921237973af84f619d44cfa4378bcb9e7d24f7f4b63b293602f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-220": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Dimension Jump",
+        "Demons & Angels",
+        "Emohawk - Polymorph II",
+        "Stoke Me a Clipper"
+      ],
+      "sourceSha256": "59fe1a1c7c58985dbf02d7098363fe1145d04e035114b2419564f1a0620129ff",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-221": {
+      "text": "Which city was the crew in?",
+      "choices": [
+        "Boston",
+        "New York",
+        "Dallas",
+        "Chicago"
+      ],
+      "sourceSha256": "996fd3776c243038a100fed453bd64d14f63987b7752e1e5cd41bb82312553bb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-222": {
+      "text": "Why couldn't Lister die?",
+      "choices": [
+        "Because Cassandra predicted he would survive",
+        "Because he'd taken the luck virus",
+        "Because he was infected with nanobots",
+        "Because he knew Rimmer would die first"
+      ],
+      "sourceSha256": "b92f5588128dc801d57e44266434c774fc60470a24c88ced0cbac634a1b44ad6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-223": {
+      "text": "According to a deleted scene, which book was Lister holding?",
+      "choices": [
+        "‘The Aeneid’ by Virgil",
+        "‘Republic’ by Plato",
+        "‘The Iliad’ by Homer",
+        "‘Metaphysica’ by Aristotle"
+      ],
+      "sourceSha256": "14e0f82f8ea93b4f5a01deb719ece90d4a95617a865ec052788544ca66bcbf76",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-224": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Back in the Red - Part 1",
+        "Back in the Red - Part 2",
+        "Back in the Red - Part 3",
+        "Krytie TV"
+      ],
+      "sourceSha256": "be96db51891fd25436dc3e4bf609f07a6f44c6ed1652df77536bc312d36949fe",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-225": {
+      "text": "Who did Rimmer describe as, \"Mister Fat Bastard, 2044\"?",
+      "choices": [
+        "Lister",
+        "Todhunter",
+        "Hollister",
+        "Selby"
+      ],
+      "sourceSha256": "9c22998d7348ff42754fca644e60366498e00550dbf0ce025cd586dff76fe958",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-226": {
+      "text": "In which episode did Rimmer say, \"It feels like I'm having a baby\"?",
+      "choices": [
+        "Balance of Power",
+        "Thanks for the Memory",
+        "Parallel Universe",
+        "Backwards"
+      ],
+      "sourceSha256": "3028db77fd5d4072409afcadcc52dc3acf24c397ce695d17bd05edc22fd20ee9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-227": {
+      "text": "According to the monitor, what was the pressure read-out?",
+      "choices": [
+        "28/95",
+        "31/95",
+        "39/95",
+        "43/95"
+      ],
+      "sourceSha256": "bb43fc7265f0444cfebad707eab1d56b65b3b8e1e145641549fae57166002838",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-228": {
+      "text": "Which colour was the vent's interior?",
+      "choices": [
+        "Orange and white",
+        "Red and blue",
+        "Black and white",
+        "Grey and yellow"
+      ],
+      "sourceSha256": "2040892851cdb343d5a6952e216fe1ae3257175d7bb8254c7e3a6dee9dc9f348",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-229": {
+      "text": "Where did Lister get the learning drugs?",
+      "choices": [
+        "The medical unit",
+        "The captain's office",
+        "Petersen's secret stash",
+        "Rimmer's locker"
+      ],
+      "sourceSha256": "aa286314c05157209fb7833f0f7697052e5c45701cf3935d83660278a0799633",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-230": {
+      "text": "How do Kryten and Lister get through the door?",
+      "choices": [
+        "Via an air vent",
+        "By shorting out the lock mechanism",
+        "With a severed hand",
+        "By sweet-talking Holly"
+      ],
+      "sourceSha256": "2be5786bb0878dad10bb9826856a39b99cfa9ef612e6f4f4b0bbd339b83ebe15",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l3-231": {
+      "text": "What happens next?",
+      "choices": [
+        "The crew gets trapped in an animated screensaver",
+        "The crew flees Red Dwarf",
+        "Cat performs a tap-dance with Blue Midget",
+        "The crew returns to reality"
+      ],
+      "sourceSha256": "619f5d0fb348a51d1b34beba5a21766aeb09435e02149710b2aafe8ca7ddeda1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-194": {
+      "text": "What happened in Rimmer's game of Risk with Caldicott after his opponent threw a 3 and a 2?",
+      "choices": [
+        "Rimmer threw a 5 and a 1",
+        "Rimmer threw a 4 and a 3",
+        "Rimmer threw a 6 and a 3",
+        "Rimmer threw a 3 and a 2"
+      ],
+      "sourceSha256": "9ed95aa61ae642fca20af71d51a1b2a4cc426761cc2ef7e2670af4ef37a71d21",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-195": {
+      "text": "Lister, Dobin... Who was the third member of Smeg and the Heads?",
+      "choices": [
+        "Paul",
+        "Archie",
+        "Terry",
+        "Gazza"
+      ],
+      "sourceSha256": "03eda8bc45aadecf61cb58b64e368d3c1664d3df1ab81ed1d3aea0fddc6e31c3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-196": {
+      "text": "What was Kryten's embarrassment level the morning after his farewell party?",
+      "choices": [
+        "85%",
+        "91%",
+        "94%",
+        "99%"
+      ],
+      "sourceSha256": "333c7084369626373bf4620f11826bf68add3d6756b641c17b38889421ad6b49",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-197": {
+      "text": "Where was Kochanski originally from?",
+      "choices": [
+        "Glasgow",
+        "Naples",
+        "London",
+        "Geneva"
+      ],
+      "sourceSha256": "2b7fd6c81dac52749fe799daa6ef95f3b753d8bab43adade0a605f37030a9c18",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-198": {
+      "text": "Where did Holly suggest the crew rendezvous after navigating the black holes?",
+      "choices": [
+        "Sigma 14D",
+        "Delta 145",
+        "Epsilon 14",
+        "Alpha 17-6"
+      ],
+      "sourceSha256": "923f26d3eb690b10152005265aef438c4fd7bdae3a7daed0176f2c33f6971673",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-199": {
+      "text": "How many orders of 'fish' did the Cat get from the vending machine in Balance of Power?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "sourceSha256": "90969d584634ccdf75fcdf0e5d7925bac1eef23cb4d4d39dd9d632cf09cc36a7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-200": {
+      "text": "What does the Esperanto phrase \"Mi esperas ke kiam vi venos la vetero estos milda\" translate as?",
+      "choices": [
+        "I hope when you come the weather will be clement",
+        "The meal was splendid; my heartiest congratulations to the chef",
+        "The menu looks interesting; I think I'll try the chicken",
+        "I would like to purchase that orange inflatable beach ball and that small bucket and spade"
+      ],
+      "sourceSha256": "af5a05d9bd916ccf95ee5e0feb7a1a7981d1db01614050d6c222dec44f343318",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l4-201": {
+      "text": "How long was Kryten given before his in-built expiry would shut him down?",
+      "choices": [
+        "6 weeks",
+        "2 days",
+        "24 hours",
+        "12 hours"
+      ],
+      "sourceSha256": "78d5156bd4f894feafa1a173469a8a786512910e914f8a1fe3a3bb49c70bbc53",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-202": {
+      "text": "Which crew member discovered Rimmer's Charm gravestone?",
+      "choices": [
+        "Holly",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "4824814e211cc22678a596695f6c02b449f91a571cee299da030ea5513690e30",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-203": {
+      "text": "How did Kochanski pronounce 'Rimmer'?",
+      "choices": [
+        "To rhyme with 'veneer'",
+        "To rhyme with 'scum'",
+        "Without the Rs at the front and back",
+        "To make it sound like a lavatory disinfectant"
+      ],
+      "sourceSha256": "0bc79c44ca90c653527d7936f5d395b4580cb88ac87559a9674c5e0ab666ce90",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-204": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "The Inquisitor",
+        "Meltdown",
+        "Stoke me a Clipper",
+        "Bodyswap"
+      ],
+      "sourceSha256": "21d76f5232a7dc68ba236275605b84b5bd0378f5fad4fdd1cf3009ac109e5208",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-205": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Terrorform",
+        "Stoke me a Clipper",
+        "Out of Time",
+        "Tikka to Ride"
+      ],
+      "sourceSha256": "0c38d1e6d282e4ad61bea4c7606f40dacaf2d65eb8201b350ba733aaa51afab2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-206": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Bear-strangler McGee",
+        "Death",
+        "Lister",
+        "Baxter"
+      ],
+      "sourceSha256": "f4742fde74f689e9c1400cc3b6c2bcf7e33036055df62d26c9c1a34303e8a639",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-207": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Sebastian Doyle",
+        "Kochanski",
+        "Cat",
+        "Ace Rimmer"
+      ],
+      "sourceSha256": "28d63aa5a1ed5f4aad0a6c606895860336984fa6533f08fc2a5dc66746f4c15c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-208": {
+      "text": "Which curry was this monster made from?",
+      "choices": [
+        "Chicken vindaloo",
+        "Chicken tikka",
+        "Mutton vindaloo",
+        "Mutton tikka"
+      ],
+      "sourceSha256": "e968f081d709873526a7a01e0527a6e9a08ffeb94912ba71848220d1e7915711",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-209": {
+      "text": "What was the name of this animal's owner?",
+      "choices": [
+        "Voodry",
+        "Voorheis",
+        "Voorloop",
+        "Voorhese"
+      ],
+      "sourceSha256": "e8d1be8e0b0c40a0c237ea57894af4205810f049a436cc6913ea2a587d5d286f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-210": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Lady Sabrina Mulholland-Jjones",
+        "Lady Louisa Ruthven-Jjones",
+        "Lady Helena Mulholland-Stark",
+        "Lady Natalia Hainsworth-Jjones"
+      ],
+      "sourceSha256": "95871cf3e2717b1860fafdc6958b96fb122b2d1c558114052b1a1575a3fd0421",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-211": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Rimmerworld",
+        "Legion",
+        "Psirens",
+        "Out of Time"
+      ],
+      "sourceSha256": "85cf81228202fa68bb859ddf080355720b453d1d5322ec41596fbb7d31887f62",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-212": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Parallel Universe",
+        "Thanks for the Memory",
+        "Future Echoes",
+        "Better than Life"
+      ],
+      "sourceSha256": "08731a9e1499a310ea404f6362281457a48a0dbe411b8e82e566544ca3a7606a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-213": {
+      "text": "Select these scenes from Balance of Power in chronological order:",
+      "choices": [
+        "Cat beside Rimmer with a trolley",
+        "Cat beside a vending machine",
+        "Lister holding a drink",
+        "Cat leaning over seated Lister"
+      ],
+      "sourceSha256": "c00beed28ae27943cbfa63a1b3a1db35889a4579cd359297a229867e169d4ed9",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l4-214": {
+      "text": "Select these scenes from Camille in chronological order:",
+      "choices": [
+        "Woman looking upward",
+        "Two androids in a room",
+        "Woman wearing a dark hat",
+        "Kryten in close-up"
+      ],
+      "sourceSha256": "be5c50f6c1eda27b8798bb5cfde79bbacdfac75e1e05fe8c49fd70ec450e7e77",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l4-215": {
+      "text": "Which character said, “Tell me again - how do you hang 10?”",
+      "choices": [
+        "Lister",
+        "Kryten",
+        "Cat",
+        "Kochanksi"
+      ],
+      "sourceSha256": "b8f6a781e915538bb1a47260bb96934e75fd1078d662de46487aea739a37ca54",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-216": {
+      "text": "Which character said, \"Oh, make love to me you horny dude\"?",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "4486f0a36e5090be272b22accf5d4d191ca4ec0779513dc71322f08086ccaf02",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-217": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Back to Reality",
+        "Rimmerworld",
+        "Demons & Angels",
+        "DNA"
+      ],
+      "sourceSha256": "3e301e9ee430df5921a4ec0a8bf6a674eb9711a083bfac71b3439fcbe89f21d4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-218": {
+      "text": "Which of those was the original Rimmer hologram?",
+      "choices": [
+        "The one on the left",
+        "The one on the right",
+        "Neither",
+        "Both"
+      ],
+      "sourceSha256": "02c2853dceb2556c6980e1f5f9885548ade8e0c66f49dbfa3f3ad47546e2c511",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-219": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Backwards",
+        "Marooned",
+        "Timeslides",
+        "The Last Day"
+      ],
+      "sourceSha256": "0dd669f29bd2469bc3f03f9df8852dee2cc979aedcc25c6811a35778c6e33210",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-220": {
+      "text": "On which moon was this clip set?",
+      "choices": [
+        "Mimas",
+        "Ganymede",
+        "Tethys",
+        "Titan"
+      ],
+      "sourceSha256": "090eeba5f8c9d8a35174303648c55f5720be616863c43110fab16418befb4dad",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-221": {
+      "text": "Which locker had they already opened before this clip?",
+      "choices": [
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "sourceSha256": "c9d998e2d4e20cfcbcdfb0b29bba27a10dd82e6e3440fbb2eb0c094fba106ef9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-222": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Back in the Red - Part 1",
+        "Back in the Red - Part 2",
+        "Back in the Red - Part 3",
+        "Krytie TV"
+      ],
+      "sourceSha256": "bf5d020e592c1cfbe2d174a9dea1e44dc10dad47e657f48aea83458ffe953dc5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-223": {
+      "text": "This outtake occurred during the filming of which episode?",
+      "choices": [
+        "Back to Reality",
+        "Demons & Angels",
+        "Terrorform",
+        "Quarantine"
+      ],
+      "sourceSha256": "8590805572d43376c1a2c00e381e63b0874856e49f70c7d8c440fa2e7b313ac0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-224": {
+      "text": "Which colour was the liquid in the injector's tube?",
+      "choices": [
+        "Red",
+        "Blue",
+        "White",
+        "Clear"
+      ],
+      "sourceSha256": "efb3c865d23af32cad6573bfb5e06468928ad99c77977080007e8f7867999dcc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-225": {
+      "text": "What was shown on the monitor behind Lister and Kryten?",
+      "choices": [
+        "Starbug",
+        "Red Dwarf",
+        "Numbers",
+        "A strawberry"
+      ],
+      "sourceSha256": "040345449d03e3e6eb73a406e56598a2b25d043bd65f10dcf0f4ff69c83e943d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-226": {
+      "text": "Which character said, “Is he totally perfect or what?”",
+      "choices": [
+        "Cat",
+        "Confidence",
+        "McGruder",
+        "Paranoia"
+      ],
+      "sourceSha256": "d200d78013fd31b4e807f5b51e57d96c27265a040fe736b5ff3c78ece38f6207",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-227": {
+      "text": "Who was Lister discussing when he said, \"First moon we come to, let's dump her\"?",
+      "choices": [
+        "Caroline Carmen",
+        "Barbra Bellini",
+        "Kristine Kochanski",
+        "Beryl Bonjella"
+      ],
+      "sourceSha256": "45f2ba7cdb9b0ca24e57c6683d8c1f8eec5b534af0af0a4439054f9623f4250a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-228": {
+      "text": "What happens next?",
+      "choices": [
+        "Rimmer is switched off",
+        "Lister admits to wiping the other Rimmer",
+        "Cat orders fish from the vending machine",
+        "The other Rimmer celebrates"
+      ],
+      "sourceSha256": "29a47fb889b8438aaf8febadfdc5b772e9482d211a4b895e95918548fff8b5b0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-229": {
+      "text": "What happens next?",
+      "choices": [
+        "The simulant kills Lister",
+        "Cat hits the simulant with a shovel",
+        "Lister hits himself with a pipe",
+        "The justice field is deactivated"
+      ],
+      "sourceSha256": "08f2fc1902b8db96b86600a97f8f10446967dc01937a89f06604a0bd1c882128",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-230": {
+      "text": "What happens next?",
+      "choices": [
+        "Rimmer reveals Mr Flibble",
+        "Lister uses a luck virus to escape",
+        "Rimmer fires at the crew with hex-vision",
+        "Lister calls Kryten 'tetchy'"
+      ],
+      "sourceSha256": "0c384a23c5100583f5a5be57d4b4e848645635b8f8743ef210815491351a27bc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l4-231": {
+      "text": "What happens next?",
+      "choices": [
+        "Lister faints",
+        "Kochanski faints",
+        "Kryten faints",
+        "Cat faints"
+      ],
+      "sourceSha256": "466640f7f3d51fe90ecbcf319a1c06eeb34ef567074ec63cd3464ff29f40c2bb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-194": {
+      "text": "In which dimension did the original Ace Rimmer die at the business end of a neutron tank?",
+      "choices": [
+        "Dimension 182",
+        "Dimension 169",
+        "Dimension 181",
+        "Dimension 165"
+      ],
+      "sourceSha256": "ffe21af403785e0de3d42115059b880cf44b9489f8fc625a2c1d911f0e0d7cef",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-195": {
+      "text": "Which object did Lister describe as \"a female aardvark\"?",
+      "choices": [
+        "An orange",
+        "An apple",
+        "A banana",
+        "A pear"
+      ],
+      "sourceSha256": "e0b681f0dde30ba829a41c34e2d114f43561f0b66178ddd1e8ea853ca223c4d1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-196": {
+      "text": "Which model number are Kryten's eyes?",
+      "choices": [
+        "579",
+        "975",
+        "795",
+        "759"
+      ],
+      "sourceSha256": "a2c67abf8babe8a8ea0543be9c37fb02dea46ea2f70d5a08b28557789db46ba4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-197": {
+      "text": "How long was the waiting list for birds to suddenly appear every time Cat was near?",
+      "choices": [
+        "2 months",
+        "4 months",
+        "6 months",
+        "8 months"
+      ],
+      "sourceSha256": "741a3cfa0d58308da1ecca25d6b581b98b386f564836c2a9894164f351a84e81",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-198": {
+      "text": "On which TV station did Kochanski appear naked except for a sponge?",
+      "choices": [
+        "Krytie TV",
+        "The Rimmer Network",
+        "ListerVision",
+        "Cat Broadcasting Corporation"
+      ],
+      "sourceSha256": "4ee65a5bd79ee42753ae14b296d732e854d38d8351a7a65d80a6b6f375d67703",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-199": {
+      "text": "What was Holly's IQ after the intelligence compression?",
+      "choices": [
+        "12,368",
+        "12,459",
+        "12,794",
+        "12,638"
+      ],
+      "sourceSha256": "5d7f765e1cd2150c92b6d041bb20dff0333d413687e90b930e91aa580efe7f29",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-200": {
+      "text": "What did the Cat offer to leave behind in order to get a third suit into storage?",
+      "choices": [
+        "His arm",
+        "His leg",
+        "His silk handkerchief",
+        "His steam iron"
+      ],
+      "sourceSha256": "c6bf3a13b4c5620585df4163988db1f5aaef9e38eed8c026b883ae41ece63706",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-201": {
+      "text": "Onto which bearing did Queeg redirect Red Dwarf?",
+      "choices": [
+        "079 - 676",
+        "097 - 286",
+        "059 - 386",
+        "057 - 776"
+      ],
+      "sourceSha256": "5a029d00079ac220830d3ce7e58749ee1db3f052ab15fd62fbd57035156cf085",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-202": {
+      "text": "Which deck is the hologram suite on?",
+      "choices": [
+        "519",
+        "591",
+        "592",
+        "952"
+      ],
+      "sourceSha256": "92228c61f659b6e53cc95446313e739c1da6a9b8a8daaed9544192cd0e57bc78",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-203": {
+      "text": "How many wiring faults did the malfunctioning skutter cause?",
+      "choices": [
+        "1,000",
+        "2,000",
+        "3,000",
+        "4,000"
+      ],
+      "sourceSha256": "6e39f65080e5366a67f3823d1bdc4884bc76a9fc71558d6530eb01ba0ebf0c8a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-204": {
+      "text": "What do these actors have in common: Hetty Baynes, Richard Ridings, James Smillie?",
+      "choices": [
+        "They all took over their roles from someone else",
+        "They are all related to a member of the cast or crew",
+        "They all played computer voices",
+        "They all recorded their parts after production had finished"
+      ],
+      "sourceSha256": "f995460784febf9639cf023b9e6f1fc58368aa72edf274559275090b03f36cbc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-205": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Meltdown",
+        "Bodyswap",
+        "The Inquisitor",
+        "Backwards"
+      ],
+      "sourceSha256": "28039c76f5ee73c4f58ecf3c8f42bf5a3d3d819921f9631bf38b2822db937437",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-206": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Holly",
+        "Rimmer",
+        "Cat",
+        "Lister"
+      ],
+      "sourceSha256": "3e5acf18e7121ffbdbc7a3fcb505e81e6af16418bda880e3b227121536220361",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-207": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Kryten",
+        "Sebastian Doyle",
+        "Lister",
+        "Jake Bullet"
+      ],
+      "sourceSha256": "38fcb1ec430e418459f7415f9190fdc7bfdc1a5d5c241be317bd7138a35e4541",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-208": {
+      "text": "On which deck did this disturbance manifest itself?",
+      "choices": [
+        "The cargo deck",
+        "The habitation deck",
+        "The engineering deck",
+        "The diesel deck"
+      ],
+      "sourceSha256": "70270dce7910510e4d723c9ce7f418df1945dbbf835c03726fe836cb60565554",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-209": {
+      "text": "Who was found aboard this vessel?",
+      "choices": [
+        "Dr Lanstrom",
+        "Caroline Carmen",
+        "Camille",
+        "Kryten"
+      ],
+      "sourceSha256": "8ef02105acedac8969be7a35791e5f083d0a63cff591acde84876c76a907990d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-210": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Captain Dornan",
+        "Lieutenant Vorton",
+        "Captain Tau",
+        "Captain Vorhese"
+      ],
+      "sourceSha256": "755a0545bd29a32ac1132d4e478375d104a4af4a305a0b95db4feed75d8d28cc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-211": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Jack",
+        "John",
+        "Philip",
+        "Gordon"
+      ],
+      "sourceSha256": "b0573ef730dc35074f234441ed7c73ca7360b97a2d3b393cb72538a107c45666",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-212": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Back to Reality",
+        "Dimension Jump",
+        "DNA",
+        "Camille"
+      ],
+      "sourceSha256": "4514741c189520ca21c5682c3fcb4e053fdae165a79ad98c9944cd18079db4e8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-213": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Tikka to Ride",
+        "Nanarchy",
+        "Epideme",
+        "Beyond a Joke"
+      ],
+      "sourceSha256": "682937c31acfffbbb94016c1fc1be5c5806fae8d81c3df5809cd378c8e75124c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-214": {
+      "text": "Select these scenes from Bodyswap in chronological order:",
+      "choices": [
+        "Pink milkshake bottle",
+        "Lister having his hair cut",
+        "Lister standing in a dark doorway",
+        "Two men standing beside a doorway"
+      ],
+      "sourceSha256": "9102e5e6581f21e7bdac7f18c45ed72aed3674ea4cb0c2498fe2371d52d08976",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l5-215": {
+      "text": "Select these scenes from Future Echoes in chronological order:",
+      "choices": [
+        "Rimmer and Lister at flight controls",
+        "Hands beside an orange toy",
+        "Rimmer beside an elderly man in bed",
+        "Lister beside a machine"
+      ],
+      "sourceSha256": "7749097df72f500c6c881f10bba7fcdf21167ceb9bf225d0bc70b20c85b117eb",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l5-216": {
+      "text": "Which character said, \"Last one alive's a wet ponce\"?",
+      "choices": [
+        "Lister",
+        "Cat",
+        "Kryten",
+        "Rimmer"
+      ],
+      "sourceSha256": "e2653f42cc3ea181ae65641f29816797fa94a3ad33c64b2e1954d7a18a6c1644",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-217": {
+      "text": "Which character said, “Damn, a flat battery - who left the lights on?”",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "e0afff6ac3247d1a0c5847eeecf2822a84e2af85fbf6825246ecc0e5b6bc9a2f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-218": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Epideme",
+        "Back to Reality",
+        "Psirens",
+        "White Hole"
+      ],
+      "sourceSha256": "f20d92e6fabe94d00ac498dbd5265766898747b97901b96051f077373323cfa4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-219": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Kryten",
+        "Better Than Life",
+        "Thanks for the Memory",
+        "Stasis Leak"
+      ],
+      "sourceSha256": "79393a9a369e0017dcf3d95d6f9731252b78f2a700a299f75e853650620f2478",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-220": {
+      "text": "Which character said, \"Lister, you'll die for this\"?",
+      "choices": [
+        "Rimmer",
+        "Kochanski",
+        "Hollister",
+        "Petersen"
+      ],
+      "sourceSha256": "97d55fd3bba73293a69714bef9c33e6c2f74abe7e9021d396ba3b9fa9177d574",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-221": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Camille",
+        "DNA",
+        "Justice",
+        "Meltdown"
+      ],
+      "sourceSha256": "76e936adb22fb4d269a3b1b03418d90e6d0a2cf8bf67db4192fc901085e64983",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-222": {
+      "text": "Where was Rimmer during this scene?",
+      "choices": [
+        "In the airlock",
+        "On the simulant ship",
+        "On a new planet",
+        "In an escape pod"
+      ],
+      "sourceSha256": "f28abd4b808316f2f3b0e4b93d80727a88bbe7f49330adb8caaa500274ff5838",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-223": {
+      "text": "What is the name of the AR simulation the crew was in?",
+      "choices": [
+        "The Rimmer Experience",
+        "The Rimmer Ride",
+        "EuroRimmer",
+        "Rimmer World"
+      ],
+      "sourceSha256": "7e1b07b03a46e021e1e10e370f5c5a4c8720becbe8ed10c219f27603af54d48f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-224": {
+      "text": "In how many episodes did the character Kill Crazy appear?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceSha256": "9ce3e5f3bc0eab28d6d984775dfffc4f712c1ee2ae1935bdb34380fbde644896",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-225": {
+      "text": "According to Lister, who did Confidence sound like?",
+      "choices": [
+        "Bing Baxter",
+        "Mugs Murphy",
+        "Zap Brannigan",
+        "Ace Rimmer"
+      ],
+      "sourceSha256": "970811e216e012b77102e1118e1dcda4826dbc6d891fd06856ee62d7b1e2fe83",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-226": {
+      "text": "Which colour was the mug that the living Rimmer was holding?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Black",
+        "Grey"
+      ],
+      "sourceSha256": "a32eb692bc281adbb44d5024506699561d2468eb5683d8793b4350f4952705e9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-227": {
+      "text": "How did Lister suggest 'laying out' one of the guards?",
+      "choices": [
+        "With a large hammer",
+        "By drugging the wine",
+        "With a rock and pulley system",
+        "He didn't mention a guard"
+      ],
+      "sourceSha256": "4197e745b7a7ecaab1dddf6601829a8de0c7e77e1623843717d11a9f805e2255",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-228": {
+      "text": "How fast was the broken hull shipping water?",
+      "choices": [
+        "4,000 gallons per second",
+        "3,000 gallons per second",
+        "2,000 gallons per second",
+        "1,000 gallons per second"
+      ],
+      "sourceSha256": "8f34882fde4cb29f7e48c92a2d273be92b75b55e45353d7c32151284fbc3803b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-229": {
+      "text": "What happens next?",
+      "choices": [
+        "Simulants attack the ship",
+        "A meteor hits the ship",
+        "Lister reads Rimmer's diary",
+        "Red Dwarf is taken over by Queeg"
+      ],
+      "sourceSha256": "cbbde15b97ba087ba7582fabb9a6b6088a102493719439e57c2a92b16d0751cd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-230": {
+      "text": "What happens next?",
+      "choices": [
+        "Lister pulls out a holo-whip",
+        "Lister eats his cigarette",
+        "Binks calls in reinforcements",
+        "Binks pulls out a holo-whip"
+      ],
+      "sourceSha256": "fe6c8c33fd4ff31402a2d7ba6176cda57b0fe1f063b5f425e704da649b311250",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l5-231": {
+      "text": "What happens next?",
+      "choices": [
+        "Kryten throws his head at the simulant",
+        "Lister shoots the simulant",
+        "Able throws his head at the simulant",
+        "The simulant loses his coin"
+      ],
+      "sourceSha256": "ee6ded3f8f988e02e5b649e0c095b3fcc69b47cb52716a0cdb5630ef327b3525",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-194": {
+      "text": "Which limb did Ace break when landing to rescue Starbug and its crew?",
+      "choices": [
+        "His left leg",
+        "His right leg",
+        "His left arm",
+        "His right arm"
+      ],
+      "sourceSha256": "aa6cb26e5e04311b1ea8ffdc42445d9a2c471ba48a4e9a4f9944d85662bc1caf",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-195": {
+      "text": "Which childhood friend taught Lister how to put mirrors on his shoes to look up girls' skirts?",
+      "choices": [
+        "Dennis",
+        "Damien",
+        "Derek",
+        "Duncan"
+      ],
+      "sourceSha256": "bac7c8350827e33674eed385eb17132cc1f8478140d91298d01b815eab492254",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-196": {
+      "text": "On how many doors was Kryten used as a battering ram?",
+      "choices": [
+        "23",
+        "53",
+        "63",
+        "83"
+      ],
+      "sourceSha256": "f0b0d268904f1a362db6253075d2ef8c0531fbdccb554d99cb45921fbf051965",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-197": {
+      "text": "What colour were Cat's trousers when he broke his leg?",
+      "choices": [
+        "Apricot",
+        "Mauve",
+        "Taupe",
+        "Peach"
+      ],
+      "sourceSha256": "26975f47d9988e532254ba561465de832cde45cdb91731632ff3d39c235544eb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-198": {
+      "text": "Who did Cassandra predict Kochanski would sleep with?",
+      "choices": [
+        "Lister",
+        "Rimmer",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "f1d9f7f3b31c11d16e609f558086782aa1908297388c604588abf1bf61d7b678",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-199": {
+      "text": "How many uses did the Cat find for his yo-yo?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "b305e1a9789ec4a79bb1e061815681fb4cf3c977992e249bbf71474ffc5be93b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-200": {
+      "text": "How old was Kryten's former crew mate, Jane Air?",
+      "choices": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "sourceSha256": "f20c2e9ff50f861c6beccdb16d0fae576611654e80114477c176527a1ddd93cc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-201": {
+      "text": "How much saved cash did Rimmer have stashed in his trunk?",
+      "choices": [
+        "$£22,000",
+        "$£24,000",
+        "$£26,000",
+        "$£32,000"
+      ],
+      "sourceSha256": "0d44f82e00356ec9a8c6c416b6e66150695308e2178aadda31a221d50bc55ee8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-202": {
+      "text": "Which items are not permitted in astro-navigation exams?",
+      "choices": [
+        "Protractors and hole reinforcers",
+        "Marker pens and pale thighs",
+        "Learning drugs and Holly watches",
+        "Modems and speaking slide rules"
+      ],
+      "sourceSha256": "010a48c0e284a99231fd6d6812a9fb4d4b4eac26818cdc489e3e2766a69bbfce",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-203": {
+      "text": "In his secret love letters to Carole McCauley, which of these did Rimmer not refer to?",
+      "choices": [
+        "Her eyes",
+        "Her lips",
+        "Her hair",
+        "Her short skirts"
+      ],
+      "sourceSha256": "774a74b58ac1d9919876f0b986e904671a34c12311aa5d637837295fa0011d24",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-204": {
+      "text": "How many dead-heats were there in the Deb Lister versus Dave Lister drinking contest?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "sourceSha256": "e5923696abaa4d445c795566c5b742176553ec5cb0634e30f04dc44569f5f062",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-205": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Psirens",
+        "Tikka to Ride",
+        "Beyond a Joke",
+        "The Inquisitor"
+      ],
+      "sourceSha256": "18e57dd7bb2788cb83ac87bf84c08cd1cfe5a17551f54f6b944eb0116354d45a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-206": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Demons & Angels",
+        "Quarantine",
+        "Gunmen of the Apocalypse",
+        "Back to Reality"
+      ],
+      "sourceSha256": "5c716cea9c2080bf5507076701f12716bd7f8f85045468ac9c7736ce170abfc9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-207": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Kryten",
+        "Lister",
+        "Holly",
+        "Cat"
+      ],
+      "sourceSha256": "37f9fae19241d5446b8943e0f4fbbf801182b2d2dcc5ff318bf716e66ad6533e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-208": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Able",
+        "Legion",
+        "Simulant",
+        "Hudzen 10"
+      ],
+      "sourceSha256": "f89044ccc95df5b65222a6a6b688f319ccf81e80fe5ecbf14114a3abf601fe82",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-209": {
+      "text": "Inside which object did this creature first transform to its giant size?",
+      "choices": [
+        "A microwave",
+        "A bin",
+        "A bunkbed",
+        "A shoe"
+      ],
+      "sourceSha256": "79c2ba7b6a15cffdf32a86b490c2440ab5c1d55b764e867d1470f7027ae28471",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-210": {
+      "text": "In which episodes did this ship appear?",
+      "choices": [
+        "Psirens and Legion",
+        "Gunmen of the Apocalypse and Psirens",
+        "Gunmen of the Apocalypse and Rimmerworld",
+        "Rimmerworld and Out of Time"
+      ],
+      "sourceSha256": "a26eeefcb5bef5772d8e1d1c8e22364b79d283a4013d1c3feb7081ce30e910a3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-211": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Nigel",
+        "Barry",
+        "Gordon",
+        "Neville"
+      ],
+      "sourceSha256": "9126366303fd8637c8c31654fe07aa84755dd1c995a43828eecfa2bd9091ca7d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-212": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Backwards",
+        "Bodyswap",
+        "Timeslides",
+        "Polymorph"
+      ],
+      "sourceSha256": "8186364ab5e927032038411934fcf3827faa4df94c49492311fbae7d25e1dac3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-213": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "White Hole",
+        "Justice",
+        "DNA",
+        "Meltdown"
+      ],
+      "sourceSha256": "ebff690e70eeff4859ecbf648fd9f86d9c2f5dbe5a7b2e58e1ce298aacda465d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-214": {
+      "text": "Select these scenes from Back in the Red: Xtended in chronological order:",
+      "choices": [
+        "Crew seated around a table",
+        "Man raising an arm beside seated crew",
+        "Lister lying in bed with a red object",
+        "Three people wearing yellow protective suits"
+      ],
+      "sourceSha256": "e48ebfb8f423f801ef2ff7647764cdeb6f486612733dcada890c01526cb02a9d",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l6-215": {
+      "text": "Select these scenes from Blue in chronological order:",
+      "choices": [
+        "Kryten standing in a room",
+        "Kochanski beside Lister wearing headphones",
+        "Man on a motorcycle",
+        "Cat and Lister seated at a table"
+      ],
+      "sourceSha256": "45957be3445f1707c43041c3766b8541483dc8fdd4ed70e6f65fa2d22cd6d020",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l6-216": {
+      "text": "Which character said, \"Rimmer, to rhyme with scum\"?",
+      "choices": [
+        "Rimmer",
+        "Holly",
+        "Kochanski",
+        "Hollister"
+      ],
+      "sourceSha256": "2bc12006918f0b4e4fc13fb712db92026d30741484303c8e515d92321ce09e96",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-217": {
+      "text": "Which character said, \"Nobody's rearranging my molecules\"?",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "53fe0168db6dc93ea39ce9a43a5d0bfac38dd1f4df59f739571cc7a2b0534436",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-218": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Polymorph",
+        "Emohawk - Polymorph II",
+        "Beyond a Joke",
+        "Cassandra"
+      ],
+      "sourceSha256": "379ad4b051eac1a574d35d85bd5825056d7921371baf532edb0ffe7e6796b64c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-219": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Bodyswap",
+        "Timeslides",
+        "The Last Day",
+        "Camille"
+      ],
+      "sourceSha256": "22f9784eda9a852dedb5eecd51597072aea3cbe22b91025aa0af11dab8560034",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-220": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "The Last Day",
+        "Thanks for the Memory",
+        "Justice",
+        "Bodyswap"
+      ],
+      "sourceSha256": "68967dec3ae39f731f3afce49cb74a618c70a535115513e725c615cc45d7f944",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-221": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Psirens",
+        "Legion",
+        "Emohawk - Polymorph II",
+        "Out of Time"
+      ],
+      "sourceSha256": "34ae6bfc6c9d3a88f8f7cd831e525ae926f04290c369c48de7c18b86ea481ccd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-222": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Tikka to Ride",
+        "Ouroboros",
+        "Beyond a Joke",
+        "Nanarchy"
+      ],
+      "sourceSha256": "03542002b6ccb84fe494e3b32c4cb1c1f0ade55586f87de568b585e04eadddc7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-223": {
+      "text": "Which scientist isolated the sexual magnetism virus?",
+      "choices": [
+        "Professor Mamet",
+        "Doctor Lanstrom",
+        "Porky Roebuck",
+        "Bongo Tranter"
+      ],
+      "sourceSha256": "26e3199abcc21803e38ccb19cfe5583445af7ed0529701f2db0f6cee2180d0c8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-224": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Cassandra",
+        "Krytie TV",
+        "Pete - Part 1",
+        "Pete - Part 2"
+      ],
+      "sourceSha256": "caa859ca469b7ce03f259ab9fd04a593ccb40588adab534f452d259301c3891c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-225": {
+      "text": "In which episode did Lister say, \"We don't exist here any more\"?",
+      "choices": [
+        "White Hole",
+        "The Inquisitor",
+        "Terrorform",
+        "Out of Time"
+      ],
+      "sourceSha256": "e0ff151cdfb8af80bf7a3cec0480aae97e1362d4f098873096e5397c6b9a26c0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-226": {
+      "text": "What was Kryten doing at the table?",
+      "choices": [
+        "Knitting a scarf",
+        "Ironing a shirt",
+        "Folding clothes",
+        "Darning socks"
+      ],
+      "sourceSha256": "e6670d0b07f4c64ad28415e6a47c6f03c92624092860fe9e7c1b9e1fc555fb15",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-227": {
+      "text": "Which colour was Cat's outfit?",
+      "choices": [
+        "Red and blue",
+        "Yellow and black",
+        "Blue and yellow",
+        "Red and black"
+      ],
+      "sourceSha256": "fd9cbba4cbd94a876bd8b4a56e46e7a354b75cb985491fc25cb120bd109d927a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-228": {
+      "text": "What was Lister leaning on?",
+      "choices": [
+        "A bed",
+        "A desk",
+        "Medical equipment",
+        "A trolley"
+      ],
+      "sourceSha256": "aa8837a3dd4793d5ff3c313d23763027ab1d12f01cf251767b3409f18dfd46b8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-229": {
+      "text": "What happens next?",
+      "choices": [
+        "Cat does a high-speed dance",
+        "Cat performs 'Tongue Tied'",
+        "Cat falls in love with Dog",
+        "Cat falls over while dancing"
+      ],
+      "sourceSha256": "9543cf8a084c6ce1c6fa572d0aea58bf46e435dfbb20a11a92627cc9ce21eae1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-230": {
+      "text": "What does Kryten's binary 'android saying' translate as?",
+      "choices": [
+        "\"It is better to live an hour as a tiger than a whole lifetime as a worm\"",
+        "\"Don't stand around jabbering when you're in mortal danger\"",
+        "\"No member of the Corps should present for work in a ginger toupee\"",
+        "“Never tangle with anything that has more teeth than the entire Osmond family”"
+      ],
+      "sourceSha256": "972cfc7386cbccb29bec0693323e481357a0b02fe17822352bd8aae40c7ea446",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l6-231": {
+      "text": "What's roaring their way?",
+      "choices": [
+        "Hot air",
+        "Water",
+        "Cold air",
+        "Sewage"
+      ],
+      "sourceSha256": "bc58c40c5b9d45cce8fdd9bf482770ea14c076bc7061a7c4bbcd8044cc21df57",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-194": {
+      "text": "What is the name of Craig Charles' character in Coronation Street?",
+      "choices": [
+        "Lloyd Mullaney",
+        "Malcolm Moffat",
+        "Lester Mulroney",
+        "Lionel Lloyd"
+      ],
+      "sourceSha256": "5732e77bffc358a7a9821c97c7229b8b727c7d1aba14f16095f8973a6d541931",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-195": {
+      "text": "How many pieces of toilet paper did Rimmer always use?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "6612b0a486a55ceff870620882eb8f907cdec8bf21708f0818705f69ea22dd7a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-196": {
+      "text": "What did Lister use to line Frankenstein's basket?",
+      "choices": [
+        "A newspaper",
+        "His work schedule",
+        "Rimmer's timetable",
+        "His laundry list"
+      ],
+      "sourceSha256": "d9385e62040dce8c6fd1eece17da25a7137035ade9e403c76c41fc255a837bf5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-197": {
+      "text": "What does Kryten's left nipple do?",
+      "choices": [
+        "It regulates body temperature",
+        "It picks up radio signals",
+        "It switches off lie mode",
+        "It activates split-screen vision"
+      ],
+      "sourceSha256": "a5c029bc4bd6c35009f5c7ac30f0d973caedb5369f55515b26c36485bacc9b70",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-198": {
+      "text": "What was the profession of Rimmer's sister-in-law Janine?",
+      "choices": [
+        "A model",
+        "An engineer",
+        "A dancer",
+        "A singer"
+      ],
+      "sourceSha256": "d74d2d5b059d3df183a6d5c0fdf2218f3d0d3ea57901aac5b851f288c6dfb36d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-199": {
+      "text": "Which guitar string did Lister use to floss his teeth?",
+      "choices": [
+        "The E",
+        "The G",
+        "The D",
+        "The C"
+      ],
+      "sourceSha256": "b58d962604d99398aaaed6fab6ad243ccd3411305f2e92cdda0a0c8d274c65f9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-200": {
+      "text": "What was Kryten's alternate identity in Back to Reality?",
+      "choices": [
+        "Able",
+        "Jim Reaper",
+        "Jake Bullet",
+        "Robbie Rocketpants"
+      ],
+      "sourceSha256": "9dc9224100a486317e6a8efb4b75b9e1c4598217828a6612fb71707e701f037e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-201": {
+      "text": "How many places did Kryten and Cat visit when looking for the missing Lister and Rimmer?",
+      "choices": [
+        "12 moons, 6 planets",
+        "16 moons, 5 planets",
+        "14 moons, 2 planets",
+        "10 moons, 3 planets"
+      ],
+      "sourceSha256": "33c903d1ecf1bf3659a1275fded5e07db7de565da9ba868ee1379da69d18f1b6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-202": {
+      "text": "Which circuit was Rimmer having re-routed at the start of Bodyswap?",
+      "choices": [
+        "Epsilon 14598 357",
+        "Gamma 17452 395",
+        "Theta 13401 963",
+        "Delta 18476 392"
+      ],
+      "sourceSha256": "11701b96f8c219701eb329c8918eddfd111f72b55b4844e2e1cf2d3fba6d5004",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-203": {
+      "text": "Which computer chip did Holly get Kryten for his farewell party?",
+      "choices": [
+        "A 5517/W13 alpha-sim modem",
+        "A 1517/7RF alpha-sim modem",
+        "A 1599/XRDP alpha-sim modem",
+        "A 7577/R13 alpha-sim modem"
+      ],
+      "sourceSha256": "81cf89e9a3cafec5ef35af9a6eeb447453093a10d787111869bd285525182f62",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-204": {
+      "text": "How many doors did the crew use Kryten to ram down in White Hole?",
+      "choices": [
+        "33",
+        "43",
+        "53",
+        "63"
+      ],
+      "sourceSha256": "e0b5aed451cf7996c1fae20b4f82d5b6657b449500804c6ce9d801983bdcaefa",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-205": {
+      "text": "Before sharing their dream-sequence schmooze, Rimmer and Lister discussed the Bellagosian war. Where did it take place?",
+      "choices": [
+        "Argon 5",
+        "Adelphi 12",
+        "Sector 12",
+        "Bay 47"
+      ],
+      "sourceSha256": "0c83db35a054221771d10f3a488d131855551d9bce9209970ec1e6d8b0418f7f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-206": {
+      "text": "Which of these sexual activities did not involve Warden Ackerman?",
+      "choices": [
+        "The jiggy jiggy with the science officer's wife",
+        "A date with Patricia Carling from supplies",
+        "Changing out of a Batman outfit",
+        "Changing out of a Spider-Man costume"
+      ],
+      "sourceSha256": "ab2ed5e0fb25305ae91cd3e1fdf33c63b6e277b7ee779622702e44e1e4a63cab",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-207": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Waiting for God",
+        "Thanks for the Memory",
+        "Confidence & Paranoia",
+        "Epideme"
+      ],
+      "sourceSha256": "f6cbd59332e6987f6113ab5b60dc2cab6efe020577303ea2ba83c078062fbca0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-208": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Psirens",
+        "Emohawk - Polymorph II",
+        "Terrorform",
+        "Holoship"
+      ],
+      "sourceSha256": "481137c20b3f2aff4012d7ce1c131c34402c2867e60d5a36327858d43a71e106",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-209": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Lister",
+        "Ground controller",
+        "Cat",
+        "Compère"
+      ],
+      "sourceSha256": "6f638813f4baf5916448c3d99b0641be0640670b1bfd208c768538d30af3b809",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-210": {
+      "text": "Which character is behind the distortion?",
+      "choices": [
+        "Kochanski",
+        "Rimmer",
+        "Lister",
+        "Cat"
+      ],
+      "sourceSha256": "245537fb5b8bf4b95a839f400a2d54c6cdad714e328c41d669824d3cf3339c9c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-211": {
+      "text": "What is the name of the device Kryten is using?",
+      "choices": [
+        "Psi-scan",
+        "Matter paddle",
+        "Remote projection unit",
+        "Time drive"
+      ],
+      "sourceSha256": "47d0c5caadc8802b0c469d8307fb44781a41fd86f62a8086940e9777c7d9b63f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-212": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Barbra",
+        "Loretta",
+        "Caroline",
+        "Lizzy"
+      ],
+      "sourceSha256": "54b271052511ca53437b71454ecd2ad6fbd1864f933d0b4698529af4e8de4213",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-213": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Nigel",
+        "Blood Drinker",
+        "Mex",
+        "Jimmy"
+      ],
+      "sourceSha256": "48e7d96684ff3ee00d1d0162b46e2af14b99e584d3ef7c7cef3e3572c68db396",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-214": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Holoship",
+        "Demons & Angels",
+        "Back to Reality",
+        "Quarantine"
+      ],
+      "sourceSha256": "bdbd35427fe35f379dc20bcba8eb0b75c47a9418f2ecf50ecf0239238fa4f360",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-215": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Ouroboros",
+        "Stoke me a Clipper",
+        "Nanarchy",
+        "Tikka to Ride"
+      ],
+      "sourceSha256": "cde8229a9a7626f58dd92515330c671f19c2d86bd258c879ef99345050a6c673",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-216": {
+      "text": "Select these scenes from Better Than Life in chronological order:",
+      "choices": [
+        "Lister in close-up",
+        "Four people standing on a beach",
+        "Heads sticking out of sand",
+        "Crew standing on a golf course"
+      ],
+      "sourceSha256": "d9cc7584be9283c56a73752a2151e8ebf3320f48377e03fff45b57c09e993854",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l7-217": {
+      "text": "Select these scenes from Demons & Angels in chronological order:",
+      "choices": [
+        "Crew in a dark doorway",
+        "Two figures in a bright corridor",
+        "Two men facing one another",
+        "Figures leaning over a reclining person"
+      ],
+      "sourceSha256": "23af00acbce9d8612363592ba3135c6e469420c660bd606591786f212769e1a3",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l7-218": {
+      "text": "Which character said, \"Watch my dreams\"?",
+      "choices": [
+        "Rimmer",
+        "Lister",
+        "Cat",
+        "Kryten"
+      ],
+      "sourceSha256": "28cf1e40ee57807f1a5926324826ff1e33d518227ba54d917491b528533c4b96",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-219": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Stoke Me a Clipper",
+        "Emohawk - Polymorph II",
+        "Dimension Jump",
+        "Timeslides"
+      ],
+      "sourceSha256": "745789cdf4153a7e1eddc2080416b701170cd73d1d06fdb2053eb6f8ed4f2822",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-220": {
+      "text": "What did Kryten guess the drink was made from?",
+      "choices": [
+        "WD40 and lime",
+        "Rum and motor oil",
+        "Vimto and liquid nitrogen",
+        "Coke and nitric acid"
+      ],
+      "sourceSha256": "dd6ef354a41a49b9907171fe53e32bbe8d31f5d4e3498f7cc97b4c2638ed2a0b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-221": {
+      "text": "Who was chasing the Dwarfers?",
+      "choices": [
+        "Fascist cops",
+        "Psycho killers",
+        "Private security",
+        "Reality patrol"
+      ],
+      "sourceSha256": "9bb141a0a54e85e9b8eec8900c68d68322db35688f95522d293acc43c93c2691",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-222": {
+      "text": "How long had Rimmer been in his cell?",
+      "choices": [
+        "555 years",
+        "556 years",
+        "557 years",
+        "558 years"
+      ],
+      "sourceSha256": "80b3e28fe25997693cddd95064f45e66a847f0fa04d6e70bd876c19a200f5259",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-223": {
+      "text": "In which episode did Cat say, \"I say let's get into the jet-powered rocket pants and Junior Birdman the hell out of here\"?",
+      "choices": [
+        "The Inquisitor",
+        "Terrorform",
+        "Demons & Angels",
+        "Back to Reality"
+      ],
+      "sourceSha256": "ce6cf7dc3e1c3d350fa3c707d1466d4a8eab5e8f372e795fe795e201f9ee6119",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-224": {
+      "text": "Which type of telekinetic wine was in Lister's glass?",
+      "choices": [
+        "Plutonian",
+        "Martian",
+        "Venusian",
+        "Mimosian"
+      ],
+      "sourceSha256": "c5587a7fc06706653459bcd9df4ab13be2a73fdfc26cabe358dfd6938b0ae799",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-225": {
+      "text": "Which of the following items was on the captain's desk?",
+      "choices": [
+        "A plan of the ship's deck layout",
+        "A box of doughnuts",
+        "A model of Red Dwarf in a glass dome",
+        "A star chart"
+      ],
+      "sourceSha256": "7fab8437b7c17531b07514bebb6fe57562fd9b04b70a1f781839f41acf141e28",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-226": {
+      "text": "What was Lister doing at the desk?",
+      "choices": [
+        "Knitting",
+        "A jigsaw puzzle",
+        "Drawing",
+        "Playing chess"
+      ],
+      "sourceSha256": "2cacfe83325757dba575442b24f03216de6eda3a2f285917edd4d793a96540db",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-227": {
+      "text": "Where did Kryten suggest turning right?",
+      "choices": [
+        "At the Swamp of Despair",
+        "At the Wood of Humiliation",
+        "At the Chasm of Hopelessness",
+        "At the Pit of Persecution"
+      ],
+      "sourceSha256": "a227a795a476555e11692b9086ee9ae1a4ae9132a5bbf637ed9eb2aa1be130c0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-228": {
+      "text": "What was the name of Hollister's wife?",
+      "choices": [
+        "Mary",
+        "Magda",
+        "Maureen",
+        "Martha"
+      ],
+      "sourceSha256": "daee1e2e523b29cfc70e180299414929584dacafc959a816661733c805b480f1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-229": {
+      "text": "What happens next?",
+      "choices": [
+        "Starbug takes off",
+        "Rimmer walks through the door",
+        "Lister falls to the ground",
+        "Lister abseils down the hull"
+      ],
+      "sourceSha256": "915675e58822752a409b01b540cf3a77c1aa66e793b408f59ccccd5df42ac2dc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-230": {
+      "text": "What happens next?",
+      "choices": [
+        "Hudzen crushes the brick into powder",
+        "Hudzen breaks the brick with a hammer",
+        "Hudzen fries the brick with laser-vision",
+        "Hudzen breaks the brick in two"
+      ],
+      "sourceSha256": "d23e64f5f4b573c371fe8d99471456d2cb8057d862e87bc62a389c17ad4248e5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l7-231": {
+      "text": "What happens next?",
+      "choices": [
+        "Ace locks Kryten in the cockpit",
+        "Ace knocks Kryten out",
+        "Ace deactivates Kryten's brain",
+        "Ace lets Kryten take his place"
+      ],
+      "sourceSha256": "62b5fcae82994cab43ccc88160e33ab1ecf42373f46f12c7f4652813188a79be",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-191": {
+      "text": "Rob Grant and Doug Naylor created which award-winning ITV sitcom?",
+      "choices": [
+        "The 10%ers",
+        "Is It Legal?",
+        "The New Statesman",
+        "Mike Bassett: Manager"
+      ],
+      "sourceSha256": "41a762179a3fb82c5265727785540bcc19102fd6042120a30aa9fac8fbaa8815",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-192": {
+      "text": "Who was the one person Rimmer slept with while he was alive?",
+      "choices": [
+        "Yvonne McGruder",
+        "Carol McCauley",
+        "Nirvanah Crane",
+        "Doc Newton"
+      ],
+      "sourceSha256": "8e48742c68ae02fa41877b4e4702da9c05c2f2a43a3d3ac274abeb93858994c4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-193": {
+      "text": "How old was Rimmer when he went on a Space Scout survival course?",
+      "choices": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "sourceSha256": "813a77eb939161997894da7f5bda54f4cfdb9985949f838dcad76df1e7b77470",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-194": {
+      "text": "What did Lister claim was his number-one subject at school?",
+      "choices": [
+        "History",
+        "Mathematics",
+        "Geography",
+        "Art"
+      ],
+      "sourceSha256": "f8e8d782fceb5917a3bc0d6cf14b773ffaacd336e427b39d4f394d6d956080c9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-195": {
+      "text": "How many counts of insulting a superior technician were there against Lister?",
+      "choices": [
+        "123",
+        "134",
+        "159",
+        "176"
+      ],
+      "sourceSha256": "cee4ade045198ec9d1d60a944ae77c530517af2cb30279b55ad31cb70fa8060d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-196": {
+      "text": "Which emotion did Kryten find difficult to express?",
+      "choices": [
+        "Happiness",
+        "Anger",
+        "Ambivalence",
+        "Pomposity"
+      ],
+      "sourceSha256": "f87cb84ffa833cea1a0b498756cf97c7d56454df771eae89e96d4af2e6dd09d9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-197": {
+      "text": "In which year was Kryten built?",
+      "choices": [
+        "2340",
+        "2380",
+        "2360",
+        "2320"
+      ],
+      "sourceSha256": "b04be370748f788e8e555c87c57442320fa7ac89033e666214ed38e60bc358d6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-198": {
+      "text": "At what age did Rimmer have his disappointing encounter with Fiona Barrington and her father's compost?",
+      "choices": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "sourceSha256": "89db6cfb5117ae5d225fbe59c1225232391a9df6514d82cd9350c94abe780c02",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-199": {
+      "text": "On which numbered machine did the crew, and their subsequent counterparts, play the Red Dwarf video game in Back to Reality?",
+      "choices": [
+        "8",
+        "14",
+        "16",
+        "47"
+      ],
+      "sourceSha256": "f9eda8292e2754d6815f11bbf69ea1054fadf987058f8b937a80f54e397ec97d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-200": {
+      "text": "Which model number are Kryten's eyes?",
+      "choices": [
+        "379",
+        "579",
+        "759",
+        "975"
+      ],
+      "sourceSha256": "01b6b6a08475b409ec0a8c725d76f381c726281841b3b5dd1688f19cdc786d4f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-201": {
+      "text": "While being tortured by a vicious oiling from two handmaidens, Rimmer suggested having a pizza ready at the end - but with which extra topping?",
+      "choices": [
+        "Olives",
+        "Cheese",
+        "Anchovies",
+        "Pineapple"
+      ],
+      "sourceSha256": "1aac7de3a60aca3ce81ff76b303679e556d055fdef4bd7ffa7ebec0a1d8b90e0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-202": {
+      "text": "What did Rimmer find at co-ordinates 5-3-4-1 by 6-1-6-3?",
+      "choices": [
+        "A meteor",
+        "Ace's ship",
+        "The SS Einstein",
+        "The DNA ship"
+      ],
+      "sourceSha256": "9e55edc77c9683b7183e973d1b6a919f41d3b36d240a7af14e3ef8a5b5a43f75",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-203": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Blue",
+        "Timeslides",
+        "The Last Day",
+        "Justice"
+      ],
+      "sourceSha256": "fd97b6ba4e29124b7ad32f106d4bb9eee1899d8758fc1d025fafce6465f0a94f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-204": {
+      "text": "In which episode did Cat wear this outfit?",
+      "choices": [
+        "Meltdown",
+        "Ouroboros",
+        "Nanarchy",
+        "Beyond a Joke"
+      ],
+      "sourceSha256": "e85fedefd2fdf2df3fc145318efc2742b1a8ddc120405a2a78457680eb375549",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-205": {
+      "text": "Which character is shown here in close-up?",
+      "choices": [
+        "Cat",
+        "Duane Dibbley",
+        "Hitler",
+        "Rimmer"
+      ],
+      "sourceSha256": "80f821f303bcdfdf5fd178e452784712869d2b5edb4e6b3542be4a3600ed403f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-206": {
+      "text": "Which type of creature was this villain?",
+      "choices": [
+        "A GELF",
+        "A mechanoid",
+        "A gestalt entity",
+        "A simulant"
+      ],
+      "sourceSha256": "44298d36979d645857cb1dff312a7757882da5e3942c65a0c0e8b961c252096e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-207": {
+      "text": "What was the name of this ship?",
+      "choices": [
+        "Centauri",
+        "Gemini 12",
+        "Illumination",
+        "Enlightenment"
+      ],
+      "sourceSha256": "f0e99c112e935d13565fce5e273ecca3b79771346aa0734a477db7f88067a581",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-208": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Warden Portman",
+        "M.P. Harrison",
+        "Warden Knot",
+        "M.P. Thornton"
+      ],
+      "sourceSha256": "5fa3390ba5281384be9ce018a80cbd2db17a6b642201dcdb5c9a1e0e99a654ef",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-209": {
+      "text": "What was this character's name?",
+      "choices": [
+        "Captain Vorhese",
+        "Captain Tam",
+        "Captain Tau",
+        "Captain Tal"
+      ],
+      "sourceSha256": "a9005b247d82a442cf70fdc39b5d225d4391f69930be179af0f26c7a797f512d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-210": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Stasis Leak",
+        "Better than Life",
+        "Parallel Universe",
+        "Thanks for the Memory"
+      ],
+      "sourceSha256": "ed1393bc91aed47650a74cb5e904d60690ffceec4d95d03009bfbf12b439c7f7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-211": {
+      "text": "From which episode is this still taken?",
+      "choices": [
+        "Pete - Part 1",
+        "Pete - Part 2",
+        "Only the Good. . .",
+        "Back in the Red - Part 3"
+      ],
+      "sourceSha256": "da74466967bc61128fc9fbd514fd1afbfe75f6d97b0c12f67ed67e14a714e1ef",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-212": {
+      "text": "Select these scenes from Justice in chronological order:",
+      "choices": [
+        "Kryten beside a large screen",
+        "Rimmer wearing a white cap",
+        "Kryten beside a man raising an arm",
+        "Man standing in a bright room"
+      ],
+      "sourceSha256": "b0b5b312a29bda6ca3616848a1f32803b3e9bfa9d775735825d69ad53002cacb",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l8-213": {
+      "text": "Select these scenes from Rimmerworld in chronological order:",
+      "choices": [
+        "Figure beside a brick structure",
+        "Man seated wearing armour",
+        "Man in blue in a dark room",
+        "Crew gathered around a table"
+      ],
+      "sourceSha256": "6442912501fc54a858df696bdae177d4b14d9bd7808a652b48e771afe53e4020",
+      "verified": true,
+      "verification": "manual-source-screen-review",
+      "imageChoices": true
+    },
+    "geek-l8-214": {
+      "text": "In which episode did Kryten ask, “Do you think I’m attractive?”",
+      "choices": [
+        "The Last Day",
+        "Camille",
+        "DNA",
+        "Quarantine"
+      ],
+      "sourceSha256": "bf38ab8650a0fccdb5a1db1da69246f1823447c37b3f2cb32a9f19f75d913885",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-215": {
+      "text": "In which episode was that piece of music heard?",
+      "choices": [
+        "Holoship",
+        "Camille",
+        "Backwards",
+        "Kryten"
+      ],
+      "sourceSha256": "e9cd3e1337499df579d68d84906e5903e4f7baff708ac21cb1d423a2a955e200",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-216": {
+      "text": "What had Rimmer and Lister been celebrating?",
+      "choices": [
+        "Rimmer's birthday",
+        "Lister's birthday",
+        "Holly's birthday",
+        "Rimmer's deathday"
+      ],
+      "sourceSha256": "5839433e55a2d9828847db479a92bbb08f1acc4fde734714e7b29851b2f96ce4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-217": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Holoship",
+        "The Inquisitor",
+        "Terrorform",
+        "Quarantine"
+      ],
+      "sourceSha256": "7e2c4527c6a00ac0b0adbe58b21761cacacef2344af0e650cfb85cfafc6fe190",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-218": {
+      "text": "Which of Kryten's heads was Lister working on?",
+      "choices": [
+        "Spare Head 1",
+        "Spare Head 2",
+        "Spare Head 3",
+        "The original head"
+      ],
+      "sourceSha256": "9e06881b2a9d9dc8291bbb365d207b118cc8d457ef251761ee2034d5d62571f8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-219": {
+      "text": "From which episode is this clip taken?",
+      "choices": [
+        "Ouroboros",
+        "Duct Soup",
+        "Blue",
+        "Epideme"
+      ],
+      "sourceSha256": "59cc58bfdc610feac3113058cfbdf4ed0d8567df333981c645cbce35884620d0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-220": {
+      "text": "In which episode did Cat ask, “How do you want yours? Permed or blow-dried?”",
+      "choices": [
+        "White Hole",
+        "Legion",
+        "Tikka to Ride",
+        "Only the Good. .."
+      ],
+      "sourceSha256": "578c9a12bc4556d0bf3ba40e438885a2a1a7e9665fbe95f75af7a5b2535d5ba4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-221": {
+      "text": "Who did Rimmer order to \"hit the retros\"?",
+      "choices": [
+        "Lister",
+        "Cat",
+        "Kryten",
+        "Holly"
+      ],
+      "sourceSha256": "1cb8354513cdcc44b4e7dcdf5bb358585334570b673074c6b97b4dfa67994ecb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-222": {
+      "text": "What were the babies' names?",
+      "choices": [
+        "James and Becky",
+        "Jen and Brian",
+        "Jack and Barry",
+        "Jim and Bexley"
+      ],
+      "sourceSha256": "19cc13f59b4801fbbbb7474b94bc40d60c8867fd4eb7de28b0111352eea9a1d6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-223": {
+      "text": "What was written on the locker behind Lister?",
+      "choices": [
+        "CL006",
+        "LC005",
+        "CD004",
+        "LP003"
+      ],
+      "sourceSha256": "5847dbc8db2dee50da38e6e18360bd64df99b7667322871400dcabc68f3658fb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-224": {
+      "text": "Which animal head did Lister have?",
+      "choices": [
+        "Wolf",
+        "Deer",
+        "Fox",
+        "Cockerel"
+      ],
+      "sourceSha256": "53c31cd20cb2cf56833d374f011ca2deb374bf9364e1ec698031eef5837e6356",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-225": {
+      "text": "Which colour was the liquid in the test tube?",
+      "choices": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "sourceSha256": "4770f820902f4812e1173c271637a6025691f773258ac1e16528715835841277",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-226": {
+      "text": "What happens next?",
+      "choices": [
+        "Cat is killed by the heat-seekers",
+        "Cat traps the heat-seekers",
+        "The heat-seekers blow up the boiler",
+        "The heat-seekers run out of power"
+      ],
+      "sourceSha256": "a96686942ab808869ac3ca69b3b2722ddc6b58f9b918d54ba973ff44d258c7da",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-227": {
+      "text": "What happens next?",
+      "choices": [
+        "Kryten's head falls off",
+        "Rimmer's slideshow continues for three hours",
+        "Lister's space mumps burst",
+        "Cat lands Starbug on Justice World"
+      ],
+      "sourceSha256": "fd0541a1cf7a1fda190d9aa7f57811b16c451a1a90704a26064de8ea829798b9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "geek-l8-228": {
+      "text": "What happens next?",
+      "choices": [
+        "Kochanski calls Lister",
+        "Kochanski slips from the rope",
+        "Kochanski repairs her trousers",
+        "Kochanski amputates her leg"
+      ],
+      "sourceSha256": "cf8eb6e2f9a4c6e46246529e3520cc953352de6278cd1d06812ab5898c388836",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "perfect-bonus-low": {
+      "text": "How old was Rimmer when he divorced his parents?",
+      "choices": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "sourceSha256": "34124510e9afaca5b953c1749bd6d86320411f17a3461a3d571bb60ae1b6538c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "perfect-bonus-high": {
+      "text": "On what date was the first episode of Series I broadcast in the UK?",
+      "choices": [
+        "February 14th, 1988",
+        "February 15th, 1988",
+        "February 16th, 1988",
+        "February 17th, 1988"
+      ],
+      "sourceSha256": "90ea294ffe18e36876333b4c6bac7b6185287ff2996754c39a689213fedca2f9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    }
+  }
+}

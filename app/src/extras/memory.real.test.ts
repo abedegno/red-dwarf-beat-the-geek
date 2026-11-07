@@ -1,0 +1,34 @@
+import { dataPath } from '../../test/data';
+import {expect,test} from 'vitest';
+import {readFileSync} from 'node:fs';
+import {createExtras,reduceExtras} from './gateway';
+import {initializeMemory} from './memory';
+import type {ExtrasData,ExtrasState,ExtraEvent} from './types';
+const data=JSON.parse(readFileSync(dataPath('../analysis/extras/gateway.json'),'utf8')) as ExtrasData;
+type Expected={page:string;stage:number;phase:string;cue:number;shown:number[];recalled:number[];score:number;focus:number;guardMarker:number;cursorCue:number;selectionSeed:number;variantCue:number};
+type Step={event:ExtraEvent;expected:Expected;draws:number[]};
+const traces=JSON.parse(readFileSync(dataPath('../analysis/extras/memory-traces.json'),'utf8')) as {randomized:boolean;variant:number;seed:number;strategy:string;initial:Expected;initialDraws:number[];steps:Step[];replay:Step[];quit:string}[];
+for(const trace of traces)test(`continuous source Memory ${trace.randomized?'randomized':'legacy'} variant${trace.variant} ${trace.strategy}`,()=>{
+ let s:ExtrasState={...createExtras('archive',1,trace.randomized),gameId:'memory'};s.context={...s.context,cursorCue:9000,selectionSeed:12,variantCue:trace.variant};
+ const draw=(values:number[])=>{const rest=[...values];return ()=>{if(!rest.length)throw new Error('Unexpected Memory random draw');return rest.shift()!;};};
+ s=initializeMemory(data,s,draw(trace.initialDraws));
+ const compare=(e:Expected)=>{expect(s.pageId).toBe(e.page);expect(s.focus,`at ${e.page} phase ${e.phase}`).toBe(e.focus);expect(s.memory?.stage).toBe(e.stage);expect(s.memory?.phase).toBe(e.phase);expect(s.memory?.cue).toBe(e.cue);expect(s.memory?.shown).toEqual(e.shown);expect(s.memory?.recalled).toEqual(e.recalled);expect(s.memory?.score).toBe(e.score);for(const key of ['guardMarker','cursorCue','selectionSeed','variantCue'] as const)expect(s.context[key]).toBe(e[key]);};
+ compare(trace.initial);
+ const send=(step:Step)=>{s=reduceExtras(data,s,{type:'SCENE_READY',token:s.sceneToken});s=reduceExtras(data,s,{...step.event,token:s.sceneToken},draw(step.draws));compare(step.expected);};
+ for(const step of trace.steps)send(step);const menu=s;
+ for(const step of trace.replay)send(step);
+ s=reduceExtras(data,menu,{type:'SCENE_READY',token:menu.sceneToken});s=reduceExtras(data,s,{type:'ACTIVATE',token:s.sceneToken,controlId:3,time:1});
+ expect(trace.quit==='restart'?s.exit:s.pageId).toBe(trace.quit);
+});
+test('actual Memory contexts exercise both archive return and automatic restart',()=>{expect(new Set(traces.map(t=>t.quit))).toEqual(new Set(['restart','archive-intro']));});
+test('the reachable legacy Memory Quit guard starts a fresh randomized boot session',async()=>{
+ const {gameFixture}=await import('../game/fixtures/game');const {createSession,reduceSession}=await import('./session');const {MODE_IDS}=await import('../game/modes');
+ const g=gameFixture();g.entry.boot=['boot'];g.scenes.push({id:'boot',src:'/media/boot.mp4',durationSeconds:1,kind:'clip',audioVariant:null});
+ const games=Object.fromEntries(MODE_IDS.map(id=>[id,g])) as import('../game/presenters').PresenterLibrary['games'];
+ const library:import('./session').SessionLibrary={games,presenterGames:{norman:games,hattie:games},labels:{viewer:'Viewer',geek:'Geek','general-knowledge':'General Knowledge'},controls:Object.fromEntries(MODE_IDS.map(id=>[id,g.entry.menus[0]])) as import('../game/presenters').PresenterLibrary['controls'],extras:data};
+ const trace=traces.find(t=>!t.randomized&&t.variant===0&&t.strategy==='perfect')!,context=trace.steps.at(-1)!.expected;
+ const extra={...createExtras('archive',9,false),pageId:'memory-menu',gameId:'memory' as const,ready:true,context:{randomized:false,guardMarker:context.guardMarker,cursorCue:context.cursorCue,selectionSeed:context.selectionSeed,variantCue:context.variantCue}};
+ const initial={...createSession(library),extra,context:extra.context};
+ const next=reduceSession(library,initial,{type:'EXTRA',event:{type:'ACTIVATE',token:9,controlId:3,time:1}});
+ expect(next.extra).toBe(null);expect(next.context.randomized).toBe(true);expect(next.quiz.phase).toBe('boot');expect(next.quiz.activeScene).toBe('boot');
+});

@@ -1,0 +1,6 @@
+# Optional Pages configuration. Prefer the explicit owner CLI for direct upload.
+name = "red-dwarf-beat-the-geek"
+pages_build_output_dir = "../site"
+compatibility_date = "2026-11-07"
+# Select your own account through CLOUDFLARE_ACCOUNT_ID or --account-id.
+# No Worker, R2 bucket or custom domain is required.

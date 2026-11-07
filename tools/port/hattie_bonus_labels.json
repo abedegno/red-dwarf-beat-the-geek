@@ -1,0 +1,83 @@
+{
+  "sourceFingerprint": "0876ff298e2cd9ba1e752370ac5e87901b79364126a5126fa0dcf7136fd02c77",
+  "questions": {
+    "general-knowledge": {
+      "perfect-bonus-low": {
+        "text": "Which Shakespeare play features the characters of Prospero, Ariel and Ferdinand?",
+        "choices": [
+          "The Tempest",
+          "Love’s Labours Lost",
+          "Twelfth Night",
+          "Two Gentlemen of Verona"
+        ],
+        "sourceSha256": "ccc8f91a21a56ddea5aa643185816257a200bb59588d651682430af0d4b1fd59",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      },
+      "perfect-bonus-high": {
+        "text": "Who did Harry S. Truman replace as president of the United States in 1945?",
+        "choices": [
+          "Calvin Coolidge",
+          "Herbert Hoover",
+          "Franklin D. Roosevelt",
+          "Dwight D. Eisenhower"
+        ],
+        "sourceSha256": "260033b5503d236eadf6c0f74ec8ecad5870d8cbd187eb27ec255afae6a9e2a4",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      }
+    },
+    "viewer": {
+      "perfect-bonus-low": {
+        "text": "What does Cat claim is his middle name?",
+        "choices": [
+          "Handsome",
+          "Sexy",
+          "Gorgeous",
+          "Superficial"
+        ],
+        "sourceSha256": "148c916b62b458fecb7a8b5019cc67b8f516e794b0fa13c3a58e40eddc62c21d",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      },
+      "perfect-bonus-high": {
+        "text": "What is Kryten’s middle name?",
+        "choices": [
+          "2X4B",
+          "2Q4B",
+          "2X4C",
+          "323P"
+        ],
+        "sourceSha256": "885b963fd42b77dd8bca4626e91c0592fe4317e0a65b9b0290665e4a8c3bcec7",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      }
+    },
+    "geek": {
+      "perfect-bonus-low": {
+        "text": "On how many occasions has Lister requested sick leave due to diarrhoea?",
+        "choices": [
+          "10",
+          "60",
+          "250",
+          "500"
+        ],
+        "sourceSha256": "1885798291b8e6aa6e56762732ab72786a62343fcfb3b88f289c72e5d0f8f8d8",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      },
+      "perfect-bonus-high": {
+        "text": "On what date was the final episode of Series VIII broadcast in the UK?",
+        "choices": [
+          "March the 4th, 1999",
+          "March the 5th, 1999",
+          "March the 6th, 1999",
+          "March the 7th, 1999"
+        ],
+        "sourceSha256": "ff4f3538dbdd6dac6278fd346ee767a7c10bfc18cd29e35c9fe73a62b28e8ca5",
+        "verified": true,
+        "verification": "manual-source-screen-review"
+      }
+    }
+  }
+}

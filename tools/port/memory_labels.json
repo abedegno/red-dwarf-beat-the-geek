@@ -1,0 +1,156 @@
+{
+  "sourceFingerprint": "0876ff298e2cd9ba1e752370ac5e87901b79364126a5126fa0dcf7136fd02c77",
+  "verification": "Original object frames, row-major1\u201330, visually inspected in analysis/extras/memory-objects-sheet.png. Descriptive names avoid guessing proper names.",
+  "objects": {
+    "1": {
+      "label": "Teddy bear",
+      "verified": true,
+      "sourceSha256": "6b26d459453a5ae075b0e8b2a2c60cd599659e15553b0599c8b34ca6b840d549"
+    },
+    "2": {
+      "label": "Bucket and spade",
+      "verified": true,
+      "sourceSha256": "52f9955c76fb76634f2a67842df5d0e9bac7d4b429f8019be56f42ee21a68eb5"
+    },
+    "3": {
+      "label": "Vase of red flowers",
+      "verified": true,
+      "sourceSha256": "d3b4dfec4750bcbc40fca0d3a658c31d562cc060f78fb52c282ccbb37e0363a7"
+    },
+    "4": {
+      "label": "Toy dump truck",
+      "verified": true,
+      "sourceSha256": "64deb3b36662ad94e127a20ea562a1c51e879df1da6f6d9baae8083185f358a6"
+    },
+    "5": {
+      "label": "Toy elephant",
+      "verified": true,
+      "sourceSha256": "87d32291610028ea3783aeaa2afc71c26d0328a785c544a40742495f15a24e3c"
+    },
+    "6": {
+      "label": "Top hat",
+      "verified": true,
+      "sourceSha256": "a55632bed6bf7a7aa3e7b1c636a2f7173a070f987841ecb0d930f6e87d6c4544"
+    },
+    "7": {
+      "label": "Boxer figurine",
+      "verified": true,
+      "sourceSha256": "80864877f9cfe677ac8e54b19c37060188d116380e6a7d05d642f021a1315df6"
+    },
+    "8": {
+      "label": "Decorated cylinder",
+      "verified": true,
+      "sourceSha256": "0136bb4bfb508c3b9ccd41f2c9b2d3659e78020df0ae72f4d2d6f8396bc30eb8"
+    },
+    "9": {
+      "label": "Yellow beacon",
+      "verified": true,
+      "sourceSha256": "fe775a0fb45dd0d71e4c17d3b1c8eec4b59561173e0ff81e7583debfd05f0e7f"
+    },
+    "10": {
+      "label": "Red toy car",
+      "verified": true,
+      "sourceSha256": "4633e1482c8ff0dcad7cbccef9bd81fc162cd88da44830d799eb9c74641042e6"
+    },
+    "11": {
+      "label": "Toy scooter",
+      "verified": true,
+      "sourceSha256": "2d6f9b7fe826c215b9d35b9ddebdef0f1d74ce7cb51887f1270538185ee8f5a9"
+    },
+    "12": {
+      "label": "Traffic cone",
+      "verified": true,
+      "sourceSha256": "7093835e946da4b77e269c9ca77e8b56aeac93d4bb9f14fc45d80b3a55e6a9b1"
+    },
+    "13": {
+      "label": "Purple lampshade",
+      "verified": true,
+      "sourceSha256": "62348591179c1021456854db9de6388cdb9808b5e7fce06f613ae99a7f9d6296"
+    },
+    "14": {
+      "label": "Toy bird",
+      "verified": true,
+      "sourceSha256": "ec0a71ef07f98939e885a45cafa1fec8934659f1568bf398ee9ef943ab5e4711"
+    },
+    "15": {
+      "label": "Piggy bank",
+      "verified": true,
+      "sourceSha256": "d78aebfc4c507011a0cc5f359089cf527f448a295e03debd639a0e174ee74344"
+    },
+    "16": {
+      "label": "Woman figurine",
+      "verified": true,
+      "sourceSha256": "7c7299c3dbdbfa60e013126a40690536efea8f2ff0c86b30c00ef390d2992148"
+    },
+    "17": {
+      "label": "Blue handled bowl",
+      "verified": true,
+      "sourceSha256": "d1fe9d37a414f58175199ef45ecd711e8e1ebf8676f95fa228f5474bdef15d4b"
+    },
+    "18": {
+      "label": "Alarm clock",
+      "verified": true,
+      "sourceSha256": "8665102e2bd4b387afecf7ce939b2c340c036e2d66ecaaf10e4d7a81cc199305"
+    },
+    "19": {
+      "label": "Multicoloured ball",
+      "verified": true,
+      "sourceSha256": "47c4ab8aa27c03022bf38b3a761aa0c36e78ed30e9bf6dd635ba2d1c5a461f81"
+    },
+    "20": {
+      "label": "Trainer shoe",
+      "verified": true,
+      "sourceSha256": "fe971687ecfba482b33b555d7c4bf9a7bb594f092929e3df5486132f778682b9"
+    },
+    "21": {
+      "label": "Saucepan",
+      "verified": true,
+      "sourceSha256": "8d4aa7adbf2086f7f24c61805dc03609fa4e4bf15305ea8d2b488052b5aa6997"
+    },
+    "22": {
+      "label": "Yellow spiky ball",
+      "verified": true,
+      "sourceSha256": "5c53cdb91f2ceff82f85be256c1e2fa314e0b1ad4349f1ca86b1c36ddff7aa0c"
+    },
+    "23": {
+      "label": "Scrubbing brush",
+      "verified": true,
+      "sourceSha256": "3ffa26dfd3e97f98dbb0c06a850b6144eafc3e9b603bab9015eeb33ccea4dc26"
+    },
+    "24": {
+      "label": "Metal bucket",
+      "verified": true,
+      "sourceSha256": "bf700804b6974d3947dc7e2672373989098c9d301977c676b47c88d2511c9f30"
+    },
+    "25": {
+      "label": "Toy fish",
+      "verified": true,
+      "sourceSha256": "85cfd22d9e84dd310acd4fca02994cb4a9c77f20c7aea98655a3f8758e6c36e1"
+    },
+    "26": {
+      "label": "Seated figurine",
+      "verified": true,
+      "sourceSha256": "05ad4bbde4f10c969e1604d1c4f8f00400e2b3862a8d07726f656bfee00d4214"
+    },
+    "27": {
+      "label": "Light bulb",
+      "verified": true,
+      "sourceSha256": "fda8f69086f7c6ca402b32ecfb10c3745951a2e5ed51ea9f99a02e300d5b1c01"
+    },
+    "28": {
+      "label": "Plunger",
+      "verified": true,
+      "sourceSha256": "3aec05864165e3c8128bf72a875cad0d4e42d4d68135ba43fd8cc64f2c113d9d"
+    },
+    "29": {
+      "label": "Tennis ball",
+      "verified": true,
+      "sourceSha256": "677d737c77a69b3d771588153ebc432a4e5e51f228e56749c03fed66e62868b7"
+    },
+    "30": {
+      "label": "Striped sock",
+      "verified": true,
+      "sourceSha256": "5138410b592eeea55e875dc02c61bc2964ea4cc6d6bf71c171cda10ca1105bdf"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+:root{font-family:system-ui,sans-serif;color:#d3d3d3;background:#000;font-synthesis:none;color-scheme:dark}
+*{box-sizing:border-box}html,body,#root{margin:0;min-height:100%;width:100%}body{min-height:100svh}
+main{min-height:100svh;display:flex;flex-direction:column;justify-content:center;align-items:center}
+.stage{position:relative;width:min(100vw,calc((100svh - 64px)*4/3));aspect-ratio:4/3;background:#000;overflow:hidden;isolation:isolate}
+.stage:fullscreen{width:100vw;height:100vh;aspect-ratio:auto;display:flex;align-items:center;justify-content:center}
+.stage-content{position:relative;width:100%;aspect-ratio:4/3}
+.stage:fullscreen>.stage-content{width:min(100vw,calc(100vh*4/3));flex:none}
+video,.poster{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block}
+.choices{position:absolute;inset:0;width:100%;height:100%;min-inline-size:0;margin:0;padding:0;border:0;pointer-events:none}
+.hit-area{position:absolute;border:0;padding:0;margin:0;background:transparent;color:transparent;cursor:pointer;pointer-events:auto;touch-action:manipulation;outline:none}
+.hit-area:disabled{cursor:default;pointer-events:none}.highlight{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;object-fit:fill}
+button{font:inherit}.start-play,.playback-prompt button{border:1px solid #aaa;background:rgba(0,0,0,.85);color:#fff;padding:12px 22px;border-radius:4px;cursor:pointer}
+.start-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:24px;box-shadow:0 2px 24px #000}
+.playback-prompt{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#000a;font-size:16px;text-align:center;padding:20px}
+footer{width:min(100vw,1000px);min-height:64px;padding:10px 16px;display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:12px;color:#999}
+footer nav{display:flex;gap:12px}footer button{background:transparent;border:0;padding:7px 0;color:#bbb;font-size:12px;cursor:pointer;white-space:nowrap}
+footer button:focus-visible,.start-play:focus-visible,.playback-prompt button:focus-visible{outline:2px solid #eee;outline-offset:3px}
+.message{padding:24px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:600px){footer{font-size:10px;align-items:flex-start}footer>span{max-width:220px}footer nav{gap:10px}}

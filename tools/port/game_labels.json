@@ -1,0 +1,3677 @@
+{
+  "sourceFingerprint": "0876ff298e2cd9ba1e752370ac5e87901b79364126a5126fa0dcf7136fd02c77",
+  "questions": {
+    "gk-l1-006": {
+      "text": "Which nationality were Abba, who first hit the UK charts in the 1970s?",
+      "choices": [
+        "Swedish",
+        "Danish",
+        "Norwegian",
+        "British"
+      ],
+      "sourceSha256": "e160ccfb063e17c4f852e8b8d9a91c38ad1b600316440107474fc883aeb3a759",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-007": {
+      "text": "Which singer/songwriter’s album ‘Under My Skin’ shot straight to the top of the UK album charts in May 2004?",
+      "choices": [
+        "Avril Lavigne",
+        "Alanis Morrisette",
+        "James Blunt",
+        "Bob Dylan"
+      ],
+      "sourceSha256": "55507a2665b5f66164171410fef3ce74b1b3a89037169f9a3acb581cc33ac21c",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-008": {
+      "text": "Who is the Greek goddess of victory?",
+      "choices": [
+        "Nike",
+        "Gola",
+        "Rebok",
+        "Adidas"
+      ],
+      "sourceSha256": "0bcddca17a52a0d372cdf9854a5c70cac29f656a3010231c93f920d3eb939db6",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-009": {
+      "text": "Which is the fifth letter of the Greek alphabet, meaning ‘bare’ or ‘simple’?",
+      "choices": [
+        "Epsilon",
+        "Delta",
+        "Sigma",
+        "Gamma"
+      ],
+      "sourceSha256": "b37d5575e1fb6987f12e63f3d90d080804e75b339c55159a02d849c0be965f2d",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-010": {
+      "text": "The first telephone call to which charitable organisation, set up by Chad Varah, was made on 2nd November 1953?",
+      "choices": [
+        "The Samaritans",
+        "Help The Aged",
+        "The NSPCC",
+        "Child Line"
+      ],
+      "sourceSha256": "8b01238d8201149a4171bf8b5a22a57b4eacaac6a607c9784933fb94bc45a037",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-011": {
+      "text": "Which is the name of Madrid’s famous art gallery?",
+      "choices": [
+        "Hermitage",
+        "Prado",
+        "Pitti Palace",
+        "Uffizi"
+      ],
+      "sourceSha256": "c14d80e2c18e22ccf22c80d89b1062f5985469e4c7c6247d34b0c75fea8a947e",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-012": {
+      "text": "How many tennis tournaments make up the ‘grand slam’?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceSha256": "40ec62d3b13894fa45abf078915586db9c7c65aea5012d32405d316327ea720b",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-013": {
+      "text": "Which of these is not a recognised world boxing championship organisation?",
+      "choices": [
+        "World Boxing Association (WBA)",
+        "World Boxing Federation (WBF)",
+        "International Boxing Federation (IBF)",
+        "World Boxing Council (WBC)"
+      ],
+      "sourceSha256": "12aaf885df499caafbf193fab62b9b5fed161ff56a75dea47460f987c72aa3df",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-014": {
+      "text": "Who was lead singer with Queen?",
+      "choices": [
+        "Steve Harley",
+        "Freddie Mercury",
+        "Bob Geldof",
+        "Noddy Holder"
+      ],
+      "sourceSha256": "c10de85f5ea3e841da4de86bde8b4969fd17105fd68dea543c119bab6ef3e117",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-015": {
+      "text": "How many years of marriage must one survive to celebrate a ruby wedding?",
+      "choices": [
+        "30",
+        "40",
+        "45",
+        "50"
+      ],
+      "sourceSha256": "995cfda006eb59713e599c5d125e72cad3085791d0c79c9a761186e6476a8e90",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-016": {
+      "text": "Mountaineer Sir Edmund Hillary was born in which country?",
+      "choices": [
+        "Switzerland",
+        "New Zealand",
+        "Australia",
+        "Scotland"
+      ],
+      "sourceSha256": "a90f2853afc348dfe5cf57d316a3f1499c3c57cc1f9087cc118c769e89b15536",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-017": {
+      "text": "Who was prime minister of Britain when it joined the EEC?",
+      "choices": [
+        "Jim Callaghan",
+        "Margaret Thatcher",
+        "Edward Heath",
+        "Harold Wilson"
+      ],
+      "sourceSha256": "76e70b8b47c572818c2e7c9c0cc184c74a3f637043e3718f0c128f1bc7b66978",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-018": {
+      "text": "Which memorial to Diana, Princess of Wales was opened in Hyde Park by the Queen in July 2004?",
+      "choices": [
+        "Walkway",
+        "Statue",
+        "Fountain",
+        "Rose garden"
+      ],
+      "sourceSha256": "0c5726d65773cb6dd0bc0451ef2f56c413c12ab3d2dbb383fcea29305912a9ff",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-019": {
+      "text": "Which of these art movements was not born in France?",
+      "choices": [
+        "Impressionism",
+        "Symbolism",
+        "Surrealism",
+        "Expressionism"
+      ],
+      "sourceSha256": "aeb6f64297eccf9a596a57e1853f2629cfec84ac7daf6fc91850ad1542c0ed3b",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-020": {
+      "text": "From which wood are the black keys of a piano traditionally made?",
+      "choices": [
+        "Teak",
+        "Oak",
+        "Balsa",
+        "Ebony"
+      ],
+      "sourceSha256": "bbf3fba37c05214183c7782e8b544de9aef5e61803fc9f0ac346aad3ae4ca742",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-021": {
+      "text": "Which former American president’s autobiography, ‘My Life’, was published in 2004?",
+      "choices": [
+        "Jimmy Carter",
+        "George Bush Snr",
+        "Ronald Reagan",
+        "Bill Clinton"
+      ],
+      "sourceSha256": "e759eedec6197c09332389c863b91c373f6ae367c88395f932615e0555a16f5a",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-022": {
+      "text": "Which is the name of Terence and Shirley Conran’s fashion designer son?",
+      "choices": [
+        "Charles",
+        "Harold",
+        "Dexter",
+        "Jasper"
+      ],
+      "sourceSha256": "c84404fb3cc9e6c86ac8363dcdcc5a0ac6cfcda1ef5715a986d2c862e922936b",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-023": {
+      "text": "Name this famous piece of music.",
+      "choices": [
+        "‘The Ride of the Valkyries’",
+        "‘The Triumph of the Heroes’",
+        "‘The Wrath of the Gods’",
+        "‘The Journey of the Trojans’"
+      ],
+      "sourceSha256": "093d72794ef77aade56f9c07f560b2d91476e2fe4d0fa862e9361a3e020d9272",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-024": {
+      "text": "Name this famous piece of music.",
+      "choices": [
+        "‘The Davy Crockett Concerto’",
+        "‘The Robin Hood Symphony’",
+        "‘The Dick Turpin Suite’",
+        "‘The William Tell Overture’"
+      ],
+      "sourceSha256": "5a875dca9910abffe29381ccda0a9a6235851f7e7b3469a24a934f1833e4b6f0",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-025": {
+      "text": "How many lipstick marks were on Holly’s face?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "dc52ede20499535cef6ae210f2ea202f65b89dafc45ffdd95dfeb16d7b91e913",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-026": {
+      "text": "What was written at the top of the notice board?",
+      "choices": [
+        "JMC",
+        "Captain",
+        "Notices",
+        "Sipestro"
+      ],
+      "sourceSha256": "111b953ee0664dc88951a37673d9967ed5db351ca5095031de12efabf20e4ee0",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-027": {
+      "text": "What was shown on the monitor behind Rimmer?",
+      "choices": [
+        "Starbug",
+        "Figures",
+        "Nebulae",
+        "‘Auto Pilot’"
+      ],
+      "sourceSha256": "ed61eb02d2ff0081aabc342a85992111c0140850ec345adf4fa3ba7932797cfd",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-028": {
+      "text": "How many pairs of scissors did Kryten place on the table?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "cc2644a4e418f72b26e02d06013d462513bec645ead417496cc0c46cd890f000",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-029": {
+      "text": "How many women did Rimmer pass in the corridor?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceSha256": "ab2ab3e555ca6edf57ebe80ad9bb45a2ed4ddbc9e82713f9fa88d90cbe64f99e",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-030": {
+      "text": "Which colour was Rimmer’s uniform?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "sourceSha256": "ec991c197aa72e50b090e8754b3bb9c0a9b911fc69f8851f5548106d58b8ea86",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-031": {
+      "text": "Which two famous historical characters were shown blowing up?",
+      "choices": [
+        "Mother Teresa and Pope Gregory",
+        "Noel Coward and Gandhi",
+        "Gandhi and Mother Teresa",
+        "Pope Gregory and Noel Coward"
+      ],
+      "sourceSha256": "94bec4b3c4f18e5bb82af29709180749b16d0b3b2047ab5bef5b5485fed4d2ab",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-032": {
+      "text": "Which colour was Cat’s jacket?",
+      "choices": [
+        "Cream",
+        "Orange",
+        "Yellow",
+        "Green"
+      ],
+      "sourceSha256": "e3e0ad35cb23a05152a5fca48ba16af8b4fc116d5f4263c5574853e49f7c6b57",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-033": {
+      "text": "Which colour were the hand-grips on Ace’s bike?",
+      "choices": [
+        "Red",
+        "Black",
+        "Grey",
+        "Purple"
+      ],
+      "sourceSha256": "3f93d0189547445ebd490e1444ced14d7180096b86cdceccac43e79d2c882400",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-034": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Food grater",
+        "Electric razor",
+        "Surform plane",
+        "Steam iron"
+      ],
+      "sourceSha256": "5279da5f228c482f692b8d049e9dc242caa1745649d2460c02a46b79029cde7b",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-035": {
+      "text": "This statue of ‘Christ The Redeemer’ looks over the city of Rio de Janeiro in which country?",
+      "choices": [
+        "Brazil",
+        "The USA",
+        "Denmark",
+        "India"
+      ],
+      "sourceSha256": "9fa268b12cdf0c293890d822a607cceb5610bc573d082e26a0bf36be24b0698c",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-036": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Lighter",
+        "Stapler",
+        "Child lock",
+        "Hinge"
+      ],
+      "sourceSha256": "b89157719bff2e7af089636c6d682fca7bb754d6c94975f55bc334c89595af65",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-037": {
+      "text": "What is the common name for this animal, which is native to the Americas and notable for its mischief and ability to open cans?",
+      "choices": [
+        "Badger",
+        "Raccoon",
+        "Otter",
+        "Stoat"
+      ],
+      "sourceSha256": "fc6fabb938a049ca965008ffedb60c2970c8aa205af513d0ae5cfce76ad4fbce",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-038": {
+      "text": "One of the most famous landmarks in Istanbul, the Sultanahmet is known in English as a mosque of which colour?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "sourceSha256": "18ab655c6c796d7b710609867b89da773102de9c95b249cb343a69035131cd08",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-039": {
+      "text": "Which is the correct name of the celestial phenomenon featured?",
+      "choices": [
+        "Galaxy Way",
+        "Hazelnut Cluster",
+        "Milky Way",
+        "Wagon Wheel"
+      ],
+      "sourceSha256": "bf7fe90e87d1ec65a2bd6416e614755b1b709f62cb8e0265560a142b93bab9df",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-040": {
+      "text": "Its Latin name is Vulpes vulpes but what is the common name for this animal?",
+      "choices": [
+        "Laughing hyena",
+        "Grey wolf",
+        "Red fox",
+        "Badger"
+      ],
+      "sourceSha256": "d55018e4bb784820565346df4094710b8ab41acb03960e7c138d5ac8e005d936",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-041": {
+      "text": "Referred to as ‘The Kotel’, ‘The Western’ and ‘The Wailing Wall’, in which modern-day country is this landmark situated?",
+      "choices": [
+        "Japan",
+        "Australia",
+        "Israel",
+        "Zimbabwe"
+      ],
+      "sourceSha256": "ee9ba87af24d9c0d8e52a140cf887164679400b36ff033b633d7064a98fff90f",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-042": {
+      "text": "What are these, usually religious, towers known as?",
+      "choices": [
+        "Temples",
+        "Shrines",
+        "Gondolas",
+        "Pagodas"
+      ],
+      "sourceSha256": "d6f7d1702a809b9a82d878e6843cffce30edcfe044824df543a5fa7d4fd7d87a",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l1-043": {
+      "text": "Starting with the earliest, select these tracks according to when they first reached number one in the charts.",
+      "choices": [
+        "‘Karma Chameleon’ - Culture Club",
+        "‘Rock Around the Clock’ - Bill Haley and the Comets",
+        "‘Wannabe’ - Spice Girls",
+        "‘I Want To Hold Your Hand’ - The Beatles"
+      ],
+      "sourceSha256": "96c7999c6e5cd55366528037cf20be603c952105bf76003d3b7f908315ff8d22",
+      "verified": true,
+      "verification": "previous-manual-source-screen-review"
+    },
+    "gk-l2-112": {
+      "text": "Which of the following politicians was not an American president?",
+      "choices": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "Andrew Jackson",
+        "James Madison"
+      ],
+      "sourceSha256": "18b6867d17fee2558b9e8a72e7caa4fe54079afb7b010854f8004b0a0c0345e2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-113": {
+      "text": "Which city hosted the F1 Australian Grand Prix from 1985 to 1995?",
+      "choices": [
+        "Adelaide",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "sourceSha256": "16ff3d14fbfa5a1f0a77920dfc8ddf58638d9561c4ca06e8a5589f406dc6aee9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-114": {
+      "text": "Starting with the most recent, select these sporting films in chronological order.",
+      "choices": [
+        "Bend It Like Beckham",
+        "Jerry Maguire",
+        "Chariots of Fire",
+        "Bull Durham"
+      ],
+      "sourceSha256": "064f8c3ab2dee5711ac62b2b4080464b1e794c2721bb4c9c26070f51b70b4535",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-115": {
+      "text": "'Is this the real life?' is the first line of a song by whom?",
+      "choices": [
+        "Prince",
+        "King",
+        "Princess",
+        "Queen"
+      ],
+      "sourceSha256": "6958cdb06e23b60dd11dfe92f460a1c221ddda14dbb12d1c42f63bf22c9a695c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-116": {
+      "text": "Starting with the earliest, select these tracks in chronological order according to when they were at number one at Christmas for the first time.",
+      "choices": [
+        "'Bohemian Rhapsody'- Queen",
+        "'I Will Always Love You'- Whitney Houston",
+        "'Return To Sender'- Elvis Presley",
+        "'Somethin’ Stupid'- Robbie Williams and Nicole Kidman"
+      ],
+      "sourceSha256": "d03a9aff6129465e0c38d365434609cb33014b1d809c7a3c2806c65d18987d41",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-117": {
+      "text": "Starting with the earliest, select these male solo singers in the order that they reached the top of the singles charts.",
+      "choices": [
+        "Leo Sayer",
+        "Marvin Gaye",
+        "Ricky Martin",
+        "Dean Martin"
+      ],
+      "sourceSha256": "65434e68af0be012271ce57307c587e2cbabb09d2588322ba18b596f80ccd4ec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-118": {
+      "text": "Which of these is not a country and western music star?",
+      "choices": [
+        "Garth Brooks",
+        "Liza Minnelli",
+        "Brad Paisley",
+        "Dolly Parton"
+      ],
+      "sourceSha256": "e6a51bfe8846fc7a22f9e9e3fd5132a513390522cfda89a6dcd2fe3b2815346e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-119": {
+      "text": "Which group had a UK top 10 hit in 2000 with 'Beautiful Day'?",
+      "choices": [
+        "Blazin' Squad",
+        "Hear'Say",
+        "U2",
+        "D12"
+      ],
+      "sourceSha256": "25008c0590f4acbcc07f3b632419c39978ded1a1d670cb45663c559cd160a48c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-120": {
+      "text": "Which of these is classified as a woodwind instrument?",
+      "choices": [
+        "Trumpet",
+        "Tuba",
+        "Saxophone",
+        "Euphonium"
+      ],
+      "sourceSha256": "b69d9ea81e4d7456e12159f2364ffdc0804b75d965fef5135ac3d42ecddc2bea",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-121": {
+      "text": "Who wears the Fisherman's Ring?",
+      "choices": [
+        "The Pope",
+        "The Archbishop of Canterbury",
+        "The President of France",
+        "The Lord Chancellor"
+      ],
+      "sourceSha256": "8751dbe41f75aa9e8e2fcd58a6c271211590377e3be046f560899ce0b4e11562",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-122": {
+      "text": "Which boy's name comes from the Greek for 'lover of horses'?",
+      "choices": [
+        "Horace",
+        "Charles",
+        "Philip",
+        "George"
+      ],
+      "sourceSha256": "563a5cb10164ba7701e663dddb687710c9a309a12c280c879524e88a3dcd5661",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-123": {
+      "text": "Which vegetable was described by Mark Twain as 'a cabbage with a college education'?",
+      "choices": [
+        "Broccoli",
+        "Spinach",
+        "Brussels sprout",
+        "Cauliflower"
+      ],
+      "sourceSha256": "47b4348456a2a6b579c30ab4220f8dc196c225fcc289bc190b55e17db9883296",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-124": {
+      "text": "Paddington Bear came from which country?",
+      "choices": [
+        "Peru",
+        "Colombia",
+        "Paraguay",
+        "Chile"
+      ],
+      "sourceSha256": "730bcb19efd236cbb4efc375821cf79f69bdc6e3c105e65fe2943a3fb213dcc0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-125": {
+      "text": "What does the prefix 'mega' mean, as in 'megawatt' etc?",
+      "choices": [
+        "1 thousand",
+        "10 thousand",
+        "1 million",
+        "10 million"
+      ],
+      "sourceSha256": "aa6aa4b7e609d5fdce685028f108639bd551f1f01fcd909f4b517f6b6da9af39",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-126": {
+      "text": "Jacqueline Lee Bouvier married which future US president in 1953?",
+      "choices": [
+        "Richard Nixon",
+        "Calvin Coolidge",
+        "Gerald Ford",
+        "John F. Kennedy"
+      ],
+      "sourceSha256": "d6edfd44128ad4639094270401a83ffc43e638b56a8da1c500c214cb44f3a838",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-127": {
+      "text": "Lourdes is a place of pilgrimage in which country?",
+      "choices": [
+        "France",
+        "Spain",
+        "Belgium",
+        "Portugal"
+      ],
+      "sourceSha256": "a44b38eb3e21887d26a44c5d6cba2277344c2bad8477dc305223e9ea354d2b07",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-128": {
+      "text": "What do the British call what Americans call 'gasoline'?",
+      "choices": [
+        "Kerosene",
+        "Petrol",
+        "Diesel",
+        "Paraffin"
+      ],
+      "sourceSha256": "87f286182d30ad3fb168b7c0f134c20a40a7ea7731c0ac006c84330bcf26ad65",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-129": {
+      "text": "Which branch of biology is specifically concerned with the study of animals?",
+      "choices": [
+        "Botany",
+        "Histology",
+        "Zoology",
+        "Anthropology"
+      ],
+      "sourceSha256": "1654066c68b1094f9cb72cdceaf1dc758700d4c2384ba7c01ccabb12e3f4c774",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-130": {
+      "text": "This planet is named after the mythological god of what?",
+      "choices": [
+        "War",
+        "Love",
+        "The sea",
+        "Youth"
+      ],
+      "sourceSha256": "78f01646639f4ce621d82ad6b9e9a3c05097647cf92cca56fd99ef65361e3333",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-131": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Printer",
+        "Mousetrap",
+        "Hole punch",
+        "Typewriter"
+      ],
+      "sourceSha256": "e11b21ecc2bd9961c50155defe7fa338bef6b47af9066d1f63dcca23a6f56cab",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-132": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Wood carving",
+        "Christmas decoration",
+        "Chocolate leaf",
+        "Shoe sole"
+      ],
+      "sourceSha256": "ae8abbed19cd3a8f594d30f981ae262dc4279ecdfe690bde835012d1511d79a9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-133": {
+      "text": "Which bird is depicted in this distorted image?",
+      "choices": [
+        "Macaw",
+        "Hawk",
+        "Owl",
+        "Swan"
+      ],
+      "sourceSha256": "fdf2024976d0b04fb09a4fcbc4b6edee91903ab175c712d5e88d886851e16e2f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-134": {
+      "text": "Which species of owl is this?",
+      "choices": [
+        "Snowy",
+        "Barn",
+        "Tawny",
+        "Spotted"
+      ],
+      "sourceSha256": "48c6b2972050c9a0bf1fd434609ceb8064c4a44120f7a3af533108be8589e2be",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-135": {
+      "text": "Which species of lizard is this, famous for its ability to change colour, long sticky tongue and eyes that move independently of each other?",
+      "choices": [
+        "Monitor",
+        "Gila monster",
+        "Iguana",
+        "Chameleon"
+      ],
+      "sourceSha256": "196e5985a5cc5ad4636a2f5ec7b71fa0968585dcd28a211474cf53f587ac2b6c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-136": {
+      "text": "St Basil's Cathedral is in Russia's most famous square in which city?",
+      "choices": [
+        "Moscow",
+        "Murmansk",
+        "Leningrad",
+        "Vladivostok"
+      ],
+      "sourceSha256": "b292a878c3e0d7a9eceaccbfa990082f9adff33fc9e42982b86e136d01fedc56",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-137": {
+      "text": "Which religion would regard this as a statue of the 'Enlightened' or 'Awakened One'?",
+      "choices": [
+        "Judaism",
+        "Buddhism",
+        "Mormonism",
+        "Hinduism"
+      ],
+      "sourceSha256": "4a228aa8c178613362cdaabf92e6abea87b750e8ed71af469d7ada64213176dc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-138": {
+      "text": "By which name is this Parisian gothic cathedral known?",
+      "choices": [
+        "La Basilique de Saint-Denis",
+        "Les Invalides",
+        "Notre Dame de Paris",
+        "La Basilique du Sacré Coeur"
+      ],
+      "sourceSha256": "5e0505af45a87bd33e2386981f245b51de148cd00bdea5c7349abb6139b62084",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-139": {
+      "text": "What do we call this building, which overlooks Moscow's Red Square? It's the Russian word for 'fortress', 'citadel' or 'castle'.",
+      "choices": [
+        "Bolshoi",
+        "Spashiba",
+        "Dacha",
+        "Kremlin"
+      ],
+      "sourceSha256": "192d9cc36670d6e3c02e8106fdd86b1922adc153a7a41f0f0c9f595f2a398f41",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-140": {
+      "text": "This piece of music was composed for which ballet?",
+      "choices": [
+        "Sleeping Beauty",
+        "The Nutcracker",
+        "A Midsummer Night's Dream",
+        "Cinderella"
+      ],
+      "sourceSha256": "a0655f82621e8f902b6b7cfcc300c8c0e1b2bfd2be3d123590f8a2e0c46321aa",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-141": {
+      "text": "This piece of music is called 'Für Elize'. Who composed it?",
+      "choices": [
+        "Mozart",
+        "Wagner",
+        "Schubert",
+        "Beethoven"
+      ],
+      "sourceSha256": "e2fa40c0bfbb4f8effb5c77f0552ce26909c2cd878290c7b622b4bd0bf34f963",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-142": {
+      "text": "Which wake-up time was originally suggested?",
+      "choices": [
+        "7:00",
+        "7:30",
+        "8:30",
+        "9:00"
+      ],
+      "sourceSha256": "23fbe28f25ecd3ca3c7e2d894d7387e580d0ec9095844aa3bcd38f72b5195ea3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-143": {
+      "text": "On which finger of his left hand was Lister wearing a ring?",
+      "choices": [
+        "His forefinger",
+        "His middle finger",
+        "His ring finger",
+        "His pinkie finger"
+      ],
+      "sourceSha256": "92324d24bd2717661c3e23ea65345488e341b6f46b82b9d4a7097fd2bb2de958",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-144": {
+      "text": "How many chips were blinking on the tower Lister raised?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "6d4854d4c4be14904d26a9911db93c64492781ca5fc0f2a80864f4add8c6c1fb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-145": {
+      "text": "Which colour was the saw's laser?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Green"
+      ],
+      "sourceSha256": "70240476a5c0739015555a641f41481db843f0792447f70b05f596ae9f523b64",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-146": {
+      "text": "Which colour was the ground controller's uniform?",
+      "choices": [
+        "Black",
+        "Blue",
+        "White",
+        "Red"
+      ],
+      "sourceSha256": "f2c3835d36366b14733b334b82ea0b5326250f3db0641b8a1bf22ac209bf9670",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-147": {
+      "text": "Which colour was the painting behind Rimmer?",
+      "choices": [
+        "Red, black and blue",
+        "White, blue and yellow",
+        "Red, blue and white",
+        "Blue, yellow and red"
+      ],
+      "sourceSha256": "1c902e3ebc23a19062a216b5c72e6f2511ca9bba0c35bcc4feb3d3b0c40ac8d1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-148": {
+      "text": "Where was Rimmer's hair parted?",
+      "choices": [
+        "On his left",
+        "In the centre",
+        "On his right",
+        "It wasn't"
+      ],
+      "sourceSha256": "6897dcc229f08d66b925d02ef8602581932b12dbd2380f1f4ea67cc333d2af7e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l2-149": {
+      "text": "Which was the pattern on Kryten's tie?",
+      "choices": [
+        "Black with pink spots",
+        "Pink with black spots",
+        "Black with pink stripes",
+        "Pink with black stripes"
+      ],
+      "sourceSha256": "64c33f3edb73d4450c15270263467ca970a4bb146ee3edb1fae823a6a5e43b60",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-118": {
+      "text": "Which Apollo 11 astronaut did not walk on the moon on July 21st, 1969?",
+      "choices": [
+        "Buzz Aldrin",
+        "Pete Conrad",
+        "Michael Collins",
+        "Neil Armstrong"
+      ],
+      "sourceSha256": "52e2aa56cd4ce7e967f483ffe39653407e0e2cb47ee4f3446918b9660d30a134",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-119": {
+      "text": "The name of which sport comes from the stately home of the Duke of Beaufort, where it was played in the 19th century?",
+      "choices": [
+        "Tennis",
+        "Hockey",
+        "Badminton",
+        "Rounders"
+      ],
+      "sourceSha256": "139f01da5b39234c3324f281764089934bd3205f63f60a0d40bd5c3724f0bda5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-120": {
+      "text": "Which of the following is not a colour of flag officially used by the race marshals in F1 motor racing?",
+      "choices": [
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "sourceSha256": "744e20ee1cd65a5e42325b4b344db79e4730ff69a0459caaf4f140112f88b68a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-121": {
+      "text": "Starting with the highest, select these sports according to the distance of the top of the net from the ground.",
+      "choices": [
+        "Volleyball",
+        "Tennis",
+        "Badminton",
+        "Table tennis"
+      ],
+      "sourceSha256": "51d58104f20ebcc4f4fef06cac0201214e470bc195554ec4e8f8dc627a2263e3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-122": {
+      "text": "Which of these is not a stringed instrument?",
+      "choices": [
+        "Cello",
+        "Clarinet",
+        "Guitar",
+        "Viola"
+      ],
+      "sourceSha256": "85d9e253d2656c74b8ba21ab9a10bafa57715da155fc81a818cf37fe5205a624",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-123": {
+      "text": "Starting with the most recent, select these tracks according to when they first reached number one in the charts.",
+      "choices": [
+        "'I Will Always Love You' - Whitney Houston",
+        "'All You Need Is Love' - The Beatles",
+        "'You're Beautiful' - James Blunt",
+        "'Ebony and Ivory' - Paul McCartney and Stevie Wonder"
+      ],
+      "sourceSha256": "dadc99f58a16c6bea22d6d53ecd6f09c2356af5dcc2cfb4b5bb7f527ddb25683",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-124": {
+      "text": "Which of these artists did not have a number one hit in both the US and UK charts?",
+      "choices": [
+        "Phil Collins",
+        "Madonna",
+        "Kate Bush",
+        "Michael Jackson"
+      ],
+      "sourceSha256": "0cd1c8fe605e2b56a16d70a6f2c45def720f55a092a55b20e143f9a83ef4c0d6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-125": {
+      "text": "Which Indian stringed instrument has a pear-shaped body and a gourd resonator?",
+      "choices": [
+        "Guitar",
+        "Bansuri",
+        "Tambourine",
+        "Sitar"
+      ],
+      "sourceSha256": "1f210733e44835b728401066b3620e9f5075b9ce5450a1e02d2f95bafc1daf39",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-126": {
+      "text": "Which American star topped the UK chart in 1991 with 'Black or White'?",
+      "choices": [
+        "Elvis Presley",
+        "Frank Sinatra",
+        "Michael Jackson",
+        "Dean Martin"
+      ],
+      "sourceSha256": "af14ee30d5b59e421f89d581625e165299e463a1bcb063f3f2397ef2af302e7e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-127": {
+      "text": "Which of these bands did or does not have a male lead singer?",
+      "choices": [
+        "The Police",
+        "Blondie",
+        "Rolling Stones",
+        "Queen"
+      ],
+      "sourceSha256": "915dbd4e6061f4199ff64d2cc92dbd98229995ad9766d26cfaf4c25cea9e6fe4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-128": {
+      "text": "Citius, altius, fortius, meaning 'faster, higher, stronger', is the motto of which organisation?",
+      "choices": [
+        "Budweiser",
+        "Network Rail",
+        "Amtrak",
+        "The Olympic Games"
+      ],
+      "sourceSha256": "0d7b7bec7cb7ab9a6c87a2cfceec7e48e8bf5f4f8bca81c2ec40ce1c6eb27e42",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-129": {
+      "text": "In which German city is the beer festival, the Oktoberfest, held?",
+      "choices": [
+        "Munich",
+        "Leipzig",
+        "Berlin",
+        "Hamburg"
+      ],
+      "sourceSha256": "6e51e1b3cb3627beab2d04c62459f5ff0b26712439277a7d91c5f28bb3aab88d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-130": {
+      "text": "Cumulus and stratus are types of what?",
+      "choices": [
+        "Soil",
+        "Clouds",
+        "Grass",
+        "Hills"
+      ],
+      "sourceSha256": "ea453fa9049c08116d9aa55d0d3a2250cb50581361ede8c70f4e84783aa1d195",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-131": {
+      "text": "Which is the star sign of someone born on New Year's Day?",
+      "choices": [
+        "Sagittarius",
+        "Aquarius",
+        "Capricorn",
+        "Aries"
+      ],
+      "sourceSha256": "f8b79ba0400b858bc8b776239e51fea3797c5af157b291b7ff48bf18bf38856c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-132": {
+      "text": "Which term describes food prepared according to Jewish law?",
+      "choices": [
+        "Halal",
+        "Nouvelle cuisine",
+        "Genetically modified",
+        "Kosher"
+      ],
+      "sourceSha256": "83830410137d122758f26c1991fe825804551b162f68ec835bbd4094ba1adfc8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-133": {
+      "text": "Prague is the capital of which country?",
+      "choices": [
+        "The Czech Republic",
+        "Slovakia",
+        "Slovenia",
+        "Hungary"
+      ],
+      "sourceSha256": "037ab5bdfba94db87ecfb3c56fdcc844f30c45b99e84ae5126ff115f7652c9a1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-134": {
+      "text": "Which country has the shekel as its unit of currency?",
+      "choices": [
+        "Iran",
+        "Israel",
+        "Turkey",
+        "India"
+      ],
+      "sourceSha256": "34f22496c7a944950ac2a8c9c6b00372c64fe9b131fbf4cf0d53f9ee1fd88b45",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-135": {
+      "text": "What was Dolly, the first animal to be cloned from adult cells?",
+      "choices": [
+        "Cow",
+        "Dog",
+        "Sheep",
+        "Pig"
+      ],
+      "sourceSha256": "399cda8fb550370bb9e1e101f562fbc60d97c95a84b387f8713c5e672f1bf193",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-136": {
+      "text": "What is the more common name for a long-case clock?",
+      "choices": [
+        "Stop clock",
+        "Cuckoo clock",
+        "Banjo clock",
+        "Grandfather clock"
+      ],
+      "sourceSha256": "1c7d31c4e1e8bf04152850c280d57d4ccdf59863696aca80861c839bfada12a9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-137": {
+      "text": "What does the 'MI' in MI5 stand for?",
+      "choices": [
+        "Military Intelligence",
+        "Masked Informer",
+        "Maintenance Included",
+        "Marked Information"
+      ],
+      "sourceSha256": "84f98ead477f065e1f60865cc88b798e21acc3e5551ef7184fe9b05bf125fe54",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-138": {
+      "text": "Pomme is the French word for which fruit?",
+      "choices": [
+        "Pear",
+        "Plum",
+        "Apple",
+        "Tomato"
+      ],
+      "sourceSha256": "96668703e4086b806aaf7630e6fc7f810f5d2cd25c91e41c73bb150437037453",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-139": {
+      "text": "What is the American equivalent of the British postcode?",
+      "choices": [
+        "Belt code",
+        "Zip code",
+        "Collar code",
+        "Button code"
+      ],
+      "sourceSha256": "397f4992658de550d29b323da4a547db1ea4fa912f37e8457701062f11d6d867",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-140": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Potato peeler",
+        "Air vent",
+        "Letter box",
+        "Drawer handle"
+      ],
+      "sourceSha256": "f5eda17cc4ed6d94c1ed3fa16aa428fe2ff85292e89abd400bf3fbdcd0a9855e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-141": {
+      "text": "Which species of bear is this?",
+      "choices": [
+        "Panda",
+        "Grizzly",
+        "Koala",
+        "Polar"
+      ],
+      "sourceSha256": "616d67ff21f9166e7bed25935eab76be4a2a050533ef9d5f5c7c9bebcd8d3d23",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-142": {
+      "text": "Which aquatic or marine carnivorous mammal is this?",
+      "choices": [
+        "River otter",
+        "Stoat",
+        "Badger",
+        "Lemming"
+      ],
+      "sourceSha256": "67590da4fc59836265653733aa6573cfb2b67f7293345103e0f5506957e7a191",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-143": {
+      "text": "What species of big cat is this? It is native to the Americas and also known as a cougar and mountain lion.",
+      "choices": [
+        "Leopard",
+        "Cheetah",
+        "Puma",
+        "Polecat"
+      ],
+      "sourceSha256": "8a1c8290853c5fed540913943db9ef4dc26d64a81ae769958bfe9a974cf34b2f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-144": {
+      "text": "The Latin name Fratercula means 'little brother\" but by which common English name do we know this bird?",
+      "choices": [
+        "Pelican",
+        "Parrot",
+        "Shrike",
+        "Puffin"
+      ],
+      "sourceSha256": "abc027ba353d4aa4ec9061945a06d7c3a4628cad001c085d84f198bdfed0ebe2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-145": {
+      "text": "Which species of primate is this?",
+      "choices": [
+        "Mandrill",
+        "Lemur",
+        "Baboon",
+        "Gibbon"
+      ],
+      "sourceSha256": "3dc6943052fe036e8df0ca98ddb600920a89985dc8744929eddb0eb73c334041",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-146": {
+      "text": "At 3,948 miles long and definitely not visible from the moon with the naked eye, what is this monumental structure?",
+      "choices": [
+        "The Wailing Wall",
+        "The Great Wall of China",
+        "The Long Wall",
+        "The Western Wall"
+      ],
+      "sourceSha256": "9626a808e2f0691d1256b2f129f817d14ec902bb69accaa039ba64cb2ffb28e4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-147": {
+      "text": "This piece of music is called 'The Dance of the Sugar Plum Fairy'. For which musical work was it composed?",
+      "choices": [
+        "The Nutcracker",
+        "Fauré's 'Requiem'",
+        "Peter and the Wolf",
+        "Handel's 'Water Music'"
+      ],
+      "sourceSha256": "c1d7b5524dc0b8653db741b82511c33bad903f8424a17cb055e69ae50202575b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-148": {
+      "text": "Which colour was the dummy in the baby's mouth?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Grey",
+        "Pink"
+      ],
+      "sourceSha256": "3206cd774e6ace65c1cdbbfede93c644953b10b8f4f564cc6e0e67bb608f8b5f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-149": {
+      "text": "Which colour was the handkerchief in Cat's jacket pocket?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Pink"
+      ],
+      "sourceSha256": "2807be7ca4aff16d379f2305ce47e29230040c42aa19f9fc145cdd6fd381b420",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-150": {
+      "text": "How many characters said \"seriously\"?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "329e6be1bba0cf46f16c551aaa57f7bf071aa791cfe47af6f722affcb4d2116a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-151": {
+      "text": "Which animal head did Kryten have?",
+      "choices": [
+        "Wolf",
+        "Deer",
+        "Fox",
+        "Cockerel"
+      ],
+      "sourceSha256": "7a8edf35efd45170684d4002cefc496a1dc64c5f30bd51ddabb2eb873f1baade",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-152": {
+      "text": "Which colour was the rat?",
+      "choices": [
+        "Black",
+        "White",
+        "Grey",
+        "Brown"
+      ],
+      "sourceSha256": "34264d9ee1f37c2dbca71614cfd2037d043d50110fa37adf7867fa3cf9902374",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-153": {
+      "text": "What did Cat use to hit Lister?",
+      "choices": [
+        "An axe",
+        "A pipe",
+        "A stick",
+        "A gun"
+      ],
+      "sourceSha256": "07d45adebf486919c35f2e588bc3943af0cb2b256ff269edbc193bc33adc5170",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-154": {
+      "text": "Where was Lister wearing a watch?",
+      "choices": [
+        "On his left wrist",
+        "On his right wrist",
+        "On both wrists",
+        "Nowhere"
+      ],
+      "sourceSha256": "1ada4ad23e7ea6d61007be4e9870f04ab564ca531efc1458ab51d46ac34068bd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l3-155": {
+      "text": "Which was the pattern on Lister's neckerchief?",
+      "choices": [
+        "White with red stripes",
+        "Red with white stripes",
+        "White with red spots",
+        "Red with white spots"
+      ],
+      "sourceSha256": "c0ee6257b5d8568c0d867d89f6245790289f085d753702925574c0ecc925f08a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-118": {
+      "text": "'Take My Breath Away' was the theme song for which action film?",
+      "choices": [
+        "Towering Inferno",
+        "The Great Escape",
+        "Top Gun",
+        "Tomb Raider"
+      ],
+      "sourceSha256": "9e38b9e027eea4cabeea86145ed7ccf56d3c76844e22316157eff6772e57781a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-119": {
+      "text": "In the TV series The Streets of San Francisco, who played detective Mike Stone?",
+      "choices": [
+        "Karl Malden",
+        "David Janssen",
+        "Michael Douglas",
+        "Jack Lord"
+      ],
+      "sourceSha256": "bf58bc6edc7dcdd27ffcd39e045717cbe1479a449dc1dbdf256e1f812b4cae2f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-120": {
+      "text": "Starting with the first, select these British F1 world champions in chronological order.",
+      "choices": [
+        "Graham Hill",
+        "John Surtees",
+        "Jim Clark",
+        "Mike Hawthorn"
+      ],
+      "sourceSha256": "0e19e5f9a6c848f7ddf03f27360f37363c2323ef12c65b3cb1f5de1365f8d4da",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-121": {
+      "text": "Which of these bands did or does not have a female lead singer?",
+      "choices": [
+        "The Beatles",
+        "The Bangles",
+        "B*Witched",
+        "Mis-Teeq"
+      ],
+      "sourceSha256": "56209fcf6255323b9febbe5c1b99b505a3373dfa0e690808651f1ebb1edbcd74",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-122": {
+      "text": "Of which music genre is The Marriage of Figaro an example?",
+      "choices": [
+        "Ballet",
+        "Opera",
+        "Jazz",
+        "Country and western"
+      ],
+      "sourceSha256": "67de60eb47fdaad246a3d7f75bc578091168233ecd4a0406d24cd79027828586",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-123": {
+      "text": "Which of these is not a woodwind instrument?",
+      "choices": [
+        "Clarinet",
+        "Oboe",
+        "Tambourine",
+        "Bassoon"
+      ],
+      "sourceSha256": "cf9e119289538d0758529d425ccf9b5a0bdff26a0c0ceb12a2c6db5215d4adde",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-124": {
+      "text": "Which rite is used to drive away evil spirits using a holy name?",
+      "choices": [
+        "Exoneration",
+        "Exodus",
+        "Exorcism",
+        "Exoticism"
+      ],
+      "sourceSha256": "7ad396d25c65a863951f005293dffab2e6b8566db5bc72baf19e6d028f18539c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-125": {
+      "text": "Which name is given to the leather leggings worn by cowboys?",
+      "choices": [
+        "Fellas",
+        "Blokes",
+        "Guys",
+        "Chaps"
+      ],
+      "sourceSha256": "3bc2cf023223f87cda26e3972a1a5d0020210aaafd5a0191bc7ffb110849ee0b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-126": {
+      "text": "9B is generally regarded as the softest and 9H as the hardest type of what?",
+      "choices": [
+        "Pencil",
+        "Steel",
+        "Water",
+        "Rubber"
+      ],
+      "sourceSha256": "72e33ee5967861861d552972c709600ed5d72cb7fbf49b42b724852d40415087",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-127": {
+      "text": "In comics, how was Peter Parker better known?",
+      "choices": [
+        "Superman",
+        "Spider-Man",
+        "Captain America",
+        "Batman"
+      ],
+      "sourceSha256": "7f781052116636bf3c34b72f6ee846301485f522dcedfa9eb25393d53527f1d0",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-128": {
+      "text": "What is the normal term of office for a US president?",
+      "choices": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "sourceSha256": "f6510fdc89f55b6f8e8accaa8c85bfe2470b13f1927c7b6295599f8a00aa0f55",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-129": {
+      "text": "In an American bathroom it is 'a faucet'; what is it in a British bathroom?",
+      "choices": [
+        "Shower",
+        "Hand basin",
+        "Plug",
+        "Tap"
+      ],
+      "sourceSha256": "cc2b40bae8f04b21d566f6e12cd0acfda485f649693f53b6361a91582253307d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-130": {
+      "text": "Which US state shares its name with a former Soviet republic?",
+      "choices": [
+        "Georgia",
+        "Alabama",
+        "Florida",
+        "Iowa"
+      ],
+      "sourceSha256": "23055ce4881ba8ed73f9d52cf16ffe77a311c374e32060fc30704b747b85ffca",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-131": {
+      "text": "Which zodiacal sign takes its name from the Latin for 'fish'?",
+      "choices": [
+        "Libra",
+        "Pisces",
+        "Aquarius",
+        "Cancer"
+      ],
+      "sourceSha256": "e7bd03fcad9a94885fe697ba3bc55c77437d92372d2404fe669d9dce0ed5e8ab",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-132": {
+      "text": "In which city are there roads called 'Goosegate' and 'Maid Marian Way'?",
+      "choices": [
+        "Coventry",
+        "Leicester",
+        "Nottingham",
+        "Birmingham"
+      ],
+      "sourceSha256": "c1bcb79dff237a30bdc4568f2b0f3fd3fd3a42f3d26c16f938fc4eb6538b1f59",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-133": {
+      "text": "Which colour is the star on the Israeli flag?",
+      "choices": [
+        "White",
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "sourceSha256": "4bfa2c9a2d738c5d28a98c47ade52f7f2456e84c095925e74d64736278a72411",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-134": {
+      "text": "Which of these has been the official London home of the British monarch since Queen Victoria ascended the throne in 1837?",
+      "choices": [
+        "Buckingham Palace",
+        "Windsor Castle",
+        "Sandringham House",
+        "St James's Palace"
+      ],
+      "sourceSha256": "a4212a8fde48a86d4ee65521afa903135902b7148c4ed967458a22f42e18bd0b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-135": {
+      "text": "What, in the nursery rhyme, did Tom Tom the piper's son steal?",
+      "choices": [
+        "Horse",
+        "Pig",
+        "Dog",
+        "Cow"
+      ],
+      "sourceSha256": "90788b1f07c63c57a7b32e809d22bef9752d7396e631d926148e52e99e2000e1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-136": {
+      "text": "In which city are the headquarters of NATO?",
+      "choices": [
+        "Washington DC",
+        "The Hague",
+        "Brussels",
+        "Paris"
+      ],
+      "sourceSha256": "ee7e0d1858786e5deea22574302929346b49493edec21ab503286cf7b5799cde",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-137": {
+      "text": "The logo of which British conservation charity features an acorn and some oak leaves?",
+      "choices": [
+        "The Worldwide Fund For Nature",
+        "Bornfree",
+        "The Woodland Trust",
+        "The National Trust"
+      ],
+      "sourceSha256": "24524c473661f912226a97b78484f4583c054310119b578066828c4062cc27a4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-138": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Perfume bottle",
+        "Pepper mill",
+        "Door bell",
+        "Light switch"
+      ],
+      "sourceSha256": "b5889db1376d48b2a24f6240d836f03e4b2836b15353768e5504859fc4469d08",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-139": {
+      "text": "Which type of boat is depicted in this distorted image?",
+      "choices": [
+        "Gondola",
+        "Trawler",
+        "Dingy",
+        "Sampan"
+      ],
+      "sourceSha256": "d26c9d77d6a99ac808d870dfbf996dba1d8d70bfd31b67976607253ec8d84301",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-140": {
+      "text": "These zebras are native to which continent?",
+      "choices": [
+        "Europe",
+        "Africa",
+        "South America",
+        "Asia"
+      ],
+      "sourceSha256": "5ba045890ead9df925c409386fe49999f093947fb42c9389ed31e2dcd91f0e15",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-141": {
+      "text": "It is the fastest of all land animals and hunts by speed, rather than stealth or pack tactics, reaching speeds of 62mph. Which feline is this?",
+      "choices": [
+        "Polecat",
+        "Jaguar",
+        "Cheetah",
+        "Puma"
+      ],
+      "sourceSha256": "54e31079cdf0cd085b0bf795601e48c4ad40d39d2de45f6f610b0e4dc3d5f100",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-142": {
+      "text": "This opera house is located in the harbour of which Australian city?",
+      "choices": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney",
+        "Perth"
+      ],
+      "sourceSha256": "874f1a84354a74a524a5155e0a0986b9cdc95879f311f4a1099da80a36269758",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-143": {
+      "text": "In which European city did Napoleon have this arch built for his victorious armies?",
+      "choices": [
+        "Berlin",
+        "Rome",
+        "Austerlitz",
+        "Paris"
+      ],
+      "sourceSha256": "0247997f5cc90244f8ca40b5e51ffd5bd2f5ba4ae878289d336bfd75acde844f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-144": {
+      "text": "Of which Asian city, the location of the tallest buildings built in the 20th century, is this a photograph?",
+      "choices": [
+        "Kuala Lumpur",
+        "Singapore",
+        "Beijing",
+        "Hong Kong"
+      ],
+      "sourceSha256": "b2f05664fa7eb999eb641a7e17e2b61cbd3adc596c0a8a958f0f658e7a04e86c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-145": {
+      "text": "In which century did Gustav Eiffel design and build this landmark?",
+      "choices": [
+        "17th",
+        "19th",
+        "18th",
+        "20th"
+      ],
+      "sourceSha256": "420507e8259b0eb4c58b4cbbf639a418cd1b838c3e13faa8383dd92558202531",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-146": {
+      "text": "Who composed this well-known piece of music?",
+      "choices": [
+        "Bach",
+        "Rossini",
+        "Mozart",
+        "Sibelius"
+      ],
+      "sourceSha256": "7f39034ed4d67d1fb859930850607d467377837e5fc82eb3ff211fa4d4bc69f1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-147": {
+      "text": "Name this piece of music composed by Chopin.",
+      "choices": [
+        "'Flurry of Snowflakes'",
+        "'Mists of Dawn'",
+        "'Sunshine'",
+        "'Raindrops'"
+      ],
+      "sourceSha256": "0561efa560c34e6e92f0035e70360a5d5ad8740e80505387f981d708755d287d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-148": {
+      "text": "Which wake-up time was eventually agreed?",
+      "choices": [
+        "5:00",
+        "4:30",
+        "4:00",
+        "3:30"
+      ],
+      "sourceSha256": "5413670ae8669834bc96d9404e59759aa251561b17f4840a804e32f7cecfb57b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-149": {
+      "text": "Which colour was the living Rimmer's tie?",
+      "choices": [
+        "Cream",
+        "Orange",
+        "Blue",
+        "Red"
+      ],
+      "sourceSha256": "fc410d6f3b33e10851a0128b4e969c209701ce2f3c6876d443a21e4ada078db9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-150": {
+      "text": "What did Lister imagine the dog food to be?",
+      "choices": [
+        "Caviar",
+        "Fillet steak",
+        "Pork ribs",
+        "Cat food"
+      ],
+      "sourceSha256": "f5e6e3a27c38e7ecbf1f700d7f08f6d57e154ff08d2c36a0e925c7e3705135fa",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-151": {
+      "text": "What was on the wall behind Rimmer?",
+      "choices": [
+        "An exit sign",
+        "Rope",
+        "Crates",
+        "Nothing"
+      ],
+      "sourceSha256": "5dedc469ce2d31b13a5b1561f80695a1232c8259c042bfe8f6287bdbde612a1b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-152": {
+      "text": "Which toenail did both Listers start to bite?",
+      "choices": [
+        "Left big toe",
+        "Right big toe",
+        "Left little toe",
+        "Right little toe"
+      ],
+      "sourceSha256": "af330549c5c4b158e3c4a71f0e98373e4ec25e2a698a09fbb9540d532ffa10ae",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-153": {
+      "text": "How many shots did Ace fire at the chains?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "15b44a5a7d533e7a9c1aa369fcbc6b7d9a5fd525187a3a026b3eb28fe385eb66",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-154": {
+      "text": "How many of the women Rimmer passed were blonde?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceSha256": "eae53fbf616508f175e2530b8d7427ef6202b79c3eef37ea74efd166496a83a1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l4-155": {
+      "text": "Which colour was the vase that Kryten broke?",
+      "choices": [
+        "Red",
+        "White",
+        "Blue",
+        "Clear"
+      ],
+      "sourceSha256": "359347d771e287dc95e822a34c0bc9fab04655b180ac6284a9a937d8739d5622",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-118": {
+      "text": "Which American humourist and novelist said, \"Golf is a good walk spoiled\"?",
+      "choices": [
+        "Mark Twain",
+        "William Faulkner",
+        "Bill Bryson",
+        "J. D. Salinger"
+      ],
+      "sourceSha256": "9711b849cf7e4996377257d61dc9d8a478101fa842009aaaedc7e0537bb9053f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-119": {
+      "text": "\"Maybe I didn't love you\" is in the first line of a song by whom?",
+      "choices": [
+        "Meatloaf",
+        "Pink Floyd",
+        "Celine Dion",
+        "Elvis"
+      ],
+      "sourceSha256": "8d58b185a5c5874356782e5755dd00e635d5d708a7812c2ad4dac5475a5097c3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-120": {
+      "text": "Starting with the most recent, select these titles in the order that they first reached number one in the UK album charts.",
+      "choices": [
+        "'Shayne Ward' - Shayne Ward",
+        "'Stanley Road' - Paul Weller",
+        "'Double Fantasy' - John Lennon and Yoko Ono",
+        "'Back to Bedlam' - James Blunt"
+      ],
+      "sourceSha256": "a4d847c02cca1658bd63b3f670d034195685a7f933066f8f5ff913f27676bd24",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-121": {
+      "text": "Which of these is not a composer?",
+      "choices": [
+        "Damien Hirst",
+        "Henry Purcell",
+        "Antonio Vivaldi",
+        "Philip Glass"
+      ],
+      "sourceSha256": "49c3604b3487720a20f855074a3650b07dc3d9b4bee3a8ceba4512b38ba8f347",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-122": {
+      "text": "Which of these bands did not have a number one hit in both the US and the UK charts?",
+      "choices": [
+        "Queen",
+        "Police",
+        "Pink Floyd",
+        "REM"
+      ],
+      "sourceSha256": "5dbd94c8e296cbb025f831bb815ba61b4eb105251f2885a5024b174a936092a4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-123": {
+      "text": "Which American singer had a UK top-40 hit in 1996 with 'If It Makes You Happy'?",
+      "choices": [
+        "Bjork",
+        "Sheryl Crow",
+        "Eminem",
+        "Cher"
+      ],
+      "sourceSha256": "e6de13ab8f27c6a2accf36debbcdcb7d523047e81d59b8f11bd62a20eb17d426",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-124": {
+      "text": "Portuguese is the official language of which South American country?",
+      "choices": [
+        "Surinam",
+        "Guyana",
+        "Chile",
+        "Brazil"
+      ],
+      "sourceSha256": "a0eaec024633632db1e85d8a9455575e389bea554a1ad3bafcfb768296c20f45",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-125": {
+      "text": "How many railway stations are there in the standard Atlantic City and London versions of the game Monopoly?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceSha256": "8ecf11ef7e1db83823968d7a30919e81bf1501c8121a219c0b74f558fa22fa79",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-126": {
+      "text": "Which craftsman would use a flat board with a handle underneath, known as a hawk?",
+      "choices": [
+        "Shoemaker",
+        "Plasterer",
+        "Butcher",
+        "Baker"
+      ],
+      "sourceSha256": "4b5c7aa3f76f2f853f257306c0cdcdc67d2e152e5b8fde04d431809bcd60cddd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-127": {
+      "text": "In the abbreviation 'DTP', the 'DT' stands for 'desk top'; what does the 'P' stand for?",
+      "choices": [
+        "Programming",
+        "Protocol",
+        "Publishing",
+        "Printer"
+      ],
+      "sourceSha256": "a003eef2446fa7cba399c6df720c7af76c10b2066f0d18208eb9f31682f9f391",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-128": {
+      "text": "Which is the magazine of the Consumers' Association?",
+      "choices": [
+        "'Exchange & Mart'",
+        "'Loot'",
+        "'Good Housekeeping'",
+        "'Which?'"
+      ],
+      "sourceSha256": "d0d36338ba846e301ff8e36ca0fe20b0aa5a094c910078219bb88fc37a8adfaf",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-129": {
+      "text": "What was the name of Snoopy's bird friend in the 'Peanuts' cartoons?",
+      "choices": [
+        "Woodstock",
+        "Spike",
+        "Linus",
+        "Odie"
+      ],
+      "sourceSha256": "872a31c457f131db7a2ae188ccb0f98cad9ce0f9a56a5dce891f70dfd4eaef7d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-130": {
+      "text": "Which creature gave its name to a stiff-legged military marching step?",
+      "choices": [
+        "Duck",
+        "Goose",
+        "Turkey",
+        "Frog"
+      ],
+      "sourceSha256": "aa8a8bb9bd6b5f159ca13872645ab3b40e3c721e327926883c1afc28e4555513",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-131": {
+      "text": "Which two colours appear on the flag of Canada?",
+      "choices": [
+        "Red and yellow",
+        "Red and blue",
+        "Red and white",
+        "Red and black"
+      ],
+      "sourceSha256": "f62272d6ca178b6fc17a812689726a6c4acfcd5f3aafa79a8485134dc46bc9a4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-132": {
+      "text": "What is a mandolin used for in the kitchen?",
+      "choices": [
+        "Beating eggs",
+        "Basting joints",
+        "Whipping cream",
+        "Slicing vegetables"
+      ],
+      "sourceSha256": "6e2544ef4530cfe800b853ecaaf39ce6942082cabc0500b4595df5e587dc1ec1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-133": {
+      "text": "How many signs of the zodiac are represented by inanimate objects?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "56aedad29716b790dd9edf3905f6ab35e84241a9230ff8127f4190abc3a2da24",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-134": {
+      "text": "In which country are the cities of Salzburg and Innsbruck?",
+      "choices": [
+        "Belgium",
+        "Austria",
+        "Germany",
+        "Switzerland"
+      ],
+      "sourceSha256": "5ff45c7a94dd61c8bc55032c857f1002584e0a7a899c78046acc9d42ba0b68ed",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-135": {
+      "text": "The German firm Steiff was a pioneer in the manufacture of which soft toys?",
+      "choices": [
+        "Puppets",
+        "Dolls",
+        "Teddy bears",
+        "Fur bunnies"
+      ],
+      "sourceSha256": "4b3cbb3600c357b84401907ecfc6c6adf01df00d2d14ab01c924f16a3ce76ed3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-136": {
+      "text": "The adjective 'ursine' refers to which creature?",
+      "choices": [
+        "Deer",
+        "Fox",
+        "Dog",
+        "Bear"
+      ],
+      "sourceSha256": "57f34e6ce4588c232bf6cbd3e8255874995846530c83c40ea52395878f49dcff",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-137": {
+      "text": "Prior to decimalisation, how many pennies made up £1?",
+      "choices": [
+        "60",
+        "120",
+        "240",
+        "252"
+      ],
+      "sourceSha256": "54ea9f163ccb2de7cc061ab7a72eef6e57cc3acf90feeba9146eff100d6425a9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-138": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Valve",
+        "Earring",
+        "Light bulb",
+        "Thermometer"
+      ],
+      "sourceSha256": "b057fc55acd49c8ab9073190295594a22ce18f52973acaeb9a2515539e2dcaef",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-139": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Pony-tail",
+        "Brushed Steel",
+        "Laminate Flooring",
+        "Paintbrush"
+      ],
+      "sourceSha256": "2424b7c5dfe51368861a6ab5e8223df0656052185e81e73dfe587cea94a32e72",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-140": {
+      "text": "Often mistakenly called a 'buffalo', which is native only to Africa and Asia, this animal is native to America and Europe and is which of the following?",
+      "choices": [
+        "Wildebeest",
+        "Black-tailed gnu",
+        "Bison",
+        "Moose"
+      ],
+      "sourceSha256": "1825c18f68ab422f78ba02eaea15b484dc2d56e8151e0aaddd53a5e141dc5959",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-141": {
+      "text": "What were the men whose heads were carved into this South Dakota mountain?",
+      "choices": [
+        "Artists",
+        "Astronauts",
+        "Politicians",
+        "Explorers"
+      ],
+      "sourceSha256": "0b4f9efd4c2b12ef3f7085a60a4e8888cd6da0d8411822c582a11baf1371d4cd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-142": {
+      "text": "Built nearly 2,500 years ago, what is the popular name of this building?",
+      "choices": [
+        "The Mausoleum",
+        "The Parthenon",
+        "The Amphitheatre",
+        "The Viaduct"
+      ],
+      "sourceSha256": "745dc9b7e8f1bf95f2593f8016eee8b96c8b4220316f947cc659080b682d7987",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-143": {
+      "text": "Which country gave this statue to the United States on its centenary as a gesture of friendship?",
+      "choices": [
+        "Russia",
+        "Canada",
+        "France",
+        "England"
+      ],
+      "sourceSha256": "4f43b9ec421aa507ada63e56df3695d38c637b4606fd0cae34a5104be441b387",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-144": {
+      "text": "Which American city is symbolised by this landmark, which was once the largest suspension bridge in the world?",
+      "choices": [
+        "Los Angeles",
+        "Seattle",
+        "Atlanta",
+        "San Francisco"
+      ],
+      "sourceSha256": "79b1b2989ae6e816656726721a8b8e35a039d93bd493b1567e5ed9523f0277f6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-145": {
+      "text": "Which island, owned by Chile, is famous for these moai carvings?",
+      "choices": [
+        "Easter Island",
+        "Millenium Island",
+        "Christmas Island",
+        "Pitcairn Island"
+      ],
+      "sourceSha256": "bdef3311542819038d7b6a3d5751512177f7869fac32d7a4b0246bac5e825688",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-146": {
+      "text": "Verdi, the composer of this music was.....",
+      "choices": [
+        "The son of an inn keeper",
+        "The son of a wig maker",
+        "The son of a tailor",
+        "The son of an artist"
+      ],
+      "sourceSha256": "ef583dabd152a6813df9c4982f23db959076272f9f52cd92aa2bb636a145aceb",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-147": {
+      "text": "Which nationality was the composer of this tune?",
+      "choices": [
+        "Spanish",
+        "German",
+        "Russian",
+        "Italian"
+      ],
+      "sourceSha256": "30723441e09d1ba1ff1c06ff0447badfc8118f3a4cc4975b1fdb5c2cce01ba84",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-148": {
+      "text": "Which inflatable item was mounted on the wall?",
+      "choices": [
+        "Banana",
+        "Dice",
+        "Apple",
+        "Boat"
+      ],
+      "sourceSha256": "db1af4b146dd2187a412e7b37c6e02a2d3072b4efb1ff28bfe662d8e01adddbf",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-149": {
+      "text": "Where did Holly have a lipstick mark?",
+      "choices": [
+        "On his nose",
+        "On his forehead",
+        "On his right cheek",
+        "On his left cheek"
+      ],
+      "sourceSha256": "c5cdf8cc946f10d5b63cc06dc5a2c8e361ae11cbfa0c19cac2f2583602a2c98c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-150": {
+      "text": "Which limb had Rimmer lost from Lister's body?",
+      "choices": [
+        "The left arm",
+        "The right arm",
+        "The left leg",
+        "The right leg"
+      ],
+      "sourceSha256": "d6356d293d6bee9d2403d8e5e799751eeb637750680ce7b9912af6443b6c3b39",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-151": {
+      "text": "How many speed bumps did they hit?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "313e8b297ec0a633c8702ef2da1898c4d92c70f5fd4d45ab5004754f490f9059",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-152": {
+      "text": "What was Kochanski holding in her hand?",
+      "choices": [
+        "A mug",
+        "A pipe",
+        "A spanner",
+        "A hammer"
+      ],
+      "sourceSha256": "87963de9830b6cd1ae48fa8a0652238b44325084afed63672948486ddfb7892f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-153": {
+      "text": "How many earrings did Kill Crazy have in his left ear?",
+      "choices": [
+        "None",
+        "1",
+        "2",
+        "3"
+      ],
+      "sourceSha256": "5aee9b8966bb13d56e80f915212eb0428da83fa752f191cec6672cc23ec9d024",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-154": {
+      "text": "What was written on the unit behind Rimmer?",
+      "choices": [
+        "A1",
+        "B2",
+        "C3",
+        "D4"
+      ],
+      "sourceSha256": "ec008caf6b32311cee8a471ee6028fc74fdb267c34bed0a4dcba229dae6f5c01",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l5-155": {
+      "text": "Which colour was the Marilyn Monroe droid's dress?",
+      "choices": [
+        "Yellow",
+        "White",
+        "Silver",
+        "Gold"
+      ],
+      "sourceSha256": "6991c6b0d44db8c27e6393524ea5ddbe842d7641480e2f29673a76191607de2e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-118": {
+      "text": "The 1895 artwork 'The Scream' was produced by which Norwegian painter?",
+      "choices": [
+        "Karsten",
+        "Sorensen",
+        "Munch",
+        "Bourrec"
+      ],
+      "sourceSha256": "fd3c3a254b96bba0f8650048870e5c13f80ae04c113b3b8cd3b7d50e1582d3f2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-119": {
+      "text": "Starting with the earliest, select these battles in chronological order.",
+      "choices": [
+        "The Battle of Bannockburn",
+        "The Battle of Troy",
+        "The Battle of Agincourt",
+        "The Battle of Hastings"
+      ],
+      "sourceSha256": "45972620ad1ddc2d98bfb43745dcd1673b55812a644130bd9a887e6aa1f13176",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-120": {
+      "text": "Starting with the earliest, select these 20th-century events in chronological order.",
+      "choices": [
+        "Prohibition is introduced in the USA",
+        "Winston Churchill becomes prime minister",
+        "J. F. Kennedy is assassinated",
+        "The Boxer Rebellion in China"
+      ],
+      "sourceSha256": "4c534dd6fac05259b43891ef81f67d9d2478c29ac4f94966eb8fd7188f65ba5c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-121": {
+      "text": "Which of these was not a painter?",
+      "choices": [
+        "Caravaggio",
+        "Velasquez",
+        "Stravinsky",
+        "Botticelli"
+      ],
+      "sourceSha256": "b92f1820b0ac7a7985e52137bac00ff91c3c4dd2aee44c1dc76b04b88981fa83",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-122": {
+      "text": "Which sportsman said, \"It's hard to be humble when you're as great as I am\"?",
+      "choices": [
+        "Yogi Berra",
+        "Muhammad Ali",
+        "Maradonna",
+        "Tiger Woods"
+      ],
+      "sourceSha256": "7e221c941a043aab7665ff38b36a38747275fca815f350fca706b15353362e1c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-123": {
+      "text": "In which sport would you hear or use the term 'crampon'?",
+      "choices": [
+        "Wrestling",
+        "Gymnastics",
+        "Baseball",
+        "Rock-climbing"
+      ],
+      "sourceSha256": "e3c58e61ccffc30c665364d91a87a6587fa1dbedbe608257b6b66d7622870186",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-124": {
+      "text": "Which is the real first name of golfer Tiger Woods?",
+      "choices": [
+        "Trevor",
+        "Edward",
+        "Tony",
+        "Eldrick"
+      ],
+      "sourceSha256": "3eed8797750c47ef9fc12080fcb3d48b2599cdf8aa8a54286f424ead359fb08e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-125": {
+      "text": "'What's Love Got To Do With It?' was a UK number one hit album for Tina who in 1993?",
+      "choices": [
+        "Turner",
+        "Carpenter",
+        "Welder",
+        "Farina"
+      ],
+      "sourceSha256": "5b3747405c1068f7a4ef9380630e85bd8470d39e39740fc06a7df6975a341d6a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-126": {
+      "text": "In which London venue are the annual Promenade concerts held?",
+      "choices": [
+        "The Royal Albert Hall",
+        "White City Stadium",
+        "Earls Court",
+        "The Barbican"
+      ],
+      "sourceSha256": "f1086604ee0d97786d189708d0c8d04475dc4fa5b22319750803fefe11c3116f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-127": {
+      "text": "Starting with the most recent, select these composers in the order of birth.",
+      "choices": [
+        "John Lennon",
+        "Chopin",
+        "George Gershwin",
+        "Noel Gallagher"
+      ],
+      "sourceSha256": "8cf44fdc41b3e873038bbfe435dea99ad146ea11d15ffaef26495b6679591f2b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-128": {
+      "text": "'I give her all my love' is the first line of a song by whom?",
+      "choices": [
+        "The Beatles",
+        "ELO",
+        "REM",
+        "Eminem"
+      ],
+      "sourceSha256": "850f4b8e0556225babceddf5534119f5eb049a68021aaa228251a141ce3f43ec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-129": {
+      "text": "Who had a UK and US number one hit in 2002 with 'Lose Yourself'?",
+      "choices": [
+        "Destiny's Child",
+        "Sugababes",
+        "Sonique",
+        "Eminem"
+      ],
+      "sourceSha256": "a2a82c4a8e1eed377b8bb585d108e65bd550a541a1ea02f86a718929cdf4f86e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-130": {
+      "text": "Which British paper size covers twice the area of A4 paper?",
+      "choices": [
+        "A0",
+        "A3",
+        "A5",
+        "A8"
+      ],
+      "sourceSha256": "0e323f89ed3d36e00e45be831242907334a58027fc0849ce1f2af319e9547506",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-131": {
+      "text": "Which is the only dwarf in Snow White and the Seven Dwarfs to wear glasses?",
+      "choices": [
+        "Bashful",
+        "Dopey",
+        "Doc",
+        "Sleepy"
+      ],
+      "sourceSha256": "bf01ebf603fa5999489a9596d22d9e4e0780c13bd04735e39abc59cdc40cd50d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-132": {
+      "text": "What does the 'GM' stand for in the expression 'GM foods'?",
+      "choices": [
+        "Greatly modified",
+        "Generally modified",
+        "Green and modified",
+        "Genetically modified"
+      ],
+      "sourceSha256": "49a5099ea4d5f6c96e5e2bcb6e692a094dfc61ca562ff6d1d7b087e3dbeabdd9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-133": {
+      "text": "Which type of creature was the dim-witted TV cartoon character Bullwinkle?",
+      "choices": [
+        "Moose",
+        "Pig",
+        "Horse",
+        "Rabbit"
+      ],
+      "sourceSha256": "e5d5d086ada9d1f364f0268368643b79f4fa1e99cd9a0c0d175ce9f12cf81f4e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-134": {
+      "text": "In Britain, what would be your occupation if you were a member of ABTA?",
+      "choices": [
+        "Architect",
+        "Travel agent",
+        "Teacher",
+        "Television actor"
+      ],
+      "sourceSha256": "1bd6ff521512075fd467a44728f5aa9a3cf7ad39de33ff6084648d15d4657e8a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-135": {
+      "text": "Which beach shares its name with a coconut-flavoured liqueur?",
+      "choices": [
+        "Bondi",
+        "Zuma",
+        "Malibu",
+        "Copacabana"
+      ],
+      "sourceSha256": "0478f1e877e0e223f62077f75ac1d83c211ee96513e7eaf51fe23d086b66782f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-136": {
+      "text": "In the Wallace and Gromit adventure A Close Shave, what is the name of the sheep?",
+      "choices": [
+        "Seamus",
+        "Walter",
+        "Emma",
+        "Shaun"
+      ],
+      "sourceSha256": "1e3496c4f25ab159b5b6c7aaaae6236a7749660bd057109610af382dabbea072",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-137": {
+      "text": "Who made his first appearance in the first issue of 'Action Comics' in June 1938?",
+      "choices": [
+        "Superman",
+        "Dan Dare",
+        "Batman",
+        "Flash Gordon"
+      ],
+      "sourceSha256": "529781a7842951eab7e53e7474a6eeba48776ceaeb1d0936510347228c4a3fef",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-138": {
+      "text": "The planet pictured is known by which name?",
+      "choices": [
+        "Uranus",
+        "Venus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "sourceSha256": "bfa1b01295ff3c6fa53f982a06a457a2db615d16bf5b4199aa9b9e4261676bc5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-139": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Watch strap",
+        "Bicycle chain",
+        "Hair slide",
+        "Steel shutter"
+      ],
+      "sourceSha256": "7732128fb83c2080ee6832d37f43b58b9df07a5a5fdf82f19e0e52b940595c9a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-140": {
+      "text": "Which well-known British landmark does this distorted image depict?",
+      "choices": [
+        "Brighton Marina",
+        "Stonehenge",
+        "St. Michael's Mount",
+        "Snowdon"
+      ],
+      "sourceSha256": "296dc97493995a659cd36f2f632439cf323e907d45271ea91d76b8dcd4d47277",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-141": {
+      "text": "Which animal, noted for digging tunnels or sets, is this?",
+      "choices": [
+        "Stoat",
+        "Otter",
+        "Mole",
+        "Badger"
+      ],
+      "sourceSha256": "7b51ce79fd5fd6461358489488ef4ad08cc176a24c5167ac1c10225688c31b48",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-142": {
+      "text": "Across which river was this barrier to high tides officially opened in 1984?",
+      "choices": [
+        "The Potomac",
+        "The Nile",
+        "The Thames",
+        "The Severn"
+      ],
+      "sourceSha256": "81711ae5c36f5ffe1e0f93d00eb4bd19e42e1697b0accda4fb295c7685007b8c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-143": {
+      "text": "Common in Britain, Ireland and New England in the USA and used to mark boundaries in fields, these mortar-free structures are often known by which name?",
+      "choices": [
+        "Chain-link fencing",
+        "Picket fences",
+        "Palisades",
+        "Dry-stone walls"
+      ],
+      "sourceSha256": "1a0795360f9cffaab780c5715f71638f58ac1821d3817dd8cff8c6c48a07e269",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-144": {
+      "text": "What is this building, which houses the legislative and executive branches of the US government, called?",
+      "choices": [
+        "The Capitol",
+        "The Stadium",
+        "The Bureau",
+        "The Basilica"
+      ],
+      "sourceSha256": "51d04f5fd69816b847bbb171e34a09e8ed060c4c0711b455c6a2d0e06eae0ea8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-145": {
+      "text": "In which city is this building located?",
+      "choices": [
+        "Mecca",
+        "Jerusalem",
+        "Agra",
+        "Mumbai"
+      ],
+      "sourceSha256": "8e84b9c87adc7fcb3299747c4bf4d656ee3b743d680a2e01180ec01f89e8f642",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-146": {
+      "text": "Name the composer of this piece of music.",
+      "choices": [
+        "Liszt",
+        "Wagner",
+        "Mahler",
+        "Mendelssohn"
+      ],
+      "sourceSha256": "0f3f13e9e51150fea5f6ad868f385482e54e7c1664b542886e55590d7ec8476a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-147": {
+      "text": "Name this piece of music composed by J S Bach.",
+      "choices": [
+        "'Cortege'",
+        "'Winter Journey'",
+        "'Holberg Suite'",
+        "'Air on a G String'"
+      ],
+      "sourceSha256": "e37e38ca170ea6622645807469bff4400064cc5a7c037d0bd27d59fccdbb9ff2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-148": {
+      "text": "Which colour was Lister's T-shirt?",
+      "choices": [
+        "Grey",
+        "Green",
+        "Yellow",
+        "Blue"
+      ],
+      "sourceSha256": "a3562b70ffd47e4cac72a6ffdf8c9526f4a69064eaa87d77c94c077154a19309",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-149": {
+      "text": "How many characters were involved in the pile-up?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceSha256": "4c9a4b7af2e3bf042449a4cb4cbb7934ea0034534b9a1f1797d5ac300ff1e09e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-150": {
+      "text": "What was on the shelf next to Spare Head 3?",
+      "choices": [
+        "A brown book",
+        "A blue folder",
+        "A brown box",
+        "A blue toolkit"
+      ],
+      "sourceSha256": "f0a7a7205b2fea7d799a51ef59e44c76d98a732bec1b3283e896bb13f70c1160",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-151": {
+      "text": "According to the monitor, what was the Lock Mode setting?",
+      "choices": [
+        "Automatic",
+        "Manual",
+        "Locked",
+        "Unlocked"
+      ],
+      "sourceSha256": "5fd962ea5390d9bf63583eb805eb7e15e37027104738918b310fbd2e06bdbd30",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-152": {
+      "text": "How many slices did Kryten perform?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceSha256": "a20c4f3dd451d8522ef3ee53791076f275c3e006eedcf88b58fbc7e2bee14688",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-153": {
+      "text": "How many people crossed their legs?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceSha256": "cc5a7d5d2dd214b6c7ddbe49a7f0a6c32ffbe60f748c77f2a9c3833a4e984510",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-154": {
+      "text": "How many men was Rimmer talking about moving?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "sourceSha256": "25dc717a7c11bd10b35f6ef5d4d8c4840e10e0e1f3de464f2ded359b78ebb218",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l6-155": {
+      "text": "Which colour jacket was Cat wearing?",
+      "choices": [
+        "Yellow",
+        "Blue",
+        "White",
+        "Green"
+      ],
+      "sourceSha256": "13bde16996bebf474e466aa19684c6cd8c6fa1ce2c07ef0bed6a3235f53a8039",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-118": {
+      "text": "In American football, how many points are scored for a conversion?",
+      "choices": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      "sourceSha256": "fded248517ff21c031814d6474b1456ef148e6276a7e185e0ed0945afc05c7fc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-119": {
+      "text": "Which group had a UK top 10 hit in 2003 with 'Life Got Cold'?",
+      "choices": [
+        "Toploader",
+        "Girls Aloud",
+        "Red Hot Chili Peppers",
+        "Mis-Teeq"
+      ],
+      "sourceSha256": "bdd9c857670e9ab0b440ae6c0f0dca09d3e6cdca7a006a0d280141cd9d79d22b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-120": {
+      "text": "Which nationality was all-girl pop group Atomic Kitten?",
+      "choices": [
+        "French",
+        "British",
+        "Australian",
+        "American"
+      ],
+      "sourceSha256": "ba5c754d0ff44c5f84926aeec8f4eaf521805153dc26708fb00ea3e2814d0c45",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-121": {
+      "text": "Who had a UK and US hit album in 1985 with 'No Jacket Required'?",
+      "choices": [
+        "The Jam",
+        "Roxy Music",
+        "The Smiths",
+        "Phil Collins"
+      ],
+      "sourceSha256": "4c17f63b9f8c7b4b92353b8e9df196918e55e9abd973b921e1ae29079c4a24d9",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-122": {
+      "text": "Starting with the most recent, select these Eurovision Song Contest winners in chronological order.",
+      "choices": [
+        "Greece - 'My Number One' - Elena Paparizou",
+        "UK - 'Making Your Mind Up' - Bucks Fizz",
+        "Switzerland - 'Ne partez pas sans moi' - Celine Dion",
+        "Israel - 'Diva' - Dana International"
+      ],
+      "sourceSha256": "86f814cb98a86b4f9375019cce456f5ff91c2c1548b46ed02b417d9d42ff7c8e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-123": {
+      "text": "'Definitely Maybe' was a 1994 number one hit album for which band?",
+      "choices": [
+        "Rolling Stones",
+        "Beatles",
+        "Blur",
+        "Oasis"
+      ],
+      "sourceSha256": "bb9d1f44da56fda74d25b4b020769a6e49c356420b0f5097bd4d854f71800b41",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-124": {
+      "text": "Androphobia is an abnormal fear of whom or what?",
+      "choices": [
+        "Rats",
+        "Shoes",
+        "Women",
+        "Men"
+      ],
+      "sourceSha256": "76017578caaee8cac62c734e19b0a7942c6d9a5f6513854861c6e767b94e64e6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-125": {
+      "text": "In which country does the rebel movement known as the Tamil Tigers operate?",
+      "choices": [
+        "Sri Lanka",
+        "Afghanistan",
+        "Bangladesh",
+        "India"
+      ],
+      "sourceSha256": "3bb5de9a8f2c8b7bccd41179237c5df0fae3db91acf2a29777ecbf72a56e2d8d",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-126": {
+      "text": "Which famous landmark is made from blue stones quarried in the Prescelly Hills in west Wales?",
+      "choices": [
+        "St Paul's Cathedral",
+        "Stonehenge",
+        "Caernarvon Castle",
+        "Eddystone Lighthouse"
+      ],
+      "sourceSha256": "4f9268cb7ff77a858140202295a9586d220dfd5a1d8af7d387a0ff04227b43fe",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-127": {
+      "text": "The name of which everyday device comes from the Greek words for 'distance' and 'sound'?",
+      "choices": [
+        "Television",
+        "Microphone",
+        "Telephone",
+        "Radio"
+      ],
+      "sourceSha256": "3b2ed46dd93f3a22ff18895d347cdd3eb372118c56fc678a88b6bcaba45a7f59",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-128": {
+      "text": "What do New Yorkers call their underground railway system?",
+      "choices": [
+        "The Metro",
+        "The Tube",
+        "The Underground",
+        "The Subway"
+      ],
+      "sourceSha256": "34e55c42a56cd43a37d49587c3cce152794faa3084df42ea9876a6f8313453d5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-129": {
+      "text": "Where can you travel on the William Tell Express train?",
+      "choices": [
+        "Switzerland",
+        "Belgium",
+        "France",
+        "Austria"
+      ],
+      "sourceSha256": "5a20ca69791a80495aad78b3aa584dee0b2f7df74bb0d3759441494f6fabfdc1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-130": {
+      "text": "Which fee does a restaurant charge if you bring your own wine?",
+      "choices": [
+        "Vintage",
+        "Corkage",
+        "Tunnage",
+        "Pannage"
+      ],
+      "sourceSha256": "43d513e0d81ff262f35be67ade64525040ae35abb1417ff316ce83aed0278507",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-131": {
+      "text": "In a monastery, what do monks normally do in the refectory?",
+      "choices": [
+        "Pray",
+        "Write",
+        "Eat",
+        "Sing"
+      ],
+      "sourceSha256": "6d896e30176007512b4c6c4ef1ce000a74e91140aa931c9e662c769d8b28abab",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-132": {
+      "text": "Which bird was regarded as sacred to the ancient Egyptians and as a pest by Australians?",
+      "choices": [
+        "Flamingo",
+        "Plover",
+        "Magpie",
+        "Ibis"
+      ],
+      "sourceSha256": "d3eb33e79089e48f44d6bd15899778b783ba5e57711b5dedd1351d7c995b93a4",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-133": {
+      "text": "Who, in the nursery rhyme, 'kissed the girls and made them cry'?",
+      "choices": [
+        "Georgie Porgie",
+        "Little Boy Blue",
+        "Little Jack Horner",
+        "Tom Tom the piper's son"
+      ],
+      "sourceSha256": "26cabaebff5a5fabcf3de05bac2e0b2bed3ccfa1b350f6247afd5e22105d1899",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-134": {
+      "text": "Which oil tanker ran aground off Alaska in 1989?",
+      "choices": [
+        "The Amoco Cadiz",
+        "The Exxon Valdez",
+        "The Torrey Canyon",
+        "The Sea Empress"
+      ],
+      "sourceSha256": "812a29d0e5e5067ee6f9319ad3fd48dc1921e0c2f346e50f533bf6f862231db5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-135": {
+      "text": "Who is the father of the 'adopted boykid' cartoon character Swee' Pea?",
+      "choices": [
+        "Wimpey",
+        "Pluto",
+        "Popeye",
+        "Bluto"
+      ],
+      "sourceSha256": "af610f635ceed1edfd5197b7a6701e638a0454ea3a24fca387c2f41db3a0e6e2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-136": {
+      "text": "RENFE is the national railway network in which country?",
+      "choices": [
+        "Germany",
+        "France",
+        "Austria",
+        "Spain"
+      ],
+      "sourceSha256": "2b398f2cf5a3c77a44c5eac4512ee9d4652e5c3a3624fe9780e6a42bd906a42c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-137": {
+      "text": "The planet pictured is known by which name?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Pluto",
+        "Jupiter"
+      ],
+      "sourceSha256": "cb56d1cf9eda5a2206c9765c75912390e573dd3358587a920323304f882f8c6a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-138": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Liquidiser jug",
+        "Video cassette",
+        "Doll's pram",
+        "Alarm clock"
+      ],
+      "sourceSha256": "26faf95debd62fa23c3dfccaf6839c78922d831f9809a9b7c3a2a6a6d7e28da2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-139": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Pendant",
+        "Light fitting",
+        "Spanner",
+        "Nut cracker"
+      ],
+      "sourceSha256": "3d6160b2e381f126f37fda6340f87f649ca15572fe38d273af45da59d197fb93",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-140": {
+      "text": "Which famous London landmark is depicted in this distorted image?",
+      "choices": [
+        "The BT Tower",
+        "Nelson's Column",
+        "Tower 42",
+        "Big Ben"
+      ],
+      "sourceSha256": "68b9b81a9f87dc09cdcf7361eda2a33d545cf9b51fafa13cf38cefe238066492",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-141": {
+      "text": "If this male mated with a female lion, what would be the resulting hybrid?",
+      "choices": [
+        "Lion",
+        "Tigon",
+        "Liger",
+        "Tiger"
+      ],
+      "sourceSha256": "1324dc4ed348e8bbb9aab9f8881249d895b7bbc40f26d97dd178612e41b9b98c",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-142": {
+      "text": "What do we call this agricultural solution to levelling a hilly area?",
+      "choices": [
+        "Tillage",
+        "Terracing",
+        "Irrigation",
+        "Crop rotation"
+      ],
+      "sourceSha256": "8add272d0c61a6246425210c75b936dd1382ecdd11f57dad53859cb7636540f3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-143": {
+      "text": "What is the common name of this bird of prey, which originates in North America and is the national bird of the USA?",
+      "choices": [
+        "Falcon",
+        "Goshawk",
+        "Osprey",
+        "Bald eagle"
+      ],
+      "sourceSha256": "3a3066e328dd4a37c8c4f88eec0095e618e2d58c35fd12c2082fb5fb3ba9218e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-144": {
+      "text": "What is the common name for this species of bird, the national bird of Sri Lanka and India?",
+      "choices": [
+        "Macaw",
+        "Peacock",
+        "Toucan",
+        "Osprey"
+      ],
+      "sourceSha256": "03be85d4889678edaf6ea84f6838182df5fee06764532e222807e00487aa8e92",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-145": {
+      "text": "These wading birds are born white but turn various shades of pink because their diet contains carotene. What is their common name?",
+      "choices": [
+        "Broadbills",
+        "Wagtails",
+        "Flamingos",
+        "Dippers"
+      ],
+      "sourceSha256": "fc4917cdc2a53db83d6b0ab11dc314476ac69d5b80353b0f1d2f466cd0c625c1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-146": {
+      "text": "Name the composer of this piece of music.",
+      "choices": [
+        "Verdi",
+        "Vivaldi",
+        "Grieg",
+        "Tchaikovsky"
+      ],
+      "sourceSha256": "91d2aafdee182909bf8ea2ab76ee32935f5f65d368176263738c766eacb4af67",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-147": {
+      "text": "Name the composer of this piece of music.",
+      "choices": [
+        "Chopin",
+        "Mozart",
+        "Vivaldi",
+        "Haydn"
+      ],
+      "sourceSha256": "39b5483d27fa59122cf85b97ddc508fe78cd0fdf8044eb3e80abc2bbfd42fe5a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-148": {
+      "text": "What was written on Lister's T-shirt?",
+      "choices": [
+        "Mugs Murphy",
+        "D-D-Don't Shoot!",
+        "Asleep",
+        "London Jets"
+      ],
+      "sourceSha256": "08d5d9268a058a955d6e31ae440acaa88f2a6a28693da7e9b11c082ecc8db5ac",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-149": {
+      "text": "What was Rimmer holding in his hand?",
+      "choices": [
+        "A pen",
+        "A pencil",
+        "A pipe",
+        "A flag"
+      ],
+      "sourceSha256": "0068467bfbae06f23ccbb59be14ff38ac600aa3f5811bd055b73d11cfce247c7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-150": {
+      "text": "Which colour was the end of the plug?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Black",
+        "Grey"
+      ],
+      "sourceSha256": "2ca018d63b21bc09521578b9b5a91b1f65d09e56dd0c8ff14240c1d8fce7b630",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-151": {
+      "text": "What was Kryten holding in his hand?",
+      "choices": [
+        "A map",
+        "A torch",
+        "A gun",
+        "A staff"
+      ],
+      "sourceSha256": "89f768457b5caae92edfa873f9b629c33df0eec0a447f00b757bc33eeb57fdd3",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-152": {
+      "text": "What were drawn on the cell walls?",
+      "choices": [
+        "Spaceships",
+        "Stick men",
+        "A series of 'H's",
+        "Five-bar gates"
+      ],
+      "sourceSha256": "eacadafb47c58a452ec31e84fe7980221bdb3e29549ad420d39d829a4d805162",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-153": {
+      "text": "Where was Cat shown to be holding an injury?",
+      "choices": [
+        "His left upper arm",
+        "His right upper arm",
+        "His left forearm",
+        "His right forearm"
+      ],
+      "sourceSha256": "68c315118e21ac535843a99eb5d44b4ed66263439ae0a4bafa795308f3475969",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-154": {
+      "text": "Which item of clothing did Cat throw off first?",
+      "choices": [
+        "His wig",
+        "His boiler suit",
+        "His white coat",
+        "His teeth"
+      ],
+      "sourceSha256": "6c3c8bbaca1a1c278dd7e5e677c737f51672a17a5267b2b586c2177026eef515",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l7-155": {
+      "text": "How many candelabras were visible on-screen?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceSha256": "137d52abfc206ea662c091a524ad77c199beb88470c6fee050dede4b6a6ee1ac",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-116": {
+      "text": "Which of these artists is mostly associated with country music?",
+      "choices": [
+        "Whitney Houston",
+        "Charlotte Church",
+        "Garth Brooks",
+        "Lucy Liu"
+      ],
+      "sourceSha256": "340dce23fbbb890640220dcf0a0464264f5a0f6a144701c1b07188871f1b2a71",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-117": {
+      "text": "Who was the lead singer of the band The Police?",
+      "choices": [
+        "Sting",
+        "Freddie Mercury",
+        "Bob Geldof",
+        "Gary Numan"
+      ],
+      "sourceSha256": "c19e9c8150ace53d18ae9cc289bafd55a232a6fd5f0d4bc81c0daef6eb6330d1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-118": {
+      "text": "'Ben, the two of us need look no more' is the first line of the first US solo number one song by Michael who?",
+      "choices": [
+        "Buble",
+        "Owen",
+        "Jackson",
+        "Bolton"
+      ],
+      "sourceSha256": "df1394ffa93ad83330525a0cf51838ed3cc83b43737d94f1550534fc232106c2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-119": {
+      "text": "The invention of which kitchen device was a spin-off from radar research?",
+      "choices": [
+        "Pressure cooker",
+        "Refrigerator",
+        "Juicer",
+        "Microwave oven"
+      ],
+      "sourceSha256": "0cc95899a49495b1c9b5d9d7e27d9e5dc1a24f0414ae04cddcd633953df6b83e",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-120": {
+      "text": "What was the Chinese gooseberry called when it was taken to New Zealand from the Yangtze valley?",
+      "choices": [
+        "Kiwi fruit",
+        "Quince",
+        "Kumquat",
+        "Lychee"
+      ],
+      "sourceSha256": "f40df2b943838f8aedfba083c45c23bc66a7c1c21f79b35cb3108702160fc303",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-121": {
+      "text": "Which magazine is sold by the homeless of the UK, Australia, Japan, South Africa and Namibia to help them help themselves?",
+      "choices": [
+        "'War Cry'",
+        "'The Big Issue'",
+        "'Watchtower'",
+        "'Socialist Worker'"
+      ],
+      "sourceSha256": "5070065c70b5bd612116dd38a4d83b594abed4746eed4a389cc5f16b129ec1f2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-122": {
+      "text": "To distract the Germans from the fact that Britain had radar, the myth was spread that eating which vegetable helps you see in the dark?",
+      "choices": [
+        "Lettuce",
+        "Cabbage",
+        "Carrots",
+        "Potatoes"
+      ],
+      "sourceSha256": "14ff444e43a7150f2715d3525739c18d98c4dadfb3b43eafb00657f4a78ee9ec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-123": {
+      "text": "Which American chat show host was actually born in Hampstead, London, in 1944?",
+      "choices": [
+        "David Letterman",
+        "Jon Stewart",
+        "Jay Leno",
+        "Jerry Springer"
+      ],
+      "sourceSha256": "92554cbcf0b214f9924e98ceed8b17aac152e1a1fe52a00625b543f6fe9e02aa",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-124": {
+      "text": "Nicholas Breakspear is the only Englishman to have held which title?",
+      "choices": [
+        "Pope",
+        "Shogun",
+        "Emperor of Rome",
+        "UN Secretary-General"
+      ],
+      "sourceSha256": "53842fa3512830e62330d1cbe701e7efb0ecfd019030fb710a2a8aaab8d6258f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-125": {
+      "text": "Who wrote the science best-seller 'A Brief History Of Time'?",
+      "choices": [
+        "Andrew Byatt",
+        "Stephen Hawking",
+        "Carl Sagan",
+        "Richard Dawkins"
+      ],
+      "sourceSha256": "e87ecb7f7b8ab1530a34465c93c6f464bcba064329a9f168808c802cc1d6c280",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-126": {
+      "text": "Which sign of the zodiac is also known as 'the Bull'?",
+      "choices": [
+        "Leo",
+        "Taurus",
+        "Libra",
+        "Scorpio"
+      ],
+      "sourceSha256": "edd80c56bce93c3ecfa18e5215ac41ec2a63097ff7124a0d0f11501b17234b96",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-127": {
+      "text": "Which term describes the study of family origins and history?",
+      "choices": [
+        "Evolution",
+        "Zoology",
+        "Botany",
+        "Genealogy"
+      ],
+      "sourceSha256": "237c082a0a4e1749b07b458be95d359bd799ff243cf4727927edcc3dd774ca6b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-128": {
+      "text": "What, proverbially, makes things worse if it is rubbed into a wound?",
+      "choices": [
+        "Salt",
+        "Vinegar",
+        "Pepper",
+        "Mustard"
+      ],
+      "sourceSha256": "70bfb1661762a85e39713b8cc1cf1ab35d15137ce7b1bd5f33e6485eced08852",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-129": {
+      "text": "What do passengers walk on to board or leave a ship?",
+      "choices": [
+        "Waterwalk",
+        "Gangway",
+        "Walkway",
+        "Shoreway"
+      ],
+      "sourceSha256": "81c107024958359e1a8394cb188cfee7a9803aaa755e1ae669dcf70533a9967b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-130": {
+      "text": "What does a baby wear to keep its clothes clean while it is being fed?",
+      "choices": [
+        "Jib",
+        "Fib",
+        "Bib",
+        "Bob"
+      ],
+      "sourceSha256": "324efc11bbab5b49c7c4beb217f501dcd47665859c445704a365e6376b6774ce",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-131": {
+      "text": "Cobalt is a shade of which colour?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Brown",
+        "Blue"
+      ],
+      "sourceSha256": "d680c6725334f321b9492689d90fc6cabb2cb24a5e31cdbb46d21a88972d9edc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-132": {
+      "text": "Which of these is a Parisian dance?",
+      "choices": [
+        "Cancan",
+        "Rum tum",
+        "Bon bon",
+        "Tin tin"
+      ],
+      "sourceSha256": "c1f71d3d56372c00f20da6d4d7f79e450ae1f4a9f105f7d5d7a091d9475b060f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-133": {
+      "text": "A goatee is a small what?",
+      "choices": [
+        "Goat",
+        "Beard",
+        "Cucumber",
+        "Jacket"
+      ],
+      "sourceSha256": "30f46b642c08d61a9f28844a41c3cd8849f5f6a4fb3ac6878f96c6d280c19365",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-134": {
+      "text": "Who shared the 1993 Nobel Peace Prize with President de Klerk of South Africa?",
+      "choices": [
+        "Oliver Tambo",
+        "Yitzhak Rabin",
+        "Robert Mugabe",
+        "Nelson Mandela"
+      ],
+      "sourceSha256": "dd00a244884e8c186923c8f6e017607ab3a787deeaa9b4e93f6db6fd3b0e7de2",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-135": {
+      "text": "This nebula is named after which living thing?",
+      "choices": [
+        "Horse",
+        "Crab",
+        "Ant",
+        "Tarantula"
+      ],
+      "sourceSha256": "5d16fe9ca2da0aa8bd8340092c7f34587490a7ee25ccda41e05c4bb2cc142dec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-136": {
+      "text": "This photograph is an extreme close-up of which of the following?",
+      "choices": [
+        "Towel rail",
+        "Water pipe",
+        "Gas fitting",
+        "Corkscrew"
+      ],
+      "sourceSha256": "0e6876c7d35a894ff0ac9d6c03ddf7c89f10955b75982b84c2b25c81447d56ec",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-137": {
+      "text": "On which continent could you visit this wonder of the ancient world?",
+      "choices": [
+        "Asia",
+        "Europe",
+        "South America",
+        "Africa"
+      ],
+      "sourceSha256": "d31ebd3a169c2df9292e3317a9f2c6443f09c4d0af9eaf7e22b35f789b304be8",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-138": {
+      "text": "Which Tuscan city would you need to visit to see this tower?",
+      "choices": [
+        "Pisa",
+        "Florence",
+        "Siena",
+        "Lucca"
+      ],
+      "sourceSha256": "757dbe74f1477e4c3cfd218209fb7444d1aa5c53bf5b5fae095eab8f02b93f3a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-139": {
+      "text": "To which continent is this elephant native?",
+      "choices": [
+        "Europe",
+        "Asia",
+        "North America",
+        "Africa"
+      ],
+      "sourceSha256": "7c7e7790291ecdd5d5e76d8108334bdc989e321cc8643863e4bf16fae83433ba",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-140": {
+      "text": "What is the name of this African deer, the term coming from the Zulu language?",
+      "choices": [
+        "Impala",
+        "Fallow deer",
+        "Sambar deer",
+        "Black muntjac"
+      ],
+      "sourceSha256": "0692ff51fdf501e5c6be461b5f474fed1dbedb49832c673ec8c14032d84cfce1",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-141": {
+      "text": "What is a building such as this, particularly associated with ancient Rome and used for spectator sports, games and displays, known as?",
+      "choices": [
+        "Acropolis",
+        "Amphitheatre",
+        "Mausoleum",
+        "Parthenon"
+      ],
+      "sourceSha256": "0c56558c842dc1b122ca8d04bc341ede437a9bb8832d93f5ccf8ebe1f4e0654f",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-142": {
+      "text": "'Acropolis' literally translated from the Greek means 'edge of a high city'. This acropolis is on the edge of which city?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Paris",
+        "Cairo"
+      ],
+      "sourceSha256": "5df9e26c185a64ef95ecebf336f020ac2379e4d0246b47cb954abd81d7b4ece5",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-143": {
+      "text": "What is the name of this piece of music?",
+      "choices": [
+        "'Morning Prelude'",
+        "'A Little Night Music'",
+        "'Evening Rhapsody'",
+        "'The Four Seasons'"
+      ],
+      "sourceSha256": "5af31a32e1a09a74a350df357991539e2150e33ae0b808af4b180243491fcd8b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-144": {
+      "text": "Name this musical composition by Mozart.",
+      "choices": [
+        "'A Musical Delight'",
+        "'A Musical Jest'",
+        "'A Musical Feast'",
+        "'A Musical Joke'"
+      ],
+      "sourceSha256": "8a8cb3212be90b3cbde9cc97b3191a813fac561ebdc5a6d763497c8a5c72571b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-145": {
+      "text": "How many purple merit badges were there above Rimmer's badge of rank?",
+      "choices": [
+        "None",
+        "1",
+        "2",
+        "3"
+      ],
+      "sourceSha256": "2d386a49eeb6e30432d5b45e1f0f64dc71f5e0f776a80f957e4d439236e45f9a",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-146": {
+      "text": "What was shown on the monitor behind Kryten?",
+      "choices": [
+        "Starbug",
+        "A star chart",
+        "'Driving Test'",
+        "'Auto Pilot'"
+      ],
+      "sourceSha256": "711ae69d3fe7bedda36fd0567365137c604c05e8a15df65156e4376c0e2c6f97",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-147": {
+      "text": "What was Kryten wearing on his left lapel?",
+      "choices": [
+        "A red rose",
+        "A pink carnation",
+        "A yellow rose",
+        "A blue orchid"
+      ],
+      "sourceSha256": "f2ae672d5583d22ccae603e6880bfbd94f53d898c1b6114d22ee2aafcf558aa7",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-148": {
+      "text": "What was written on the back wall?",
+      "choices": [
+        "Test Base",
+        "Space Corp",
+        "Captain",
+        "Fire Exit"
+      ],
+      "sourceSha256": "9f0b637e496aad07ff29900adaafe4c4c0af2ed27fe3de94fb22839b189ed8fd",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-149": {
+      "text": "Which decoration adorned Cat's jacket?",
+      "choices": [
+        "Silver chains",
+        "Gold chains",
+        "Silver rings",
+        "Gold rings"
+      ],
+      "sourceSha256": "a71d6aa1c1d3e4e236f5b09a422f7785df8458e427f18a71e10f5086c801e599",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-150": {
+      "text": "Which noise was the pipe supposed to make third?",
+      "choices": [
+        "Hununga",
+        "Nureek",
+        "Retut",
+        "Squilookle"
+      ],
+      "sourceSha256": "74aa95bdfed6eda0254f7c21d3b643f522e7a935e9b5751bb84ab11e02a014d6",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-151": {
+      "text": "What was Rimmer wearing on his right wrist?",
+      "choices": [
+        "An ID bracelet",
+        "A silver watch",
+        "A gold watch",
+        "Nothing"
+      ],
+      "sourceSha256": "96806227d2dd7d051169b28778a94beab997eecd3d514fdfa9c1bccd805be708",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-152": {
+      "text": "How many times did Rimmer get hit?",
+      "choices": [
+        "Once",
+        "Twice",
+        "3 times",
+        "4 times"
+      ],
+      "sourceSha256": "19c622dc194a401260979095b4813c1ffe34beb21d213778369f2670acbfab9b",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "gk-l8-153": {
+      "text": "Which colours were the lights flashing inside Kryten's head?",
+      "choices": [
+        "Red and green",
+        "Blue and green",
+        "Red and blue",
+        "Red and orange"
+      ],
+      "sourceSha256": "396619bee7a992ce6f0280142ac87222cf77cf754b53816c3f239af7acbd1bcc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "perfect-bonus-low": {
+      "text": "Who was the king of England from 1910 to 1936?",
+      "choices": [
+        "George V",
+        "George VI",
+        "Edward VII",
+        "Edward VIII"
+      ],
+      "sourceSha256": "a45ce7f1d7fcefcb6835b471f5540c3bc9c872707b4d059fcebdd49cafe5a828",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    },
+    "perfect-bonus-high": {
+      "text": "What is the speed of light?",
+      "choices": [
+        "15,389 miles per second",
+        "136,265 miles per second",
+        "186,282 miles per second",
+        "226,113 miles per second"
+      ],
+      "sourceSha256": "52ffb59790d76bc4047a499a67b2a7b288d77f0e6080779ede3938f79bc347dc",
+      "verified": true,
+      "verification": "manual-source-screen-review"
+    }
+  }
+}

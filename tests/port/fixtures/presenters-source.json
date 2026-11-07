@@ -1,0 +1,12 @@
+{
+  "provenance": "Independent source recon: VTS2 PGC8 postcommands split buttons at8; VTS2 PGC10 routes Hattie setup11/12/13; VTS10 PGC283 routes bonuses291..296",
+  "hattie": {
+    "general-knowledge": {"value":10102,"bonus":[291,292]},
+    "viewer": {"value":10202,"bonus":[293,294]},
+    "geek": {"value":10302,"bonus":[295,296]}
+  },
+  "presenterButtons": {"norman":[1,2,3,4,5,6,7,8],"hattie":[9,10,11,12,13,14,15,16]},
+  "hattieSetupPgcs": [[9,11,23],[9,12,23],[9,13,23]],
+  "hattieFirstIntroPgc":210,
+  "bonusIntroPgc":283
+}

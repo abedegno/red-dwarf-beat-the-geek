@@ -1,0 +1,16 @@
+[
+  "src/game/source.test.ts",
+  "src/game/twoPlayer.real.test.ts",
+  "src/game/game-source.test.ts",
+  "src/game/twoPlayerValidation.test.ts",
+  "src/game/mode-source.test.ts",
+  "src/game/presenter-source.test.ts",
+  "src/extras/complete.test.ts",
+  "src/extras/maze.real.test.ts",
+  "src/extras/source.test.ts",
+  "src/extras/vending.real.test.ts",
+  "src/extras/lager.real.test.ts",
+  "src/extras/legacyQuiz.real.test.ts",
+  "src/extras/memory.real.test.ts",
+  "src/extras/whack.real.test.ts"
+]

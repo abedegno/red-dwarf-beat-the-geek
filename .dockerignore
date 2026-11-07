@@ -1,0 +1,14 @@
+.git
+.superpowers
+analysis
+disc
+releases
+owner-workspace
+site
+**/node_modules
+**/dist*
+**/test-results*
+**/__pycache__
+app/public
+.env*
+tools/dvd/build
