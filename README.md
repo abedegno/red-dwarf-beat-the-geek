@@ -51,6 +51,8 @@ Start with a complete backup of the supported **UK PAL 2EDVD108** disc. The impo
 checks its exact fingerprint and source-file checksums; other editions are not yet
 supported. It never writes to your backup.
 
+See also the [Red Dwarf: Beat the Geek DVD entry on Internet Archive](https://archive.org/details/red-dwarf-beat-the-geek-dvd).
+
 Install the [native dependencies or container](docs/setup.md), then:
 
 ```sh
