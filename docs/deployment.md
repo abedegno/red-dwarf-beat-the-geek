@@ -59,3 +59,17 @@ Upload the complete `site/` directory together. Require HTTPS, JSON/PNG/MP4 MIME
 types and `Range: bytes=…` returning206 for MP4. Translate `_headers` to the host’s
 header configuration; do not use a blanket HTML SPA fallback for missing assets.
 Check the menu, an Archive game, captions and video seeking after deployment.
+
+## Cloudflare Pages video delivery limitation
+
+Cloudflare Pages currently ignores HTTP Range and returns the complete MP4 with
+HTTP 200, rather than a 206 byte interval. This is a
+[documented Pages limitation](https://developers.cloudflare.com/pages/configuration/serving-pages/).
+The game uses separate short, fast-start MP4 clips. Full-file responses can
+increase transfer and delay seeking on slow connections; this deployment does
+not provide byte-range streaming. Other hosts should support 206 responses.
+
+For the hosted acceptance suite on Pages, explicitly set
+`BTG_ALLOW_FULL_MEDIA_RESPONSE=1`. This accepts 200 only when the response is a
+complete MP4 with a correct length and identical bytes to an ordinary GET;
+the default check still requires 206. Playback checks remain enabled.

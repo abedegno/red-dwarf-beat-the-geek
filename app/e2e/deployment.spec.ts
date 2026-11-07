@@ -15,7 +15,7 @@ async function choose(page: import('@playwright/test').Page, name: string) {
   await button.click();
 }
 
-test('complete hosted catalog, missing-file404 and video byte ranges', async ({ page, request }) => {
+test('complete hosted catalog, missing-file404 and video delivery', async ({ page, request }) => {
   const data = await catalog(request);
   expect(Object.keys(data.modes)).toHaveLength(3);
   expect(Object.keys(data.hattieModes)).toHaveLength(3);
@@ -23,10 +23,22 @@ test('complete hosted catalog, missing-file404 and video byte ranges', async ({ 
   expect(data.extras.dataPath).toBeTruthy();
   const game = await (await request.get(data.modes['general-knowledge'].dataPath)).json();
   const response = await request.get(game.scenes[0].src, { headers: { Range: 'bytes=0-1023' } });
-  expect(response.status()).toBe(206);
   expect(response.headers()['content-type']).toContain('video/mp4');
-  expect(response.headers()['content-range']).toMatch(/^bytes 0-1023\//);
-  expect((await response.body()).length).toBe(1024);
+  if (response.status() === 200 && process.env.BTG_ALLOW_FULL_MEDIA_RESPONSE === '1') {
+    // Pages currently ignores Range. Require the complete, unchanged MP4;
+    // this explicit host exception must never accept a truncated response.
+    const complete = await request.get(game.scenes[0].src);
+    expect(complete.status()).toBe(200);
+    const body = await response.body();
+    expect(body.equals(await complete.body())).toBe(true);
+    expect(body.length).toBeGreaterThan(1024);
+    expect(Number(response.headers()['content-length'])).toBe(body.length);
+    expect(body.subarray(4, 8).toString()).toBe('ftyp');
+  } else {
+    expect(response.status()).toBe(206);
+    expect(response.headers()['content-range']).toMatch(/^bytes 0-1023\//);
+    expect((await response.body()).length).toBe(1024);
+  }
   expect((await request.get('/media/nonexistent-deployment-check.mp4')).status()).toBe(404);
   await page.goto('/');
   await expect(page.getByRole('button', { name: 'Play game', exact: true })).toBeVisible();

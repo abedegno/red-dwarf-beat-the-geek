@@ -27,7 +27,7 @@ cd ..
 GAME_URL=http://127.0.0.1:4173 npm --prefix app run test:e2e -- deployment.spec.ts --project=chrome
 ```
 
-It checks eight catalog datasets, HTTP206/404, partial-load failure, both presenters'
+It checks eight catalog datasets, video delivery/404, partial-load failure, both presenters'
 first quiz answer and two-player mode menus at original playback speed. Use your
 public HTTPS URL for the same checks after deployment. `extras-gateway.spec.ts`
 also works against packaged assets and checks captions and Archive navigation.
@@ -65,3 +65,6 @@ The historical filesystem-sector recovery test additionally needs optional
 `libdvdcss`; it is explicitly skipped when that library is absent. Owner conversion
 uses an already readable backup and does not need it. Missing-library error handling
 remains covered without that dependency.
+
+On Cloudflare Pages, set `BTG_ALLOW_FULL_MEDIA_RESPONSE=1` for its documented
+full-file video response; see [the deployment limitation](deployment.md#cloudflare-pages-video-delivery-limitation).
